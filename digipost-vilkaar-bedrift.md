@@ -263,10 +263,10 @@ Riktig postadresse til mottaker må oppgis ved innsending. Dokumentene må være
 
 Ved feil eller mangler vises det til Vilkårene. For den fysiske distribusjonen gjelder særskilt: Posten er ansvarlig for fysiske postsendinger som er skadet, kommet bort eller forsinket, dersom dette skyldes grov uaktsomhet fra Postens side. Med skadet menes en postsending som helt eller delvis har fått skadet sitt innhold. Med kommet bort menes en postsending som ikke er utlevert til adressaten, eller stilt til dennes rådighet, eller som avsenderen ikke har fått i retur. Med forsinket menes en postsending som ikke er utlevert/forsøkt utlevert til adressaten, eller stilt til dennes rådighet innen den tiden som er angitt å gjelde for den aktuelle postsendingen. Posten er ikke erstatningsansvarlig dersom skade, bortkomst eller forsinkelse skyldes:
 
-    Feil eller forsømmelse fra kundens side
-    Postsendingens egen beskaffenhet
-    Utilstrekkelig emballasje
-    Forhold som Posten verken kunne unngå eller avverge følgene av Posten er ikke ansvarlig for følgeskader 
+* Feil eller forsømmelse fra kundens side
+* Postsendingens egen beskaffenhet
+* Utilstrekkelig emballasje
+* Forhold som Posten verken kunne unngå eller avverge følgene av Posten er ikke ansvarlig for følgeskader 
 
 # Vilkår for betalingskort for bedrifter
 
