@@ -275,4 +275,8 @@ Generelt
 
 Digipost godtar betaling med bank- og kredittkort, inkludert MasterCard og Visa, gjennom en sikker betalingstjeneste. Betaling skjer via PayEx, der Brukeren må legge inn nødvendig kortinformasjon. Kortinformasjonen blir lagret hos PayEx for å forenkle fremtidige betalinger, som medfører at Brukeren unngår å måtte legge inn dette ved hvert kjøp eller fornyelse. Ved å legge inn gyldig kortinformasjon samtykker Brukeren samtidig til at beløpet for valgte abonnement kan trekkes automatisk ved kommende forfall. Brukeren forplikter seg til at kortet som legges inn er gyldig, at vedkommende kan disponere dette, og at det har tilstrekkelig dekning ved fremtidige forfall. Abonnementet vil løpe inntil brukeren avbestiller eller endrer dette, eller dersom det ikke lykkes å trekke avtalt beløp på forfall, ref. avsnitt om Mislighold.
 
+# Vilkår for bruk av digital signatur
+
+(UTESTÅENDE)
+
 Gyldighetsperiode: Fra 22. oktober 2015
