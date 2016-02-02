@@ -52,7 +52,7 @@ Brukeren kan logge seg på Digipost med BankID utstedt av hvilken som helst bank
 
 Sikkerhetsløsningene er beskyttet av et passord/kode og er personlig. Brukeren er selv ansvarlig for bruken. Det er derfor svært viktig at det brukes et unikt passord/kode og at det aldri oppgis eller skrives ned slik at uvedkommende kan utgi seg for å være Brukeren overfor Digipost. Passordet skal endres i samsvar med det som til enhver tid angis som krav til sikkerhetsløsningen.
 
-Brukeren er selv ansvarlig for tap som følge av at Brukeren har gitt sin Digipost- informasjon til andre eller at andre har fått slik tilgang som følge av bruk av delingsfunksjonaliteten i Digipost eller som følge av andre forhold på Brukerens side.
+Brukeren er selv ansvarlig for tap som følge av at Brukeren har gitt sin Digipost-informasjon til andre eller at andre har fått slik tilgang som følge av bruk av delingsfunksjonaliteten i Digipost eller som følge av andre forhold på Brukerens side.
 
 Brukeren forplikter seg til ikke å foreta ulovlig inntrengning i dataressurser som Digipost gir tilgang til eller på annen måte uberettiget å tilegne seg data eller informasjon. Det samme gjelder andre forsøk på å bryte sikkerheten eller unødvendig forstyrre andres bruk av Digipost. Dersom Brukeren får uforvarende tilgang til andre brukeres eller kunders data i Digipost, plikter Brukeren umiddelbart å varsle Posten skriftlig om tilfellet og slette eventuelle data som Brukeren har mottatt.
 
