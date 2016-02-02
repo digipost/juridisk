@@ -51,29 +51,25 @@ Posten signering vil også kunne lagre brukerens IP-adresse. En IP-adresse er et
 
 For at brukeren skal kunne logge seg på Posten signering, må brukeren benytte en allerede utstedt e-ID (Bank ID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Listen over tilgjengelige e-ID-er som benyttes i Posten signering vil kunne endre seg. Via brukerens e-ID vil Posten signering benytte fødselsnummer (11 siffer) for å identifisere brukeren.
 
-# REDIGERT HIT, FORTSETT HERFRA — MKB
+Brukerens fødselsnummer behandles utelukkende for autentisering av brukeren og for å sikre at brukeren er rett mottaker (identifisering) av meddelelser fra offentlige myndigheter, virksomheter og organisasjoner som har tillatelse til å sende meddelelser knyttet opp mot fødselsnummer som identifiseringsnøkkel.
 
-Digipost registrerer og oppbevarer brukerens fødselsnummer i forbindelse med opprettelsen av en Digipost-konto. Brukerens fødselsnummer behandles utelukkende for autentisering av brukeren og for å sikre at brukeren er rett mottaker (identifisering) av meddelelser fra offentlige myndigheter, virksomheter og organisasjoner som har tillatelse til å sende meddelelser knyttet opp mot fødselsnummer som identifiseringsnøkkel.
-
-Brukerens fødselsnummer vil ikke videreformidles, utleveres eller anvendes til andre formål enn Digipost med mindre den offentlige myndigheten, virksomheten eller organisasjonen har tillatelse til dette på annet grunnlag. Fødselsnummer videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på.
-
-Digipost benytter Posten Norge AS’ adresseregister for å kunne koble brukeren opp mot en fysisk adresse. Endrer brukeren adresse hos Posten Norge AS, vil den fysiske adressen brukeren knyttes opp mot i Digipost automatisk oppdateres.
+Brukerens fødselsnummer vil ikke videreformidles, utleveres eller anvendes til andre formål enn Posten signering med mindre den offentlige myndigheten, virksomheten eller organisasjonen har tillatelse til dette på annet grunnlag. Fødselsnummer videresendes elektronisk i de tilfeller hvor en via en link i Posten signering kan komme til en annen nettside og automatisk logges på.
 
 ## Utlevering til tredjepart
 
-Dersom det er en forutsetning for å sende, motta eller arkivere meddelelser, eller utføre andre tjenester i Digipost, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
+Dersom det er en forutsetning for å sende eller motta meddelelser, eller utføre andre tjenester i Posten signering, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
 
-Med unntak som følger av [avtalevilkårene](https://www.digipost.no/juridisk/), vil ikke personopplysninger bli utlevert til tredjepart for kommersiell bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter for å hjelpe til å bedre kunne forstå bruksmønster for ulike typer meddelelser, tilbud, annonsering og andre tjenester/funksjonalitet knyttet til Digipost.
+Med unntak som følger av avtalevilkårene, vil ikke personopplysninger bli utlevert til tredjepart for kommersiell bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter for å hjelpe til å bedre kunne forstå bruksmønster for ulike typer meddelelser, tilbud, annonsering og andre tjenester/funksjonalitet knyttet til Posten signering.
 
 ## Rett til innsyn, retting og sletting
 
-Etter personopplysningsloven har den enkelte rett til innsyn i egne personopplysninger. Dersom opplysninger på Digipost er feil, vil det være adgang til å få de rettet eller slettet. Alle opplysninger som er hentet fra brukeren, vil være tilgjengelige for brukeren via digipost-kontoen, og kan rettes av brukeren via Digipost-kontoen eller Postens tjeneste for adresseendring. Det tas forbehold om at enkelte endringer kan kreve godkjenning før de aktiveres i Digipost.
+Etter personopplysningsloven har den enkelte rett til innsyn i egne personopplysninger. Dersom opplysninger i Posten signering er feil, vil det være adgang til å få de rettet eller slettet. Alle opplysninger som er hentet fra brukeren, vil være tilgjengelige for brukeren.
 
 ## Informasjonssikkerhet
 
-Digipost har som mål å være den sikreste internettløsningen i Norge, og benytter anerkjente standarder og beste praksis i arbeidet med sikkerhet. Digipost gjennomfører jevnlig risikovurderinger og sikkerhetstester av løsningen, og rådfører seg også med Datatilsynet ved hver endring i løsningen som kan berøre personvernet.
+Posten signering har som mål å være den sikreste internettløsningen i Norge, og benytter anerkjente standarder og beste praksis i arbeidet med sikkerhet. Posten gjennomfører jevnlig risikovurderinger og sikkerhetstester av løsningen, og rådfører seg også med Datatilsynet ved hver endring i løsningen som kan berøre personvernet.
 
-Digipost har implementert følgende sikkerhetstiltak i løsningen (ikke uttømmende):
+Posten har implementert følgende sikkerhetstiltak i løsningen (ikke uttømmende):
 
 * Autentiseringsløsning på sikkerhetsnivå 4.
 * All informasjonsutveksling skjer med sterk kryptering (SSL, SSH).
@@ -81,47 +77,4 @@ Digipost har implementert følgende sikkerhetstiltak i løsningen (ikke uttømme
 * Alle handlinger som utføres av driftspersonell logges i egne hendelsesregistre.
 * Alle dokumenter ligger lagret kryptert, med sterke krypteringsnøkler.
 * Alle avsendere og mottakere blir identifisert etter strenge retningslinjer. Dette gjør at du alltid kan være sikker på hvilken avsender en meddelelse er sendt fra.
-* Digipost tjenere er plassert i et av Norges sikreste driftssentre, hos en leverandør som har lang erfaring med å håndtere virksomhetskritisk og sensitiv informasjon.
-* Det blir tatt sikkerhetskopi av alle dine dokumenter, og alle dokumenter blir lagret på to forskjellige steder til enhver tid slik at du er beskyttet mot brann, ødeleggelse av tjenere osv.
-* Digipost-ansatte har ikke tilgang til dine dokumenter. Det er kún et fåtall driftspersoner som har tilgang til Digipost sine systemer, men siden alle dokumenter ligger lagret kryptert, så har heller ikke disse innsyn i dine data. 
-
-## Personvern i Digipost sine app-er
-
-Digipost samler ikke inn brukerdata fra app-ene for iOS og Android. App-ene aksesserer således ingen data på brukerens enhet utover de data som ligger i app-en og som hentes via Digipost sin nettjeneste. I dette avsnittet utdypers vanlige spørsmål om hvordan Digipost sine app-er fungerer og hvilke data som aksesseres.
-Hva blir samlet inn av informasjon?
-
-App-en lagrer brukerens navn og passord som brukeren har registrert seg med i Digipost, inntil brukeren velger å logge ut. App-en laster ned brev, kvitteringer og dokumenter fra Digipost sine servere.
-
-### Hvor og hvordan blir informasjon lagret?
-
-App-en lagrer all informasjonen kryptert med AES256-kryptering med nøkler lagret i iOS Keychain.
-
-### Hvor lenge blir informasjonen lagret?
-
-Helt til brukeren sletter appen.
-
-### Hvilke rutiner finnes for sletting av informasjon?
-
-Brukeren kan selv velge å deaktivere sin konto i Digipost. Tre måneder etter deaktivering slettes all informasjon fra Digipost sine servere og vil ikke lenger være tilgjengelig i app-en.
-
-### Hva brukes informasjonen til (viderebruk)?
-
-Ingen viderebruk. All data ligger lukket (sandbox-et) i app-en, og er utilgjengelig for andre apper.
-
-### Knyttes informasjonen til person eller blir den anonymisert?
-
-All informasjon knyttes til den registrerte Digipost-brukeren.
-
-### Får brukeren beskjed om hva slags informasjon som blir innhentet, samt formålet?
-
-Ja, gjennom denne personvernerklæringen.
-
-### Må brukeren akseptere vilkår for å installere App-en?
-
-Det er ingen vilkår for å innstallere app-en, men app-en fungerer kun for registrerte brukere og følger de generelle brukervilkårene for Digipost.
-
-### Annen logging og innsending av informasjon
-
-Det logges kall mot Digipost sine servere, hvilket er normalt for alle web-tjenester. Disse loggene oppbevares i ca. to måneder, før de slettes.
-
-Dersom app-en krasjer vil brukerne bli spurt om de ønsker å sende informasjon om dette til oss. Da sendes aggregerte krasjlogger. Disse loggene er anonymiserte og benyttes kun til feilsøking.
+* Postens tjenere er plassert i et av Norges sikreste driftssentre, hos en leverandør som har lang erfaring med å håndtere virksomhetskritisk og sensitiv informasjon.
