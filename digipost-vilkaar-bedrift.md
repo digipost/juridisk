@@ -62,6 +62,12 @@ Avsendere av Meddelelser i Digipost kan be om varsel om at Meddelelser er åpnet
 
 I tilfeller hvor tidspunktet Meddelelsen er sendt av avsender kan være av betydning for avsender, mottaker eller andre, skal tidspunktet angitt av avsender i Meddelelsen eller på annen måte, og ikke tidspunktet angitt for sending eller mottak i Digipost, legges til grunn.
 
+### 4.4 Vilkår for bruk av digital signatur
+
+Gjennom denne avtalen gir Posten Norge AS kunden tilgang til tjenesten Posten signering for digital signering av dokumenter. Kunden kan sende og motta dokumenter, enten gjennom Digipost eller Posten signering, som skal signeres digitalt. For sending av dokumenter som skal signeres digitalt gjelder egne priser som er tilgjengelig på digipost.no.
+
+Kunden vil kunne motta dokumenter som skal signeres digitalt. Kunden kan signere slike dokumenter digitalt ved bruk av en allerede utstedt e-ID (Bank ID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Listen over tilgjengelige e-ID-er som benyttes vil kunne endre seg. Inntil dokumentet er signert vil det være den som har sendt dokumentet til kunden som er behandlingsansvarlig for dokumentet. Etter signering får kunden en kopi av det signerte dokumentet i sin digitale postkasse i Digipost.
+
 ## 5. Postens plikter og rettigheter
 
 Posten er ansvarlig for utføring av de oppdrag som Kunden iverksetter i henhold til disse Vilkårene. Postens ansvar omfatter ikke feil, mangler eller driftsforstyrrelser knyttet til Kundens valgte autentiseringsløsning (BankID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten), utstyr, programvare, tilgang til eller overføring over internett.
@@ -274,9 +280,5 @@ Følgende er tilleggsvilkår til «Avtalevilkår for bruk av Digipost for bedrif
 Generelt
 
 Digipost godtar betaling med bank- og kredittkort, inkludert MasterCard og Visa, gjennom en sikker betalingstjeneste. Betaling skjer via PayEx, der Brukeren må legge inn nødvendig kortinformasjon. Kortinformasjonen blir lagret hos PayEx for å forenkle fremtidige betalinger, som medfører at Brukeren unngår å måtte legge inn dette ved hvert kjøp eller fornyelse. Ved å legge inn gyldig kortinformasjon samtykker Brukeren samtidig til at beløpet for valgte abonnement kan trekkes automatisk ved kommende forfall. Brukeren forplikter seg til at kortet som legges inn er gyldig, at vedkommende kan disponere dette, og at det har tilstrekkelig dekning ved fremtidige forfall. Abonnementet vil løpe inntil brukeren avbestiller eller endrer dette, eller dersom det ikke lykkes å trekke avtalt beløp på forfall, ref. avsnitt om Mislighold.
-
-# Vilkår for bruk av digital signatur
-
-(UTESTÅENDE)
 
 Gyldighetsperiode: Fra 22. oktober 2015
