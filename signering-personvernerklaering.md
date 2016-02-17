@@ -6,15 +6,15 @@ For Posten Norge AS er ditt personvern og din datasikkerhet det aller viktigste,
 * på riktig måte, i henhold til egne erklæringer
 * på lovlig vis, i samsvar med gjeldende lover og forskrifter om personvern og informasjonssikkerhet 
 
-Dokumenter som du mottar til signering i Posten signering er å anse som avsenders eiendom inntil dokumentet er signert. Etter signering blir du tilbudt et ferdig signert dokument som blir din eiendom. Dette må du laste ned til din egen private datamaskin eller opprette en digital postkasse i Digipost for oppbevaring. I Digipost gjelder egen personvernerklæring.
+Dokumenter som du mottar til signering i Posten signering er å anse som avsenders eiendom inntil dokumentet er signert. Etter signering blir du tilbudt en kopi av det ferdig signerte dokumentet som blir din eiendom. Dette må du laste ned til din egen private datamaskin eller opprette en digital postkasse i Digipost for oppbevaring. I Digipost gjelder egne vilkår og egen personvernerklæring.
 
 ## Behandlingsansvarlig
 
-Posten vil behandle personopplysninger som følge av at brukeren benytter Posten signering og vil ved all behandling av personopplysninger følge bestemmelsene i personopplysningsloven av 14. april 2000 nr. 31. Behandlingsansvarlig er Posten Norge AS, Postboks 1500 Sentrum, 0001 Oslo.
+Det er virksomhetene som benytter Posten signering som er behandlingsansvarlig for alle data som lagres i tjenesten. Posten Norge AS er databehandler på vegne av disse virksomhetene. De personopplysninger som lagres som følger av at brukeren benytter Posten signering gjøres på vegne av virksomhetene. All behandling av personopplysninger følger bestemmelsene i personopplysningsloven av 14. april 2000 nr. 31.
 
 ## Formålet med behandlingen av opplysningene
 
-Formålet med behandling av personopplysninger i Posten signering er å oppfylle de rettigheter og plikter som følger av avtalevilkårene for Posten signering. Formålet er videre å administrere og videreutvikle tjenestene, å gjennomføre autentiseringsprosesser, diagnostisere problemer i Posten signering og tilhørende systemer, å utvikle nye ideer og tjenester, samt å kommunisere med brukeren. Personopplysninger vil også kunne bli benyttet til å rette markedsføringshenvendelser til brukeren i henhold til avtalevilkårene og personopplysningslovens og markedsføringslovens bestemmelser.
+Formålet med behandling av personopplysninger i Posten signering er å kunne gjennomføre signeringsoppdrag på vegne av virksomhetene som benytter Posten signering. Formålet er videre å gjennomføre autentiseringsprosesser, diagnostisere problemer i Posten signering og tilhørende systemer, samt å utvikle nye ideer og tjenester.
 
 ## Opplysningskategorier som behandles
 
@@ -45,7 +45,7 @@ Ved bruk av Posten signering samles det også inn opplysninger som ikke kan knyt
 
 Posten signering benytter cookies for innsamling av statistikk. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Det foretas ikke identifisering av den enkelte bruker som person i forbindelse med anvendelsen av cookies. Brukeren kan ved å endre innstillingene i sin nettleser velge å avstå fra bruk av cookies. For å logge på og benytte Posten signering er det derimot en forutsetning at cookies aksepteres. Posten signering vil også kunne benytte tilsvarende teknologi som cookies, som ”web-beacons”, ”pixel tags” mv. samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden.
 
-Posten signering vil også kunne lagre brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett. Brukerens IP-adresse vil kun bli benyttet til statistiske formål og til innsamling av demografisk informasjon i vid forstand, og vil derfor ikke kunne knyttes til brukeren eller kunden.
+Posten signering vil også kunne lagre brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett. Brukerens IP-adresse vil kun bli benyttet til statistiske formål og til innsamling av demografisk informasjon i vid forstand, og vil derfor ikke kunne knyttes til brukeren.
 
 ### Bruk av fødselsnummer
 
@@ -59,11 +59,9 @@ Brukerens fødselsnummer vil ikke videreformidles, utleveres eller anvendes til 
 
 Dersom det er en forutsetning for å sende eller motta meddelelser, eller utføre andre tjenester i Posten signering, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
 
-Med unntak som følger av avtalevilkårene, vil ikke personopplysninger bli utlevert til tredjepart for kommersiell bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter for å hjelpe til å bedre kunne forstå bruksmønster for ulike typer meddelelser, tilbud, annonsering og andre tjenester/funksjonalitet knyttet til Posten signering.
-
 ## Rett til innsyn, retting og sletting
 
-Etter personopplysningsloven har den enkelte rett til innsyn i egne personopplysninger. Dersom opplysninger i Posten signering er feil, vil det være adgang til å få de rettet eller slettet. Alle opplysninger som er hentet fra brukeren, vil være tilgjengelige for brukeren.
+Etter personopplysningsloven har den enkelte rett til innsyn i egne personopplysninger. Dersom opplysninger i Posten signering er feil, må brukeren kontakte virksomheten som besitter opplysningene som er feil, da det er virksomheten som er behandlingsansvarlig for data i Posten signering. Alle opplysninger som er hentet fra brukeren, vil via virksomheten som er behandlingsansvarlig være tilgjengelige for brukeren.
 
 ## Informasjonssikkerhet
 
