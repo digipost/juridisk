@@ -56,7 +56,7 @@ Brukeren er selv ansvarlig for tap som følge av at Brukeren har gitt sin Digipo
 
 Brukeren forplikter seg til ikke å foreta ulovlig inntrengning i dataressurser som Digipost gir tilgang til eller på annen måte uberettiget å tilegne seg data eller informasjon. Det samme gjelder andre forsøk på å bryte sikkerheten eller unødvendig forstyrre andres bruk av Digipost. Dersom Brukeren får uforvarende tilgang til andre brukeres eller kunders data i Digipost, plikter Brukeren umiddelbart å varsle Posten skriftlig om tilfellet og slette eventuelle data som Brukeren har mottatt.
 
-Posten overvåker ikke innholdet i Meddelelser som sendes til, mottas eller arkiveres i Digipost-postkassen, og er således ikke ansvarlig for Meddelelsenes innhold og form, samt innhold i eventuelle lenker. Posten er heller ikke ansvarlig for feil, mangler og/eller uønskede egenskaper ved aktuelle data, filvedlegg, lenker mv.
+Posten overvåker ikke innholdet i Meddelelser som sendes til, mottas, signeres eller arkiveres i Digipost-postkassen, og er således ikke ansvarlig for Meddelelsenes innhold og form, samt innhold i eventuelle lenker. Posten er heller ikke ansvarlig for feil, mangler og/eller uønskede egenskaper ved aktuelle data, filvedlegg, lenker mv.
 
 Nødvendige personlige opplysninger som Digipost har om Brukeren skal til enhver tid være oppdatert. Brukeren skal selv varsle om endring av e-postadresse, kredittkortinformasjon og andre forhold av betydning for bruk av Digipost ved å logge inn på www.digipost.no og endre dette under personlige innstillinger.
 
