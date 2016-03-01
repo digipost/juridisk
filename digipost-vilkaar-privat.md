@@ -10,7 +10,7 @@ Vilkårene gjelder Brukerens bruk av Digipost for rent personlige eller andre pr
 
 ## 1 OM DIGIPOST
 
-Digipost gir adgang til å sende, motta og arkivere informasjon og data («Meddelelser») i elektronisk form fra registrerte brukere av tjenesten (eksempelvis offentlige myndigheter, virksomheter, organisasjoner og privatpersoner). Før Brukeren får tilgang til Digipost, vil følgende opplysninger bli innsamlet i registreringsprosessen:
+Digipost gir adgang til å sende, motta, signere og arkivere informasjon og data («Meddelelser») i elektronisk form fra registrerte brukere av tjenesten (eksempelvis offentlige myndigheter, virksomheter, organisasjoner og privatpersoner). Før Brukeren får tilgang til Digipost, vil følgende opplysninger bli innsamlet i registreringsprosessen:
 
 * Navn
 * Fødselsnummer
