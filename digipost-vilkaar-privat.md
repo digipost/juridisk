@@ -78,10 +78,6 @@ Avsendere av Meddelelser i Digipost kan be om varsel om at Meddelelser er åpnet
 
 Brukere av Elektronisk Kvittering vil ikke varsles ved mottak av nye kvitteringer.
 
-### 4.4 Digital signering av dokumenter
-
-Brukeren vil kunne motta dokumenter i Digipost som skal signeres digitalt. Brukeren kan signere slike dokumenter digitalt ved bruk av en allerede utstedt e-ID (Bank ID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Listen over tilgjengelige e-ID-er som benyttes vil kunne endre seg. Inntil dokumentet er signert vil det være virksomheten som har sendt dokumentet til brukeren som er behandlingsansvarlig for dokumentet. Etter signering får brukeren en kopi av det signerte dokumentet i sin digitale postkasse i Digipost.
-
 
 ## 5 POSTENS PLIKTER OG RETTIGHETER
 
