@@ -4,15 +4,17 @@ Avtalevilkår for bruk av Digipost for bedrifter, organisasjoner, mv. Nedenfor f
 
 ## 1. Om Digipost
 
-Digipost gir adgang til å sende, motta og arkivere informasjon og data («Meddelelser») i elektronisk form til registrerte brukere av tjenesten. Før Kunden får tilgang til Digipost, skal Kunden gi følgende opplysninger til Posten (se forsiden av avtalen):
+Digipost gir adgang til å sende, motta og arkivere informasjon og data («Meddelelser») i elektronisk form til registrerte brukere av tjenesten. Før Kunden får tilgang til Digipost, skal Kunden gi følgende opplysninger til Posten:
 
 Foretaksnavn, forretningsadresse (gateadresse), postadresse, fakturaadresse og organisasjonsnummer til Kunden, og navn og fødselsnummer til kontaktperson som har rett til å forplikte Kunden.
 
-Postens formidling av Meddelelser via Digipost er basert på sikker identifisering av sender, mottaker og deres fysiske postadresser. Det er derfor nødvendig at Kunden gir riktige opplysninger for å oppfylle avtaleforholdet etter disse Vilkårene.
+Postens formidling av Meddelelser via Digipost er basert på sikker identifisering av sender og mottaker. Det er derfor nødvendig at Kunden gir riktige opplysninger for å oppfylle avtaleforholdet etter disse Vilkårene.
 
 ## 2. Pris- og faktureringsbestemmelser
 
 Pris for bruk av Digipost følger av «Prisliste Digipost» og er angitt i norske kroner eksklusiv merverdiavgift. Betaling skjer elektronisk i løsningen ved bestilling om det ikke er avtalt at betaling skal skje etterskuddsvis. I sistnevnte tilfelle gjelder generelle betalingsbetingelser for Posten Norge AS.
+
+Digipost godtar betaling med bank- og kredittkort, inkludert MasterCard og Visa, gjennom en sikker betalingstjeneste. Kortinformasjonen blir lagret for å forenkle fremtidige betalinger, som medfører at Kunden unngår å måtte legge inn dette ved hvert kjøp eller fornyelse. Ved kjøp av abonnementstjenester samtykker Kunden samtidig til at beløpet for valgte abonnement kan trekkes automatisk ved kommende forfall ved å legge inn gyldig kortinformasjon. Kunden forplikter seg til at kortet som legges inn er gyldig, at vedkommende kan disponere dette, og at det har tilstrekkelig dekning ved fremtidige forfall. Abonnementet vil løpe inntil Kunden avbestiller eller endrer dette, eller dersom det ikke lykkes å trekke avtalt beløp på forfall, jf. avsnitt om Mislighold.
 
 ## 3. Tjenestenivå
 
@@ -50,7 +52,7 @@ Kunden plikter å identifisere eller merke Meddelelser på den måten som Posten
 
 Bestemmelsene i dette punkt 4.3 kommer bare anvendelse i den utstrekning Posten tilbyr Kunden funksjoner i Digipost for å motta og arkivere Meddelelser.
 
-Kunden gir tillatelse til at alle potensielle avsendere, inkludert offentlige myndigheter, virksomheter, organisasjonerog privatpersoner, kan benytte Digipost for kommunikasjon med Kunden. Posten vil sende Meddelelser til Kunden blant annet om ny funksjonalitet, driftsinformasjon og annen informasjon knyttet til Digipost. Kunden er inneforstått med og aksepterer at Digipost når avsender benytter tjenesten, kan erstatte tilsvarende kommunikasjon med avsender via ordinær post til Kundens fysiske postkasse/postboks. Kunden gir videre Posten tillatelse til å benytte Digipost og den e-postadresse som Kunden har oppgitt ved registrering, til å rette markedsføringshenvendelser og andre henvendelser til Kunden, og til å utlevere grunndata (navn, adresse, telefonnummer og fødselsdato) til tredjepart for bruk ved markedsføringshenvendelser (adressemekling). Kunden kan stenge for andre kunders og brukeres søk etter Kundens adresse i Digipost eller ethvert mottak av Meddelelser fra offentlige myndigheter, virksomheter, organisasjoner og privatpersoner, eller reservere seg mot markedsføringshenvendelser fra Posten eller tredjepart, ved å endre innstillingene for dette i Digipost.
+Kunden gir tillatelse til at alle potensielle avsendere, inkludert offentlige myndigheter, virksomheter, organisasjoner og privatpersoner, kan benytte Digipost for kommunikasjon med Kunden. Posten vil sende Meddelelser til Kunden blant annet om ny funksjonalitet, driftsinformasjon og annen informasjon knyttet til Digipost. Kunden er inneforstått med og aksepterer at Digipost når avsender benytter tjenesten, kan erstatte tilsvarende kommunikasjon med avsender via ordinær post til Kundens fysiske postkasse/postboks. Kunden gir videre Posten tillatelse til å benytte Digipost og den e-postadresse som Kunden har oppgitt ved registrering, til å rette markedsføringshenvendelser og andre henvendelser til Kunden, og til å utlevere grunndata (navn, adresse, telefonnummer og fødselsdato) til tredjepart for bruk ved markedsføringshenvendelser (adressemekling). Kunden kan stenge for andre kunders og brukeres søk etter Kundens adresse i Digipost eller ethvert mottak av Meddelelser fra offentlige myndigheter, virksomheter, organisasjoner og privatpersoner, eller reservere seg mot markedsføringshenvendelser fra Posten eller tredjepart, ved å endre innstillingene for dette i Digipost.
 
 Uavhengig av dette vil Kunden ha tilgang til tilbud og annen annonsering, inkludert annonsering basert på opplysninger om den geografiske beliggenheten til Kundens forretningsadresse (gateadresse) mv. ( jf. punkt 8.7 nedenfor), fra virksomheter og andre under en egen fane for tilbud i Digipost, med mindre Kunden stenger for egen tilgang til denne fanen ved å endre i innstillingene for dette i Digipost.
 
@@ -61,12 +63,6 @@ Kunden er videre selv ansvarlig for å ha løpende oversikt over nye Meddelelser
 Avsendere av Meddelelser i Digipost kan be om varsel om at Meddelelser er åpnet av Kunden og om åpningen fant sted innen et nærmere angitt tidspunkt/dato for åpningen. Slike Meddelelser vil være merket spesielt.
 
 I tilfeller hvor tidspunktet Meddelelsen er sendt av avsender kan være av betydning for avsender, mottaker eller andre, skal tidspunktet angitt av avsender i Meddelelsen eller på annen måte, og ikke tidspunktet angitt for sending eller mottak i Digipost, legges til grunn.
-
-### 4.4 Vilkår for bruk av digital signatur
-
-Gjennom denne avtalen gir Posten Norge AS kunden tilgang til tjenesten Posten signering for digital signering av dokumenter. Kunden kan sende og motta dokumenter, enten gjennom Digipost eller Posten signering, som skal signeres digitalt. For sending av dokumenter som skal signeres digitalt gjelder egne priser som er tilgjengelig på digipost.no.
-
-Kunden vil kunne motta dokumenter som skal signeres digitalt. Kunden kan signere slike dokumenter digitalt ved bruk av en allerede utstedt e-ID (Bank ID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Listen over tilgjengelige e-ID-er som benyttes vil kunne endre seg. Inntil dokumentet er signert vil det være den som har sendt dokumentet til kunden som er behandlingsansvarlig for dokumentet. Etter signering får kunden en kopi av det signerte dokumentet i sin digitale postkasse i Digipost.
 
 ## 5. Postens plikter og rettigheter
 
@@ -240,21 +236,21 @@ Dersom Kunden slettes i Enhetsregisteret og/eller Foretaksregisteret, vil Kunden
 
 Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom Posten og Kunden skal søkes løst i minnelighet. Dersom det ikke lar seg gjøre, kan hver av partene bringe tvisten inn for de ordinære domstoler med Oslo tingrett som eksklusivt verneting.
 
-# Tilleggsvilkår bedrift — Digipost sikker print
+# Tilleggsvilkår bedrift — sikker print
 
 Følgende vilkår er tilleggsvilkår til «Avtalevilkår for bruk av Digipost for bedrifter, organisasjoner, mv.».
 
-## 1. Om Digipost Print
+## 1. Om Digipost print
 
-Gjennom løsningen Digipost Print vil Kunden få full distribusjon av sine brev. Brev til mottakere som er brukere av Digipost vil bli distribuert digitalt. Brev til mottakere som ikke har en digital postkasse i Digipost, vil bli printet og distribuert fysisk gjennom Posten.
+Gjennom løsningen Digipost print vil Kunden få full distribusjon av sine brev. Brev til mottakere som er brukere av Digipost vil bli distribuert digitalt. Brev til mottakere som ikke har en digital postkasse i Digipost, vil bli printet og distribuert fysisk gjennom Posten.
 
 ## 2. Pris og faktureringsbestemmelser
 
-Forsendelser til brukere som har en digital postkasse følger den til enhver tid gjeldende prisliste for digitale forsendelser. Pris for bruk av Digipost Print følger av den til enhver tid gjeldende «Prisliste Digipost Print». Prisene er angitt i norske kroner eksklusiv merverdiavgift.
+Forsendelser til brukere som har en digital postkasse følger den til enhver tid gjeldende prisliste for digitale forsendelser. Pris for bruk av Digipost print følger av den til enhver tid gjeldende «Prisliste Digipost print». Prisene er angitt i norske kroner eksklusiv merverdiavgift.
 
 ## 3. Produktbeskrivelse
 
-Alle dokumenter som skal distribueres må være i PDF-format versjon 1.5 eller nyere, se også punkt 5 om de spesifikke krav til forsendelsene. PDF-dokumenter blir printet as-is i A4 portrettformat. Fonter som ikke er standard Windows-fonter må følge med dokumentet. Alle andre fonter enn standard-fonter vil automatisk bli erstattet hvis PDF-dokumentet refererer til fonten. Dokumentene printes i sort-hvitt med kvalitet på 300 dpi. Alle ark printes tosidig. Dokumentene pakkes i en standard C4-konvolutt med ett stort vindu (9,8 cm b x 6,5 cm h) med maks kapasitet på 7 ark per konvolutt. Siden et av arkene benyttes til adressering så er det kun 6 ark (12 sider) som kan benyttes til print av innhold. Det vil fremgå av konvolutten at brevet er distribuert gjennom Digipopst. For hvert brev printer Digipost et adresseark der mottakeradresse og returadresse fremgår. Arket er ellers uten innhold og det legges inn mot vinduet i konvolutten. Mottakeradressen printes som Arial 12 pt og returadressen skrives i Arial 10 pt med enkel linjeavstand på adressearket. Utsending til print skjer en gang pr. virkedag. Forsendelser som mottas av Posten/Digipost før kl. 19.00 vil normalt være klart for fysisk distribusjon via Posten Norge neste virkedag. Brevet vil bli distribuert som B-post, med fremsendingstid 3-5 dager etter innlevering innenlands, og 4-14 dager utenlands. Porto for B-post er inkludert i produktet, jf. prislisten. En unik brevID blir printet på hvert ark for enklere sporing av forsendelsen. Sendinger med ukjent adressat, eller som adressaten ikke ønsker å motta, returneres om mulig til avsender. For de fleste postsendinger kan avsenderen, så lenge sendingen ikke er utlevert til adressaten og mot betaling av et gebyr, kreve:
+Alle dokumenter som skal distribueres må være i PDF-format versjon 1.5 eller nyere, se også punkt 5 om de spesifikke krav til forsendelsene. PDF-dokumenter blir printet as-is i A4 portrettformat. Fonter som ikke er standard Windows-fonter må følge med dokumentet. Alle andre fonter enn standard-fonter vil automatisk bli erstattet hvis PDF-dokumentet refererer til fonten. Dokumentene printes i sort-hvitt med kvalitet på 300 dpi. Alle ark printes tosidig. Dokumentene pakkes i en standard C4 eller C5-konvolutt med ett stort vindu (9,8 cm b x 6,5 cm h). Det vil fremgå av konvolutten at brevet er distribuert gjennom Digipopst. For hvert brev printer Digipost et adresseark der mottakeradresse og returadresse fremgår. Det er det første arket som benyttes til adressering. Arket er ellers uten innhold og det legges inn mot vinduet i konvolutten. Mottakeradressen printes som Arial 12 pt og returadressen skrives i Arial 10 pt med enkel linjeavstand på adressearket. Utsending til print skjer en gang pr. virkedag. Forsendelser som mottas av Posten/Digipost før kl. 19.00 vil normalt være klart for fysisk distribusjon via Posten Norge neste virkedag. En unik brevID blir printet på hvert ark for enklere sporing av forsendelsen. Sendinger med ukjent adressat, eller som adressaten ikke ønsker å motta, returneres om mulig til avsender. For de fleste postsendinger kan avsenderen, så lenge sendingen ikke er utlevert til adressaten og mot betaling av et gebyr, kreve:
 
 * Sendingen returnert til avsenderen (tilbakekalling)
 * Endring/oppretting av adresse underveis 
@@ -263,7 +259,7 @@ Navn på adressat kan ikke endres under fremsending. Brevpost utleveres til adre
 
 ## 4. Spesifikke krav til forsendelsene
 
-Riktig postadresse til mottaker må oppgis ved innsending. Dokumentene må være i PDFformat versjon 1.5 eller nyere. Alle dokumentsider må ha 2,5 cm marg på venstre side for påtrykk av strekkode. Returadresse må være spesifisert ved innsending. Dokumenter kan ha maks 12 sider. Forsendelser med flere enn 12 sider vil ikke bli printet eller distribuert.
+Riktig postadresse til mottaker må oppgis ved innsending. Dokumentene må være i PDFformat versjon 1.5 eller nyere. Alle dokumentsider må ha 2,5 cm marg på venstre side for påtrykk av strekkode. Returadresse må være spesifisert ved innsending.
 
 ## 5. Feil eller mangler
 
@@ -274,11 +270,25 @@ Ved feil eller mangler vises det til Vilkårene. For den fysiske distribusjonen 
 * Utilstrekkelig emballasje
 * Forhold som Posten verken kunne unngå eller avverge følgene av Posten er ikke ansvarlig for følgeskader 
 
-# Vilkår for betalingskort for bedrifter
+# Tilleggsvilkår bedrift — digital signatur
 
-Følgende er tilleggsvilkår til «Avtalevilkår for bruk av Digipost for bedrifter, organisasjoner, mv.».
-Generelt
+Følgende vilkår er tilleggsvilkår til «Avtalevilkår for bruk av Digipost for bedrifter, organisasjoner, mv.».
 
-Digipost godtar betaling med bank- og kredittkort, inkludert MasterCard og Visa, gjennom en sikker betalingstjeneste. Betaling skjer via PayEx, der Brukeren må legge inn nødvendig kortinformasjon. Kortinformasjonen blir lagret hos PayEx for å forenkle fremtidige betalinger, som medfører at Brukeren unngår å måtte legge inn dette ved hvert kjøp eller fornyelse. Ved å legge inn gyldig kortinformasjon samtykker Brukeren samtidig til at beløpet for valgte abonnement kan trekkes automatisk ved kommende forfall. Brukeren forplikter seg til at kortet som legges inn er gyldig, at vedkommende kan disponere dette, og at det har tilstrekkelig dekning ved fremtidige forfall. Abonnementet vil løpe inntil brukeren avbestiller eller endrer dette, eller dersom det ikke lykkes å trekke avtalt beløp på forfall, ref. avsnitt om Mislighold.
+## 1. Om Posten signering
 
-Gyldighetsperiode: Fra 22. oktober 2015
+Gjennom denne avtalen gir Posten Norge AS kunden tilgang til tjenesten Posten signering for digital signering av dokumenter. Kunden kan sende og motta dokumenter som skal signeres digitalt, enten gjennom Digipost, i Postens signeringsportal eller integrert i egen virksomhetsportal.
+
+## 2. Pris og faktureringsbestemmelser
+
+Pris for bruk av Posten Signering følger av den til enhver tid gjeldende «Prisliste Posten signering». Prisene er angitt i norske kroner eksklusiv merverdiavgift.
+
+## 3. Produktbeskrivelse
+
+Kunden vil med Posten signering kunne sende dokumenter som skal signeres digitalt. Mottakeren av slike dokumenter kan signere ved bruk av en allerede utstedt e-ID (Bank ID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Listen over tilgjengelige e-ID-er som benyttes vil kunne endre seg. Kunden plikter å identifisere eller merke forsendelsen på den måten som Posten til enhver tid krever.
+
+Posten er å anse som databehandler for personopplysninger som Kunden er behandlingsansvarlig for og som inngår i Posten signering, jf kapittel 8.1 i de generelle vilkårene. Posten er ikke behandlingsansvarlig for noen opplysninger i Posten Signering, 
+
+Etter signering er gjennomført får Kunden det ferdig signerte dokumentet. Dette kan lastes ned eller arkiveres i Digipost. Personen(e) som har signert dokumentet får på tilsvarende måte tilgang til en kopi av det signerte dokumentet, som de kan laste ned eller arkivere i Digipost.
+
+
+Gyldighetsperiode: Fra 15. mars 2016
