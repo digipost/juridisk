@@ -246,20 +246,17 @@ Gjennom løsningen Digipost print vil Kunden få full distribusjon av sine brev.
 
 ## 2. Pris og faktureringsbestemmelser
 
-Forsendelser til brukere som har en digital postkasse følger den til enhver tid gjeldende prisliste for digitale forsendelser. Pris for bruk av Digipost print følger av den til enhver tid gjeldende «Prisliste Digipost print». Prisene er angitt i norske kroner eksklusiv merverdiavgift.
+Forsendelser til brukere som har en digital postkasse følger den til enhver tid gjeldende prisliste for digitale forsendelser. Pris for bruk av Digipost print følger av den til enhver tid gjeldende prisliste. Prisene er angitt i norske kroner eksklusiv merverdiavgift.
 
 ## 3. Produktbeskrivelse
 
-Alle dokumenter som skal distribueres må være i PDF-format versjon 1.5 eller nyere, se også punkt 5 om de spesifikke krav til forsendelsene. PDF-dokumenter blir printet as-is i A4 portrettformat. Fonter som ikke er standard Windows-fonter må følge med dokumentet. Alle andre fonter enn standard-fonter vil automatisk bli erstattet hvis PDF-dokumentet refererer til fonten. Dokumentene printes i sort-hvitt med kvalitet på 300 dpi. Alle ark printes tosidig. Dokumentene pakkes i en standard C4 eller C5-konvolutt med ett stort vindu (9,8 cm b x 6,5 cm h). Det vil fremgå av konvolutten at brevet er distribuert gjennom Digipopst. For hvert brev printer Digipost et adresseark der mottakeradresse og returadresse fremgår. Det er det første arket som benyttes til adressering. Arket er ellers uten innhold og det legges inn mot vinduet i konvolutten. Mottakeradressen printes som Arial 12 pt og returadressen skrives i Arial 10 pt med enkel linjeavstand på adressearket. Utsending til print skjer en gang pr. virkedag. Forsendelser som mottas av Posten/Digipost før kl. 19.00 vil normalt være klart for fysisk distribusjon via Posten Norge neste virkedag. En unik brevID blir printet på hvert ark for enklere sporing av forsendelsen. Sendinger med ukjent adressat, eller som adressaten ikke ønsker å motta, returneres om mulig til avsender. For de fleste postsendinger kan avsenderen, så lenge sendingen ikke er utlevert til adressaten og mot betaling av et gebyr, kreve:
+Alle dokumenter som skal distribueres må være i PDF-format versjon 1.5 eller nyere, se også punkt 5 om de spesifikke krav til forsendelsene. PDF-dokumenter blir printet as-is i A4 portrettformat. Fonter som ikke er standard Windows-fonter må følge med dokumentet. Alle andre fonter enn standard-fonter vil automatisk bli erstattet hvis PDF-dokumentet refererer til fonten. Dokumentene printes i sort-hvitt eller farge med kvalitet på 300 dpi. Alle ark printes tosidig. Dokumentene pakkes i en standard C4- eller C5-konvolutt med ett stort vindu (105 mm x 70 mm). Det vil fremgå av konvolutten at brevet er distribuert gjennom Digipopst. For hvert brev printer Digipost et adresseark der mottakeradresse og returadresse fremgår. Det er det første arket som benyttes til adressering. Arket er ellers uten innhold og det legges inn mot vinduet i konvolutten. Utsending til print skjer en gang pr. virkedag. Forsendelser som mottas av Posten/Digipost før kl. 19.00 vil normalt være klart for fysisk distribusjon via Posten Norge neste virkedag. En unik ID for brevet blir printet på hvert ark for enklere sporing av forsendelsen. Sendinger med ukjent adressat, eller som adressaten ikke ønsker å motta, returneres om mulig til avsender. 
 
-* Sendingen returnert til avsenderen (tilbakekalling)
-* Endring/oppretting av adresse underveis 
-
-Navn på adressat kan ikke endres under fremsending. Brevpost utleveres til adressatens postadresse, som enten kan være til postkasse eller postboks. Mottaker av postsendinger er ansvarlig for oppsetting, vedlikehold samt merking av egen postkasse. Ved utilstrekkelig merking av postkassen, eller at Posten heller ikke har registrert at vedkommende bor på adressen, kan posten bli returnert til avsender. På steder med landpostbud blir registrerte postsendinger utlevert direkte til adressatens bolig. Adressater som ikke er tilstede ved leveringsforsøket og adressater som bor innenfor en grense på 1000 m fra det lokale salgsstedet, må hente registrerte sendinger her. Adressaten får i de sistnevnte tilfellene formidlet en hentemelding.
+Brevpost utleveres til adressatens postadresse, som enten kan være til postkasse eller postboks. Mottaker av postsendinger er ansvarlig for oppsetting, vedlikehold samt merking av egen postkasse. Ved utilstrekkelig merking av postkassen, eller at Posten heller ikke har registrert at vedkommende bor på adressen, kan posten bli returnert til avsender. På steder med landpostbud blir registrerte postsendinger utlevert direkte til adressatens bolig. Adressater som ikke er tilstede ved leveringsforsøket og adressater som bor innenfor en grense på 1000 m fra det lokale salgsstedet, må hente registrerte sendinger her. Adressaten får i de sistnevnte tilfellene formidlet en hentemelding.
 
 ## 4. Spesifikke krav til forsendelsene
 
-Riktig postadresse til mottaker må oppgis ved innsending. Dokumentene må være i PDFformat versjon 1.5 eller nyere. Alle dokumentsider må ha 2,5 cm marg på venstre side for påtrykk av strekkode. Returadresse må være spesifisert ved innsending.
+Riktig postadresse til mottaker må oppgis ved innsending. Dokumentene må være i PDFformat versjon 1.5 eller nyere. Alle dokumentsider må ha 18 mm marg på venstre side for påtrykk av strekkode. Returadresse må være spesifisert ved innsending.
 
 ## 5. Feil eller mangler
 
@@ -280,15 +277,15 @@ Gjennom denne avtalen gir Posten Norge AS kunden tilgang til tjenesten Posten si
 
 ## 2. Pris og faktureringsbestemmelser
 
-Pris for bruk av Posten Signering følger av den til enhver tid gjeldende «Prisliste Posten signering». Prisene er angitt i norske kroner eksklusiv merverdiavgift.
+Pris for bruk av Posten signering følger av den til enhver tid gjeldende prisliste. Prisene er angitt i norske kroner eksklusiv merverdiavgift.
 
 ## 3. Produktbeskrivelse
 
 Kunden vil med Posten signering kunne sende dokumenter som skal signeres digitalt. Mottakeren av slike dokumenter kan signere ved bruk av en allerede utstedt e-ID (Bank ID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Listen over tilgjengelige e-ID-er som benyttes vil kunne endre seg. Kunden plikter å identifisere eller merke forsendelsen på den måten som Posten til enhver tid krever.
 
-Posten er å anse som databehandler for personopplysninger som Kunden er behandlingsansvarlig for og som inngår i Posten signering, jf kapittel 8.1 i de generelle vilkårene. Posten er ikke behandlingsansvarlig for noen opplysninger i Posten Signering, 
+Posten er å anse som databehandler for personopplysninger som Kunden er behandlingsansvarlig for og som inngår i Posten signering, jf kapittel 8.1 i de generelle vilkårene. Posten er ikke behandlingsansvarlig for noen opplysninger i Posten signering.
 
 Etter signering er gjennomført får Kunden det ferdig signerte dokumentet. Dette kan lastes ned eller arkiveres i Digipost. Personen(e) som har signert dokumentet får på tilsvarende måte tilgang til en kopi av det signerte dokumentet, som de kan laste ned eller arkivere i Digipost.
 
 
-Gyldighetsperiode: Fra 15. mars 2016
+Gyldighetsperiode: Fra 17. mars 2016
