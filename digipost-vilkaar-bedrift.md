@@ -279,6 +279,8 @@ Gjennom denne avtalen gir Posten Norge AS kunden tilgang til tjenesten Posten si
 
 Pris for bruk av Posten signering følger av den til enhver tid gjeldende prisliste. Prisene er angitt i norske kroner eksklusiv merverdiavgift.
 
+Dersom en bruker avbryter en signeringsprosess etter å ha initiert tjenesten, teller det som en signeringstransaksjon.
+
 ## 3. Produktbeskrivelse
 
 Kunden vil med Posten signering kunne sende dokumenter som skal signeres digitalt. Mottakeren av slike dokumenter kan signere ved bruk av en allerede utstedt e-ID (Bank ID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Listen over tilgjengelige e-ID-er som benyttes vil kunne endre seg. Kunden plikter å identifisere eller merke forsendelsen på den måten som Posten til enhver tid krever.
