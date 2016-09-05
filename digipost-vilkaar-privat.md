@@ -284,4 +284,4 @@ Ved mislighold vil Digipost kunne sperre utvalgt funksjonalitet og tilgang for B
 
 Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom Posten og Brukeren skal søkes løst i minnelighet. Dersom det ikke lar seg gjøre, kan hver av partene bringe tvisten inn for de ordinære domstoler i samsvar med tvistelovens regler vedrørende verneting.
 
-Vilkårene trer i kraft den 17. august 2016
+Gyldig fra 17. august 2016
