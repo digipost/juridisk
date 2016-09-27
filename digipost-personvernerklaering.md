@@ -1,12 +1,12 @@
 # Personvern i Digipost
 
-For Digipost er ditt personvern og din datasikkerhet det aller viktigste, og vi vil alltid behandle dine personopplysninger:
+For Posten Norge AS (Posten) er ditt personvern og din datasikkerhet det aller viktigste, og vi vil alltid behandle dine personopplysninger:
 
 * med konfidensialitet
 * på riktig måte, i henhold til egne erklæringer
 * på lovlig vis, i samsvar med gjeldende lover og forskrifter om personvern og informasjonssikkerhet 
 
-Dokumenter som du har mottatt eller lastet opp til Digipost er din private informasjon, og Digipost vil innenfor lovens rammer bare behandle denne informasjonen når du selv som har initiert behandlingen.
+Dokumenter som du har mottatt eller lastet opp til Digipost er din private informasjon og eiendom, og Posten vil innenfor lovens rammer bare behandle denne informasjonen når det er du selv som har initiert behandlingen.
 
 ## Behandlingsansvarlig
 
@@ -18,7 +18,7 @@ Formålet med behandling av personopplysninger i Digipost er å oppfylle de rett
 
 ## Opplysningskategorier som behandles
 
-Ved opprettelse av bruker/konto i Digipost og ved videre bruk av Digipost samles det inn informasjon om brukeren. Opplysningskategoriene er forklart nærmere under, og gjelder generell kontakt- og bruksinformasjon samt statistikk om bruken av tjenesten. For å kunne tilby tjenestene på Digipost behandles også informasjon knyttet til cookies, IP-adresser og brukerens fødselsnummer.
+Ved opprettelse av bruker/konto i Digipost og ved videre bruk av Digipost samles det inn informasjon om brukeren. Opplysningskategoriene er forklart nærmere under, og gjelder generell kontakt- og bruksinformasjon samt statistikk om bruken av tjenesten. For å kunne tilby tjenestene på Digipost behandles også informasjon knyttet til informasjonskapsler (cookies), IP-adresser og brukerens fødselsnummer.
 
 ### Kontakt- og bruksinformasjon
 
@@ -32,7 +32,7 @@ Følgende opplysninger samles inn i forbindelse med registrering og bruk av Digi
 * Informasjon om brukerens bruk av Digipost-løsningen
 * Trafikkdata
 * Adresseliste
-* Kredittkort- og annen betalingsinformasjon i tilfeller hvor dette er nødvendig 
+* Bankkontonummer, kredittkort- og annen betalingsinformasjon i tilfeller hvor dette er nødvendig og som brukeren selv gjør tilgjengelig
 
 ### Statistikk om bruken av tjenestene
 
@@ -43,39 +43,43 @@ Ved bruk av Digipost samles det også inn opplysninger som ikke kan knyttes til 
 * Skjermoppløsning og antall farger på skjermen
 * Internettforbindelse
 * Besøkte sider på Digipost og tidspunkt for besøk
-* Hvilken side brukeren eller kunder kommer til Digipost fra 
+* Hvilken side man kommer til Digipost fra 
 
 ### Cookies og IP-adresser
 
-Digipost benytter cookies for innsamling av statistikk. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Det foretas ikke identifisering av den enkelte bruker som person i forbindelse med anvendelsen av cookies. Brukeren kan ved å endre innstillingene i sin nettleser velge å avstå fra bruk av cookies. For å logge på og benytte Digipost er det derimot en forutsetning at cookies aksepteres. Digipost vil også kunne benytte tilsvarende teknologi som cookies, som ”web-beacons”, ”pixel tags” mv. samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden.
+Digipost benytter cookies for innsamling av statistikk. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Det foretas ikke identifisering av den enkelte bruker som person i forbindelse med anvendelsen av cookies. Brukeren kan ved å endre innstillingene i sin nettleser velge å avstå fra bruk av cookies. For å logge på og benytte Digipost er det derimot en forutsetning at cookies aksepteres. Digipost vil også kunne benytte tilsvarende teknologi som cookies, som «web-beacons», «pixel tags» mv. samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden.
 
 Digipost vil også kunne lagre brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett. Brukerens IP-adresse vil kun bli benyttet til statistiske formål og til innsamling av demografisk informasjon i vid forstand, og vil derfor ikke kunne knyttes til brukeren eller kunden.
 
 ### Bruk av fødselsnummer
 
-For at brukeren skal kunne logge seg på sin personlige Digipost-konto, må brukeren benytte sitt fødselsnummer (11 siffer) samt et selvvalgt passord. For å få tilgang til meddelelser hvor avsender har stilt høyere krav til sikkerhet må brukeren logge på med sitt fødselsnummer og sin valgte autentiseringsløsning (Bank ID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten).
+For at brukeren skal kunne logge seg på sin personlige Digipost-konto, må brukeren benytte sitt fødselsnummer (11 siffer) samt et selvvalgt passord eller en elektronisk ID som er støttet av Digipost. For å få tilgang til meddelelser hvor avsender har stilt høyere krav til sikkerhet må brukeren logge på med sitt fødselsnummer og sin valgte autentiseringsløsning (BankID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten).
 
 Digipost registrerer og oppbevarer brukerens fødselsnummer i forbindelse med opprettelsen av en Digipost-konto. Brukerens fødselsnummer behandles utelukkende for autentisering av brukeren og for å sikre at brukeren er rett mottaker (identifisering) av meddelelser fra offentlige myndigheter, virksomheter og organisasjoner som har tillatelse til å sende meddelelser knyttet opp mot fødselsnummer som identifiseringsnøkkel.
 
 Brukerens fødselsnummer vil ikke videreformidles, utleveres eller anvendes til andre formål enn Digipost med mindre den offentlige myndigheten, virksomheten eller organisasjonen har tillatelse til dette på annet grunnlag. Fødselsnummer videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på.
 
-Digipost benytter Posten Norge AS’ adresseregister for å kunne koble brukeren opp mot en fysisk adresse. Endrer brukeren adresse hos Posten Norge AS, vil den fysiske adressen brukeren knyttes opp mot i Digipost automatisk oppdateres.
+Digipost benytter Posten Norge AS sitt adresseregister for å kunne koble brukeren sammen med en fysisk adresse. Endrer brukeren adresse hos Posten Norge AS, vil den fysiske adressen brukeren knyttes opp mot i Digipost automatisk oppdateres.
 
 ## Utlevering til tredjepart
 
-Dersom det er en forutsetning for å sende, motta eller arkivere meddelelser, eller utføre andre tjenester i Digipost, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
+Dersom det er en forutsetning for å sende, motta eller arkivere meddelelser, eller utføre andre tjenester/funksjoner tilbudt ved hjelp av Digipost, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
 
 Med unntak som følger av [avtalevilkårene](https://www.digipost.no/juridisk/), vil ikke personopplysninger bli utlevert til tredjepart for kommersiell bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter for å hjelpe til å bedre kunne forstå bruksmønster for ulike typer meddelelser, tilbud, annonsering og andre tjenester/funksjonalitet knyttet til Digipost.
 
+## Frivillig bruk/utlevering av data lagret i Digipost
+
+Digipost tilbyr funksjonalitet for å la en bruker aksessere sine egne data som er lagret i Digipost via andre nettsteder eller i andre app-er. Tilgangen til egne data iverksettes og godkjennes av brukeren selv, og brukeren kan når som helst trekke tilbake slike tilganger i sine innstillinger i Digipost.
+
 ## Rett til innsyn, retting og sletting
 
-Etter personopplysningsloven har den enkelte rett til innsyn i egne personopplysninger. Dersom opplysninger på Digipost er feil, vil det være adgang til å få de rettet eller slettet. Alle opplysninger som er hentet fra brukeren, vil være tilgjengelige for brukeren via digipost-kontoen, og kan rettes av brukeren via Digipost-kontoen eller Postens tjeneste for adresseendring. Det tas forbehold om at enkelte endringer kan kreve godkjenning før de aktiveres i Digipost.
+Etter personopplysningsloven har den enkelte rett til innsyn i egne personopplysninger. Dersom opplysninger i Digipost er feil, vil det være adgang til å få de rettet eller slettet. Alle opplysninger som er hentet fra brukeren, vil være tilgjengelige for brukeren via Digipost-kontoen, og kan rettes av brukeren via Digipost-kontoen eller Postens tjeneste for adresseendring. Det tas forbehold om at enkelte endringer kan kreve godkjenning før de aktiveres i Digipost.
 
 ## Informasjonssikkerhet
 
-Digipost har som mål å være den sikreste internettløsningen i Norge, og benytter anerkjente standarder og beste praksis i arbeidet med sikkerhet. Digipost gjennomfører jevnlig risikovurderinger og sikkerhetstester av løsningen, og rådfører seg også med Datatilsynet ved hver endring i løsningen som kan berøre personvernet.
+Posten har som mål at Digipost skal være den sikreste internettløsningen i Norge, og benytter anerkjente standarder og beste praksis i arbeidet med sikkerhet. Posten gjennomfører jevnlig risikovurderinger og sikkerhetstester av løsningen, og rådfører seg også med Datatilsynet ved hver endring i løsningen som kan berøre personvernet.
 
-Digipost har implementert følgende sikkerhetstiltak i løsningen (ikke uttømmende):
+Posten har implementert følgende sikkerhetstiltak i Digipost (ikke uttømmende):
 
 * Autentiseringsløsning på sikkerhetsnivå 4.
 * All informasjonsutveksling skjer med sterk kryptering (SSL, SSH).
@@ -83,20 +87,23 @@ Digipost har implementert følgende sikkerhetstiltak i løsningen (ikke uttømme
 * Alle handlinger som utføres av driftspersonell logges i egne hendelsesregistre.
 * Alle dokumenter ligger lagret kryptert, med sterke krypteringsnøkler.
 * Alle avsendere og mottakere blir identifisert etter strenge retningslinjer. Dette gjør at du alltid kan være sikker på hvilken avsender en meddelelse er sendt fra.
-* Digipost tjenere er plassert i et av Norges sikreste driftssentre, hos en leverandør som har lang erfaring med å håndtere virksomhetskritisk og sensitiv informasjon.
+* Digiposts tjenere er plassert i et av Norges sikreste datasentre, hos en leverandør som har lang erfaring med å håndtere virksomhetskritisk og sensitiv informasjon.
 * Det blir tatt sikkerhetskopi av alle dine dokumenter, og alle dokumenter blir lagret på to forskjellige steder til enhver tid slik at du er beskyttet mot brann, ødeleggelse av tjenere osv.
-* Digipost-ansatte har ikke tilgang til dine dokumenter. Det er kún et fåtall driftspersoner som har tilgang til Digipost sine systemer, men siden alle dokumenter ligger lagret kryptert, så har heller ikke disse innsyn i dine data. 
+* Postens ansatte eller ansatte hos underleverandører har ikke tilgang til dine dokumenter. Det er kun et fåtall driftspersoner som har tilgang til Digipost sine systemer, men siden alle dokumenter ligger lagret kryptert, så har heller ikke disse innsyn i dine data. 
 
 ## Personvern i Digipost sine app-er
 
 Digipost samler ikke inn brukerdata fra app-ene for iOS og Android. App-ene aksesserer således ingen data på brukerens enhet utover de data som ligger i app-en og som hentes via Digipost sin nettjeneste. I dette avsnittet utdypers vanlige spørsmål om hvordan Digipost sine app-er fungerer og hvilke data som aksesseres.
-Hva blir samlet inn av informasjon?
+
+### Hva blir samlet inn av informasjon?
 
 App-en lagrer brukerens navn og passord som brukeren har registrert seg med i Digipost, inntil brukeren velger å logge ut. App-en laster ned brev, kvitteringer og dokumenter fra Digipost sine servere.
 
 ### Hvor og hvordan blir informasjon lagret?
 
-App-en lagrer all informasjonen kryptert med AES256-kryptering med nøkler lagret i iOS Keychain.
+Digipost for iOS lagrer all informasjonen kryptert med AES256-kryptering med nøkler lagret i iOS Keychain.
+
+Digipost for Android lagrer all informasjonen kryptert med RSA-kryptering med nøkler lagret i Android KeyStore.
 
 ### Hvor lenge blir informasjonen lagret?
 
