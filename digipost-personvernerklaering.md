@@ -25,14 +25,15 @@ Ved opprettelse av bruker/konto i Digipost og ved videre bruk av Digipost samles
 Følgende opplysninger samles inn i forbindelse med registrering og bruk av Digipost:
 
 * Navn
-* Kontaktinformasjon: Adresse, telefonnummer, e-postadresse
-* Organisasjons- og fødselsnummer
-* Profilinformasjon: Alder, kjønn og annen informasjon brukeren velger å gjøre tilgjengelig
+* Kontaktinformasjon: Adresse, telefonnummer, e-postadresse, Digipost-adresse
+* Fødselsnummer
+* Profilinformasjon: Alder, kjønn og annen informasjon Brukeren selv velger å gjøre tilgjengelig, samt informasjon om valgte tilleggstjenester og funksjonalitet 
+* Informasjon om Brukerens bruk av Digipost-løsningen, herunder pålogging og handlinger Brukeren utfører i løsningen
+* Adresseliste opprettet av Bruker
+* Bankkontonummer, kredittkort- og annen betalingsinformasjon i tilfeller det er nødvendig for gjennomføring og oppfølging av tjenester etter Brukerens ønske 
 * Elektronisk identifikasjon (IP-adresse, cookies)
-* Informasjon om brukerens bruk av Digipost-løsningen
-* Trafikkdata
-* Adresseliste
-* Bankkontonummer, kredittkort- og annen betalingsinformasjon i tilfeller hvor dette er nødvendig og som brukeren selv gjør tilgjengelig
+
+Dersom Brukeren har inngått avtale med sin bank om at fakturaer mottatt i Digipost skal vises i nettbanken ved pålogging der, vil Posten behandle og lagre slik informasjon som er nødvendig for å oppfylle avtalen mellom Brukeren og banken, jf avtalevilkårene mellom Brukeren og banken.
 
 ### Statistikk om bruken av tjenestene
 
@@ -47,25 +48,25 @@ Ved bruk av Digipost samles det også inn opplysninger som ikke kan knyttes til 
 
 ### Cookies og IP-adresser
 
-Digipost benytter cookies for innsamling av statistikk. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Det foretas ikke identifisering av den enkelte bruker som person i forbindelse med anvendelsen av cookies. Brukeren kan ved å endre innstillingene i sin nettleser velge å avstå fra bruk av cookies. For å logge på og benytte Digipost er det derimot en forutsetning at cookies aksepteres. Digipost vil også kunne benytte tilsvarende teknologi som cookies, som «web-beacons», «pixel tags» mv. samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden.
+For å logge på og benytte Digipost er det forutsetning at cookies aksepteres. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Digipost benytter også cookies for innsamling av statistikk. Det foretas ingen identifisering av den enkelte bruker som person i forbindelse med anvendelse av cookies. Digipost vil også kunne benytte tilsvarende teknologi som cookies samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden. For mer informasjon om vår bruk av cookies vises det til vår hjemmeside www.digipost.no.
 
 Digipost vil også kunne lagre brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett. Brukerens IP-adresse vil kun bli benyttet til statistiske formål og til innsamling av demografisk informasjon i vid forstand, og vil derfor ikke kunne knyttes til brukeren eller kunden.
 
 ### Bruk av fødselsnummer
 
-For at brukeren skal kunne logge seg på sin personlige Digipost-konto, må brukeren benytte sitt fødselsnummer (11 siffer) samt et selvvalgt passord eller en elektronisk ID som er støttet av Digipost. For å få tilgang til meddelelser hvor avsender har stilt høyere krav til sikkerhet må brukeren logge på med sitt fødselsnummer og sin valgte autentiseringsløsning (BankID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten).
+For at Brukeren skal kunne logge seg på sin personlige Digipost-konto, må Brukeren benytte sitt fødselsnummer (11 siffer), samt et selvvalgt passord eller en elektronisk ID som er støttet av Digipost. For å få tilgang til Meddelelser hvor avsender har stilt høyere krav til sikkerhet må Brukeren logge på med sitt fødselsnummer og sin valgte autentiseringsløsning (BankID utsendt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Brukeren forplikter seg til å holde sine personlige opplysninger hemmelig for andre (jf. punkt 4.1 ovenfor). Posten er ikke ansvarlig for feil eller mangler med autentiseringsløsningen.
 
-Digipost registrerer og oppbevarer brukerens fødselsnummer i forbindelse med opprettelsen av en Digipost-konto. Brukerens fødselsnummer behandles utelukkende for autentisering av brukeren og for å sikre at brukeren er rett mottaker (identifisering) av meddelelser fra offentlige myndigheter, virksomheter og organisasjoner som har tillatelse til å sende meddelelser knyttet opp mot fødselsnummer som identifiseringsnøkkel.
+Digipost registrerer og oppbevarer Brukerens fødselsnummer i forbindelse med opprettelsen av Digipost-postkasse. Brukers fødselsnummer behandles utelukkende for autentisering av Brukeren og for å sikre at Brukeren er rett mottaker (identifisering) av Meddelelser fra offentlige myndigheter, virksomheter og organisasjoner som har tillatelse til å sende Meddelelser knyttet opp mot fødselsnummer som identifiseringsnøkkel.
 
 Brukerens fødselsnummer vil ikke videreformidles, utleveres eller anvendes til andre formål enn Digipost med mindre den offentlige myndigheten, virksomheten eller organisasjonen har tillatelse til dette på annet grunnlag. Fødselsnummer videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på.
 
-Digipost benytter Posten Norge AS sitt adresseregister for å kunne koble brukeren sammen med en fysisk adresse. Endrer brukeren adresse hos Posten Norge AS, vil den fysiske adressen brukeren knyttes opp mot i Digipost automatisk oppdateres.
+Digipost benytter Posten Norge AS sitt adresseregister for å kunne koble Brukeren sammen med en fysisk adresse. Endrer Brukeren adresse hos Posten Norge AS, vil den fysiske adressen Brukeren knyttes opp mot i Digipost automatisk oppdateres.
 
 ## Utlevering til tredjepart
 
-Dersom det er en forutsetning for å sende, motta eller arkivere meddelelser, eller utføre andre tjenester/funksjoner tilbudt ved hjelp av Digipost, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
+Dersom det er en forutsetning for å sende, motta eller arkivere Meddelelser, eller tilby eller utføre andre tjenester i Digipost, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
 
-Med unntak som følger av [avtalevilkårene](https://www.digipost.no/juridisk/), vil ikke personopplysninger bli utlevert til tredjepart for kommersiell bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter for å hjelpe til å bedre kunne forstå bruksmønster for ulike typer meddelelser, tilbud, annonsering og andre tjenester/funksjonalitet knyttet til Digipost.
+Med unntak av det som følger av [Vilkårene](https://www.digipost.no/juridisk/), vil ikke personopplysninger bli utlevert til tredjepart for kommersielt bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter, for bedre å kunne forstå bruksmønster for ulike typer Meddelelser, tilbud, annonsering og andre tjenester/funksjonalitet knyttet til Digipost.
 
 ## Frivillig bruk/utlevering av data lagret i Digipost
 
