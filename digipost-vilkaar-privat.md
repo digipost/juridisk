@@ -1,12 +1,12 @@
 # Avtalevilkår for bruk av Digipost for privatpersoner
 
-Vilkårene nedenfor omhandler hvilke rettigheter og plikter du har som bruker av Digipost, og ved å akseptere vilkårene gir du også tillatelse til behandling av personopplysninger. Du må derfor gjennomgå vilkårene grundig og vurdere om du aksepterer disse før du begynner å benytte Digipost.
+Vilkårene nedenfor omhandler hvilke rettigheter og plikter du har som bruker av Digipost, og ved å akseptere vilkårene gir du også tillatelse til behandling av personopplysninger om deg selv. Du må derfor gjennomgå vilkårene grundig og vurdere om du aksepterer disse før du begynner å benytte Digipost. Dersom du har spørsmål til Vilkårene, anbefaler vi deg å kontakte Posten på e-post [kundeservice@digipost.no](mailto:kundeservice@digipost.no), og avvente Postens svar før du aksepterer vilkårene og tar i bruk Digipost.
 
-Nedenfor følger vilkår som gjelder for bruk av Digipost («Vilkårene»), en tjeneste fra Posten Norge AS («Posten»), org. nr. 984 661 185. Vilkårene anses som lest, forstått og akseptert av den fysiske person som skal bruke Digipost («Brukeren»), ved at Brukeren krysser av for «Jeg godtar vilkårene for Digipost», klikker på knappen merket «Registrer deg med BankID» eller «Registrer deg med Buypass» og tar Digipost i bruk. Dersom Brukeren har spørsmål til Vilkårene eller deres anvendelse for Brukeren, må Brukeren kontakte Posten på e-post kundeservice@digipost.no og avvente Postens svar før vilkårene aksepteres og Digipost tas i bruk.
+Nedenfor følger vilkår som gjelder for bruk av Digipost («Vilkårene»), en tjeneste fra Posten Norge AS («Posten»), org. nr. 984 661 185. Vilkårene anses som lest, forstått og akseptert av den fysiske person som skal bruke Digipost («Brukeren»), ved at Brukeren krysser av for «Jeg godtar vilkårene for Digipost», klikker på knappen merket «Registrer meg i Digipost» og tar Digipost i bruk. Brukeren anbefales å skrive ut Vilkårene og lagre disse, sammen med kvittering for aksept av tjenesten.
 
 Brukeren må ha fylt 15 år for å kunne registrere seg og ta i bruk Digipost.
 
-Vilkårene gjelder Brukerens bruk av Digipost for rent personlige eller andre private formål. For offentlige myndigheter, virksomheter (inkludert enkeltpersonforetak), organisasjoner og andre som benytter Digipost for annet enn rent personlige eller andre private formål, gjelder Kundevilkår for Digipost - Bedrift. Brukeren må for å kunne benytte Digipost for slike formål, inkludert utsendelse av fakturaer og markedsføringshenvendelser i næringsvirksomhet mv., ha registrert seg som bedriftskunde. Brukeren anbefales å skrive ut Vilkårene og lagre disse, sammen med kvittering for aksept av tjenesten.
+Vilkårene gjelder Brukerens bruk av Digipost for rent personlige eller andre private formål. For offentlige myndigheter, virksomheter (inkludert enkeltpersonforetak), organisasjoner og andre som benytter Digipost for annet enn rent personlige eller andre private formål, gjelder Kundevilkår for Digipost - Bedrift.
 
 ## 1 OM DIGIPOST
 
@@ -24,11 +24,11 @@ Digipost omfatter også flere valgfrie tilleggstjenester. Disse Vilkårene gjeld
 
 ## 2 PRIS- OG FAKTURERINGSBESTEMMELSER
 
-Det er gratis å opprette konto i Digipost, samt å motta og arkivere brev og kvitteringer. Brukeren har en gitt mengde gratis lagringsplass og muligheten til å sende et gitt antall gratis brev per måned. Informasjon om gjeldende lagringsplass og antall brev er tilgjengelig på www.digipost.no.
+Det er gratis å opprette konto i Digipost, samt å motta og arkivere brev og kvitteringer. Brukeren har en gitt mengde gratis lagringsplass, og mulighet til å sende et gitt antall brev gratis per måned. Informasjon om gjeldende lagringsplass og antall brev er tilgjengelig på www.digipost.no.
 
-Dersom Brukeren tar i bruk betalbare tjenester i Digipost, skal betaling skje med bank- og kredittkort, herunder MasterCard og Visa, gjennom en sikker betalingstjeneste fra tiltrodd tredjepart. Brukeren må legge inn nødvendig kortinformasjon og informasjonen blir lagret hos tiltrodd tredjepart for å forenkle fremtidige betalinger.
+Dersom Brukeren tar i bruk betalingspliktige tjenester i Digipost, skal betaling skje med bank- og kredittkort, herunder MasterCard og Visa, gjennom en sikker betalingstjeneste fra tiltrodd tredjepart. Brukeren må legge inn nødvendig kortinformasjon. Informasjonen blir lagret hos tiltrodd tredjepart for å forenkle fremtidige betalinger.
 
-Brukeren aksepterer ved å legge inn gyldig kortinformasjon at Digipost kan belaste bankkortet/kontoen for alle kjøp i Digipost og at beløpet for abonnementstjenester kan trekkes automatisk ved kommende forfall. Brukeren forplikter seg til at kortet som legges inn er gyldig, at vedkommende kan disponere dette, og at det har tilstrekkelig dekning ved fremtidige forfall. Beløpet som belastes kontoen følger den til enhver tid gjeldende prisliste med tillegg av lovbestemt merverdiavgift på betalingstidspunktet.
+Ved å legge inn gyldig kortinformasjon aksepterer Brukeren at Digipost kan belaste bankkortet/kontoen for alle kjøp i Digipost, og at beløpet for abonnementstjenester kan trekkes automatisk ved forfall. Brukeren plikter å påse at kortet som legges inn er gyldig, at vedkommende kan disponere dette, og at det har tilstrekkelig dekning ved fremtidige forfall. Beløpet som belastes kontoen følger den til enhver tid gjeldende prisliste, med tillegg av lovbestemt merverdiavgift på betalingstidspunktet.
 
 ## 3 TJENESTENIVÅ
 
@@ -70,14 +70,13 @@ Brukeren må for å kunne benytte Digipost for utsendelse av fakturaer og marked
 
 ### 4.3 Mottak og arkivering av Meddelelser
 
-Brukeren gir tillatelse til at alle potensielle avsendere, inkludert offentlige myndigheter, virksomheter, organisasjoner og privatpersoner, kan benytte Digipost for kommunikasjon med Brukeren. Når Brukeren er registrert, kan alle avsendere sende Brukeren digital post, blant annet fakturaer, helsepapirer, forsikringsavtaler og brev fra offentlige etater, uavhengig av tidligere samtykker til elektronisk kommunikasjon. Avsendere kan velge å kun sende Brukeren brev i Digipost. Dette betyr at Brukeren ikke mottar brevene på papir. Brukeren er inneforstått med og aksepterer at Digipost, når avsender benytter tjenesten, erstatter tilsvarende kommunikasjon med avsender via ordinær post til Brukerens fysiske postkasse/postboks.
+Brukeren gir tillatelse til at alle potensielle avsendere, inkludert offentlige myndigheter, virksomheter, organisasjoner og privatpersoner, kan benytte Digipost for kommunikasjon med Brukeren. Når Brukeren er registrert, kan alle avsendere sende Brukeren digital post, blant annet fakturaer, helsepapirer, forsikringsavtaler, innkallinger og brev fra offentlige etater, uavhengig av tidligere samtykker til elektronisk kommunikasjon. Avsendere kan velge å kun sende Brukeren brev i Digipost. Dette betyr i så fall at Brukeren ikke mottar brevene i sin fysiske postkasse/postboks. Brukeren er innforstått med og aksepterer at avsenders bruk av Digipost erstatter tilsvarende kommunikasjon via ordinær post til Brukerens fysiske postkasse/postboks.
 
-Brukeren er videre selv ansvarlig for å ha løpende oversikt over nye Meddelelser som mottas i Brukerens Digipost-postkasse. Brukeren har mulighet til å arkivere Meddelelser i Digipost. Meddelelser som Brukeren sletter i Digipost vil være utilgjengelige for Brukeren umiddelbart etter at Brukeren har bekreftet at Meddelelsen skal slettes.
+Brukeren vil motta varsel (per e-post/SMS/push, avhengig av hva som tilbys av Digipost) om Meddelelser mottatt i Kundens Digipost-postkasse. Brukeren kan endre innstillinger for mottak av slike varsler i sin personlige profil. Brukeren er under enhver omstendighet selv ansvarlig for å ha løpende oversikt over nye Meddelelser som mottas i Digipost. Brukere av tjenesten «Elektronisk Kvittering» vil ikke bli varslet ved mottak av kvitteringer.
 
-Avsendere av Meddelelser i Digipost kan be om varsel om at Meddelelser er åpnet av Brukeren. Slike Meddelelser vil være merket spesielt.
+Brukeren har mulighet til å arkivere Meddelelser i Digipost. Meddelelser som Brukeren sletter i Digipost vil være utilgjengelige for Brukeren umiddelbart etter at Brukeren har bekreftet at Meddelelsen skal slettes.
 
-Brukere av Elektronisk Kvittering vil ikke varsles ved mottak av nye kvitteringer.
-
+Avsendere av Meddelelser i Digipost kan be om bekreftelse på at Meddelelsen er åpnet av Brukeren. Slike Meddelelser vil være merket med informasjon til Bruker om at avsender blir varslet ved åpning av Meddelelsen.
 
 ## 5 POSTENS PLIKTER OG RETTIGHETER
 
@@ -87,27 +86,27 @@ Postens ansvar omfatter ikke feil, mangler eller driftsforstyrrelser knyttet til
 
 Posten overvåker ikke innholdet i Meddelelser som sendes til, mottas eller arkiveres i Digipost-postkassen, og er således ikke ansvarlig for Meddelelsenes innhold og form, samt innhold i eventuelle lenker.
 
-Dersom Posten blir kjent med at Meddelelser i Digipost er feilsendt, eller er i strid med lov, forskrift eller myndighetsavgjørelse eller på annet vis etter Postens vurdering innebærer misbruk av Digipost, kan Posten slette disse. Nevnte gjelder også Meddelelser som allerede er levert til brukeres Digipost-postkasse.
+Dersom Posten blir kjent med at Meddelelser i Digipost er feilsendt, eller er i strid med lov, forskrift eller myndighetsavgjørelse eller på annet vis etter Postens vurdering innebærer misbruk av Digipost, kan Posten slette disse. Nevnte gjelder også Meddelelser som allerede er levert til Brukerens Digipost-postkasse.
 
 Posten har anledning til å sende Meddelelser til Brukeren vedrørende nye muligheter, driftsinformasjon og annen informasjon knyttet til Digipost.
 
 ## 6 ENDRINGER
 
-Vilkårene, herunder priser, kan endres med én måneds skriftlig varsel til Brukeren som sendes på den e-postadresse som Brukeren har oppgitt ved registrering og/eller til Brukerens Digipost-postkasse. Tilsvarende gjelder dersom Posten foretar vesentlige innskrenkinger i Digipost sitt bruksområde. Endringer kan likevel gjennomføres uten forutgående varsel dersom endringen etter Postens oppfatning er til Brukerens fordel eller er av mindre betydning. Posten skal likevel informere Brukeren om endringen gjennom melding til Brukerens registrerte e-postadresse, Digipost-postkasse og/eller i forbindelse med Brukerens neste pålogging til Digipost, med mindre endringen åpenbart er uvesentlig.
+Posten kan endre Vilkårene, herunder priser, med én måneds skriftlig varsel til Brukeren. Varsel sendes til den e-postadresse Brukeren har oppgitt ved registrering og/eller til Brukerens Digipost-postkasse. Tilsvarende gjelder dersom Posten foretar vesentlige innskrenkinger i Digipost sitt bruksområde. Endringer kan likevel gjennomføres uten forutgående varsel dersom endringen etter Postens oppfatning er til Brukerens fordel, eller er av mindre betydning. Posten skal likevel informere Brukeren om endringen gjennom melding til Brukerens registrerte e-postadresse, Digipost-postkasse og/eller i forbindelse med Brukerens neste pålogging til Digipost, med mindre endringen åpenbart er uvesentlig.
 
-Dersom bruksområde i Digipost utvides med nye funksjoner kan Brukeren bli nødt til å bekrefte disse særskilt. Informasjon om nye funksjoner vil løpende oppdateres på www.digipost.no og/eller gjennom utsendelse av melding til Brukerens Digipost-postkasse.
+Dersom bruksområdet i Digipost utvides med nye funksjoner, kan Brukeren bli nødt til å bekrefte disse særskilt. Informasjon om nye funksjoner vil løpende oppdateres på www.digipost.no og/eller gjennom utsendelse av melding til Brukerens Digipost-postkasse.
 
 ## 7 TAUSHETSPLIKT
 
-Partene, deres personale og andre som måtte handle på partenes vegne, har taushetsplikt om Digipost og alle forhold partene blir kjent med i forbindelse med ved bruk av Digipost, herunder forhold som berører den annen parts forretningsmessige forhold samt data og informasjon benyttet i Digipost.
+Posten, og enhver som utfører arbeid eller tjeneste for Posten, har taushetsplikt om alle opplysninger som de eventuelt får kjennskap til om Brukerens bruk av Digipost.
 
-Partene plikter å ta de forholdsregler som er nødvendige for å sikre at materiale eller opplysninger ikke blir brukt til andre formål enn gjennomføring av avtaleforholdet etter disse Vilkårene eller gjort kjent for andre i strid med dette punkt. Ansatte eller andre som fratrer sin tjeneste hos Posten skal pålegges taushet om forhold som nevnt ovenfor også etter fratredelsen.
+Posten plikter å ta de forholdsregler som er nødvendige for å sikre at materiale eller opplysninger ikke blir brukt til andre formål enn gjennomføring av avtaleforholdet etter disse Vilkårene eller gjort kjent for andre i strid med dette punkt. Ansatte eller andre som fratrer sin tjeneste hos Posten skal pålegges taushet om forhold som nevnt ovenfor også etter fratredelsen.
 
 Taushetsplikten gjelder også etter at avtaleforholdet etter disse Vilkårene er opphørt.
 
 Taushetsplikten gjelder ikke når det er plikt til å gi materiale eller opplysninger i henhold til lov, forskrift eller myndighetsavgjørelse.
 
-## 8 BEHANDLING AV PERSONOPPLYSNINGER OG MARKEDSFØRING
+## 8 BEHANDLING AV PERSONOPPLYSNINGER
 
 Posten vil behandle personopplysninger som følge at Brukeren benytter Digipost og vil ved all behandling av personopplysninger følge bestemmelsene i personopplysningsloven av 14. april 2000 nr 31 med forskrifter. Behandlingsansvarlig er Posten Norge AS, Postboks 1500 Sentrum, 0001 Oslo.
 
@@ -117,26 +116,26 @@ Ved bruk av Digipost vil det bli behandlet personopplysninger om Brukeren. Med p
 
 Personopplysninger i Digipost vil bli behandlet for å oppfylle rettigheter og plikter etter disse Vilkårene, se bl.a. punkt 4.3, jf. personopplysningsloven § 8 a). I tillegg vil personopplysningene bli benyttet blant annet for å forbedre Digipost og rette henvendelser til Brukeren, jf. personopplysningsloven § 8 f). Brukeren samtykker med dette til behandling av samtlige personopplysninger som er omhandlet under punkt 8.2 nedenfor.
 
-Posten vil sende Meddelelser til Brukeren blant annet om ny funksjonalitet, driftsinformasjon og annen informasjon knyttet til Digipost. Brukeren gir Posten tillatelse til å benytte den e-postadresse som Brukeren har oppgitt til samme formål. Posten kan rette markedsføringshenvendelser til Brukeren i Digipost og oppgitt e-postadresse dersom Brukeren har samtykket til dette. Brukeren kan reservere seg mot markedsføringshenvendelser fra Posten, ved å endre innstillinger for dette i Digipost.
+Posten vil sende Meddelelser til Brukeren blant annet om ny funksjonalitet, driftsinformasjon og annen informasjon knyttet til Digipost. For dette formål gir Brukeren  Posten tillatelse til å benytte den e-postadresse som Brukeren har oppgitt ved registrering. Posten kan videre rette markedsføringshenvendelser til Brukeren i Digipost og oppgitt e-postadresse, dersom Brukeren har samtykket til dette. Brukeren kan reservere seg mot markedsføringshenvendelser fra Posten, ved å endre innstillinger for dette i Digipost.
 
 Brukerne kan stenge for andre brukeres og kunders søk etter Brukerens adresse i Digipost ved å endre innstillingene for dette i Digipost.
 
-Brukeren er selv ansvarlig for at riktig e-postadresse og telefonnummer er lagret i Digipost og å opplyse om endringer på angitt måte, såfremt Brukeren ønsker å motta varsel per e-post og/ eller sms (avhengig av hva som tilbys av Digipost) om Meddelelser mottatt i Brukerens Digipost-postkasse.
+Brukeren er selv ansvarlig for at riktig e-postadresse og telefonnummer er lagret i Digipost og å opplyse om endringer på angitt måte, såfremt Brukeren ønsker å motta varsel per e-post/SMS/push (avhengig av hva som tilbys av Digipost) om Meddelelser mottatt i Brukerens Digipost-postkasse.
 
 ### 8.2 Personopplysninger som behandles
 
-Det samles inn informasjon om Brukeren og kunder i forbindelse med opprettelse av bruker/ konto i Digipost og videre bruk av Digipost. Følgende personopplysninger samles inn og behandles om Brukeren og kunder:
+Det samles inn informasjon om Brukeren og kunder i forbindelse med opprettelse av bruker/ konto i Digipost og videre bruk av Digipost. Følgende personopplysninger samles inn og behandles om Brukeren:
 
 * Navn
-* Kontaktinformasjon: Adresse,telefonnummer,e-postadresse
+* Kontaktinformasjon: Adresse, telefonnummer, e-postadresse, Digipost-adresse
 * Fødselsnummer
-* Profilinformasjon: Alder, kjønn og annen informasjon Brukeren eller kunden velger å gjøre tilgjengelig
-* Elektronisk identifikasjon (IP-adresse, cookies)
+* Profilinformasjon: Alder, kjønn og annen informasjon Brukeren selv velger å gjøre tilgjengelig, samt informasjon om valgte tilleggstjenester og funksjonalitet 
 * Informasjon om Brukerens bruk av Digipost-løsningen, herunder pålogging og handlinger Brukeren utfører i løsningen
-* Adresseliste
-* Kredittkort- og annen betalingsinformasjon i tilfeller hvor dette er nødvendig
+* Adresseliste opprettet av Bruker
+* Bankkontonummer, kredittkort- og annen betalingsinformasjon i tilfeller det er nødvendig for gjennomføring og oppfølging av tjenester etter Brukerens ønske 
+* Elektronisk identifikasjon (IP-adresse, cookies)
 
-For mer informasjon om vår bruk av cookies vises det til Digiposts hjelpeside om cookies.
+Dersom Brukeren har inngått avtale med sin bank om at fakturaer mottatt i Digipost skal vises i nettbanken ved pålogging der, vil Posten behandle og lagre slik informasjon som er nødvendig for å oppfylle avtalen mellom Brukeren og banken, jf avtalevilkårene mellom Brukeren og banken.
 
 Alle opplysninger som er innhentet fra Brukeren, vil være tilgjengelige for Brukeren via Digipost-kontoen, og kan rettes av Brukeren via Digipost-kontoen eller Postens tjeneste for adresseendring. Det tas forbehold om at enkelte endringer kan kreve godkjenning før de aktiveres i Digipost.
 
@@ -149,29 +148,29 @@ I tillegg samles det inn opplysninger som ikke kan knyttes til Brukeren og som k
 * Skjermoppløsning og antall farger på skjermen
 * Internettforbindelse
 * Besøkte sider på Digipost og tidspunkt for besøk
-* Hvilken side Brukeren eller kunden kommer til Digipost fra
+* Hvilken side man kommer til Digipost fra
 
-For å logge på og benytte Digipost er det forutsetning at cookies aksepteres. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Digipost benytter også cookies for innsamling av statistikk. Det foretas ingen identifisering av den enkelte bruker som person i forbindelse med anvendelse av cookies. Digipost vil også kunne benytte tilsvarende teknologi som cookies samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden. For mer informasjon om vår bruk av cookies vises det til vår hjemmeside digipost.no.
+For å logge på og benytte Digipost er det forutsetning at cookies aksepteres. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Digipost benytter også cookies for innsamling av statistikk. Det foretas ingen identifisering av den enkelte bruker som person i forbindelse med anvendelse av cookies. Digipost vil også kunne benytte tilsvarende teknologi som cookies samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden. For mer informasjon om vår bruk av cookies vises det til vår hjemmeside www.digipost.no.
 
 Digipost vil også kunne lagre Brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett. Brukerens IP-adresse vil kun bli benyttet til statistiske formål og til innsamling av demografisk informasjon i vid forstand, og vil derfor ikke kunne knyttes til Brukeren eller kunden.
 
-Ovennevnte informasjon brukes til å gjøre de ulike tjenestene i Digipost mulig, å administrere og videreutvikle tjenesten, autentiseringsprosesser, diagnostisere problemer i Digipost og tilhørende systemer, å utvikle nye ideer og tjenester, samt å kommunisere med brukerne.
+Ovennevnte informasjon brukes til å gjøre de ulike tjenestene i Digipost mulig, administrere og videreutvikle tjenesten, autentiseringsprosesser, diagnostisere problemer i Digipost og tilhørende systemer, å utvikle nye ideer og tjenester, samt å kommunisere med brukerne.
 
 ### 8.3 Bruk av fødselsnummer
 
-For at Brukeren skal kunne logge seg på sin personlige Digipost-konto, må Brukeren benytte sitt fødselsnummer (11 siffer) samt et selvvalgt passord. For å få tilgang til Meddelelser hvor avsender har stilt høyere krav til sikkerhet må Brukeren logge på med sitt fødselsnummer og sin valgte autentiseringsløsning (BankID utsendt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Brukeren forplikter seg til å holde sine personlige opplysninger hemmelig for andre (jf. punkt 4.1 ovenfor). Posten er ikke ansvarlig for feil eller mangler med autentiseringsløsningen.
+For at Brukeren skal kunne logge seg på sin personlige Digipost-konto, må Brukeren benytte sitt fødselsnummer (11 siffer), samt et selvvalgt passord eller en elektronisk ID som er støttet av Digipost. For å få tilgang til Meddelelser hvor avsender har stilt høyere krav til sikkerhet må Brukeren logge på med sitt fødselsnummer og sin valgte autentiseringsløsning (BankID utsendt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Brukeren forplikter seg til å holde sine personlige opplysninger hemmelig for andre (jf. punkt 4.1 ovenfor). Posten er ikke ansvarlig for feil eller mangler med autentiseringsløsningen.
 
 Digipost registrerer og oppbevarer Brukerens fødselsnummer i forbindelse med opprettelsen av Digipost-postkasse. Brukers fødselsnummer behandles utelukkende for autentisering av Brukeren og for å sikre at Brukeren er rett mottaker (identifisering) av Meddelelser fra offentlige myndigheter, virksomheter og organisasjoner som har tillatelse til å sende Meddelelser knyttet opp mot fødselsnummer som identifiseringsnøkkel.
 
 Brukerens fødselsnummer vil ikke anvendes til andre formål enn Digipost, videreformidles eller utleveres med mindre den offentlige myndigheten, virksomheten eller organisasjonen har lovlig grunnlag for innhenting eller bruk av fødselsnummer, jf personopplysningsloven § 8. Fødselsnummeret videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på.
 
-Digipost benytter Posten Norge AS' adresseregister for å kunne koble Brukeren opp mot en fysisk adresse. Endrer Brukeren adresse hos Posten Norge AS, vil den fysiske adressen Brukeren knyttes opp mot i Digipost automatisk oppdateres.
+Digipost benytter Posten Norge AS sitt adresseregister for å kunne koble Brukeren sammen med en fysisk adresse. Endrer Brukeren adresse hos Posten Norge AS, vil den fysiske adressen Brukeren knyttes opp mot i Digipost automatisk oppdateres.
 
 ### 8.4 Utlevering av personopplysninger til tredjepart
 
-Dersom det er en forutsetning for å sende, motta eller arkivere Meddelelser, eller utføre andre tjenester i Digipost, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
+Dersom det er en forutsetning for å sende, motta eller arkivere Meddelelser, eller tilby eller utføre andre tjenester i Digipost, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
 
-Med unntak som følger av Vilkårene, vil ikke personopplysninger bli utlevert til tredjepart for kommersielt bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter for å hjelpe til å bedre kunne forstå bruksmønster for ulike typer Meddelelser, tilbud, annonsering og annen tjenester/funksjonalitet knyttet til Digipost.
+Med unntak av det som følger av Vilkårene, vil ikke personopplysninger bli utlevert til tredjepart for kommersielt bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter, for bedre å kunne forstå bruksmønster for ulike typer Meddelelser, tilbud, annonsering og andre tjenester/funksjonalitet knyttet til Digipost.
 
 ### 8.5 Informasjonssikkerhet og sikringstiltak
 
@@ -181,7 +180,7 @@ Posten plikter å gjennomføre de sikringstiltak som følger av personopplysning
 
 ### 9.1 Reklamasjon
 
-Brukeren må gjøre Posten oppmerksom på feil eller mangel ved Digipost som medfører at Brukeren ikke får levert de tjenester Brukeren har krav på etter disse Vilkårene. Varsel må gis innen rimelig tid, og senest innen 10 dager, etter Brukeren oppdaget eller burde ha oppdaget feilen eller mangelen.
+Brukeren må gjøre Posten oppmerksom på feil eller mangel ved Digipost som medfører at Brukeren ikke får levert de tjenester Brukeren har krav på etter disse Vilkårene. Varsel må gis innen rimelig tid, og senest innen 10 dager, etter at Brukeren oppdaget eller burde ha oppdaget feilen eller mangelen.
 
 ### 9.2 Avhjelp
 
@@ -201,11 +200,11 @@ Posten er imidlertid under enhver omstendighet ikke ansvarlig for at Meddelelser
 
 Postens samlede erstatningsansvar overfor Brukeren er under enhver omstendighet begrenset til et beløp tilsvarende prisen for den leverte tjeneste, dog maksimalt kr 30 000,- for hvert skadetilfelle/hver ansvarsutløsende begivenhet. Dette gjelder ikke dersom Brukerens tap skyldes forsett fra Postens side. Beror Brukerens direkte tap på kontraktsmedhjelpere som Posten har engasjert for å utføre ytelsen overfor Brukeren, er Posten ansvarlig bare om også disse kontraktsmedhjelperne ville være ansvarlige etter ovennevnte på samme måte som Posten ville vært.
 
-Digipost gir Brukeren mulighet til å overføre data fra mottatte fakturaer i Digipost til Brukerens nettbank for behandling der. Brukeren er selv ansvarlig for at informasjonen blir overført til nettbanken, at informasjonen er korrekt og at korrekt konto blir belastet til riktig tid.
+Digipost gir Brukeren mulighet til å overføre data fra mottatte fakturaer i Digipost til Brukerens nettbank for behandling der. Brukeren er selv ansvarlig for behandlingen av fakturaer i nettbanken og at korrekt konto blir belastet til riktig tid.
 
 ### 9.5 Heving
 
-Brukeren kan etter skriftlig varsel til Posten heve avtaleforholdet Brukeren har med Posten etter disse Vilkårene med umiddelbar virkning dersom det foreligger vesentlig mislighold fra Postens side. For gjennomføringen av hevingen gjelder punkt 15 annet avsnitt tilsvarende så langt den passer.
+Dersom det foreligger vesentlig mislighold fra Postens side, kan Brukeren ved skriftlig varsel til Posten heve avtaleforholdet Brukeren har med Posten etter disse Vilkårene med umiddelbar virkning. For gjennomføringen av hevingen gjelder punkt 15 annet avsnitt tilsvarende så langt den passer.
 
 ## 10 BRUKERENS MISLIGHOLD
 
@@ -215,7 +214,7 @@ Ved betalingsmislighold kan Posten kreve forsinkelsesrente etter lov om renter v
 
 ### 10.2 Heving og stenging
 
-Posten kan heve avtaleforholdet Posten har med Brukeren etter disse Vilkårene umiddelbart dersom det foreligger vesentlig mislighold fra Brukerens side. Ved heving skal Brukeren gis varsel om at adgangen til å sende og motta Meddelelser er deaktivert og at tilgangen til lagrede data vil opphøre etter 3 mnd. Som vesentlig mislighold regnes bl.a.at Brukeren har brukt Digipost til utsendelse av fakturaer eller markedsføringshenvendelser i næringsvirksomhet, betalingsmislighold, eller Brukeren bryter lov, forskrift eller myndighetsavgjørelse eller på annen måte misbruker Digipost eller informasjon eller data som er en del av Digipost. Det vises også til de Generelle betalingsbetingelsene for Posten Norge AS som kommer til anvendelse så langt de passer.
+Dersom det foreligger vesentlig mislighold fra Brukerens side, kan Posten umiddelbart heve avtaleforholdet med Brukeren etter disse Vilkårene.  Ved heving skal Brukeren gis varsel om at adgangen til å sende og motta Meddelelser er deaktivert, og at tilgangen til lagrede data vil opphøre etter 3 mnd. Som vesentlig mislighold regnes blant annet at Brukeren har brukt Digipost til utsendelse av fakturaer eller markedsføringshenvendelser i næringsvirksomhet, betalingsmislighold, at Brukeren bryter lov, forskrift eller myndighetsavgjørelse eller på annen måte misbruker Digipost eller informasjon eller data som er en del av Digipost. Det vises også til Postens  Generelle betalingsbetingelser,  som kommer til anvendelse så langt de passer.
 
 Posten har anledning til midlertidig å stenge tilgangen til Digipost (suspensjon) inntil undersøkelser eller avklaringer om Brukerens bruk av Digipost er gjennomført. Posten skal så langt mulig varsle Brukeren skriftlig ved e-post og/eller Meddelelse til Brukerens Digipost-postkasse før tilgangen til Digipost midlertidig stenges.
 
@@ -223,7 +222,7 @@ For gjennomføringen av hevingen gjelder punkt 15 annet avsnitt tilsvarende så 
 
 ## 11 SKADELØSHOLDELSE
 
-Brukeren skal holde Posten skadesløs i den utstrekning Posten mottar krav fra eller pålegges ansvar overfor tredjepart og kravet eller ansvaret er basert på Brukerens krenkelse eller medvirkning til krenkelse av andres lovbeskyttede rettigheter (inkludert men ikke begrenset til opphavsrett eller tilgrensende rettigheter, patent, varemerke, design, know-how eller bedriftshemmelighet), eller brudd på eller medvirkning til brudd på lov, forskrift eller myndighetsavgjørelse og/eller disse Vilkårene ved bruk av Digipost. Brukeren skal i slike tilfeller ha rett til å tre inn i kravet, eller i samarbeid med Posten gis anledning til å ivareta sine interesser som om kravet var rettet mot Brukeren selv. Dersom et slikt krav rettes mot Posten skal Brukeren dekke, foruten det direkte økonomiske tap, også utgifter til bistand for å håndtere kravet på en forsvarlig måte samt andre utgifter som står i en rimelig sammenheng med tredjeparts krav. Dersom Brukeren blir kjent med at krav vil bli reist mot Posten i forbindelse med Brukerens bruk av Digipost, skal Brukeren umiddelbart varsle Posten skriftlig.
+Brukeren skal holde Posten skadesløs i den utstrekning Posten mottar krav fra eller pålegges ansvar overfor tredjepart, og kravet eller ansvaret er basert på Brukerens krenkelse eller medvirkning til krenkelse av andres lovbeskyttede rettigheter (inkludert men ikke begrenset til opphavsrett eller tilgrensende rettigheter, patent, varemerke, design, know-how eller bedriftshemmeligheter), eller brudd på eller medvirkning til brudd på lov, forskrift eller myndighetsavgjørelse og/eller disse Vilkårene ved bruk av Digipost. Brukeren skal i slike tilfeller ha rett til å tre inn i kravet, eller i samarbeid med Posten gis anledning til å ivareta sine interesser som om kravet var rettet mot Brukeren selv. Dersom et slikt krav rettes mot Posten skal Brukeren dekke, foruten det direkte økonomiske tap, også utgifter til bistand for å håndtere kravet på en forsvarlig måte samt andre utgifter som står i en rimelig sammenheng med tredjeparts krav. Dersom Brukeren blir kjent med at krav vil bli reist mot Posten i forbindelse med Brukerens bruk av Digipost, skal Brukeren umiddelbart varsle Posten skriftlig.
 
 ## 12 FRITAKELSESGRUNNER (FORCE MAJEURE)
 
@@ -231,7 +230,7 @@ Posten er ikke ansvarlig for tap som skyldes lovinngrep eller administrative han
 
 ## 13 OVERDRAGELSER AV RETTIGHETER OG PLIKTER MV.
 
-Posten kan fritt overdra sine rettigheter og plikter i henhold til avtaleforholdet etter disse Vilkårene mellom selskaper internt i Posten-konsernet. Rett til vederlag kan fritt overdras også utenfor Posten- konsernet.
+Posten kan fritt overdra sine rettigheter og plikter i henhold til avtaleforholdet etter disse Vilkårene mellom selskaper internt i Posten-konsernet. Rett til vederlag kan fritt overdras også utenfor Posten-konsernet.
 
 Brukeren kan ikke overdra retten til å bruke Digipost siden denne retten er knyttet til vedkommende personlig. Brukeren har imidlertid anledning til å dele tilgangen til Brukerens Digipost-postkasse gjennom delingsfunksjonaliteten i løsningen.
 
@@ -243,12 +242,9 @@ Med mindre annet fremgår uttrykkelig av disse Vilkårene skal varsel i forbinde
 
 Til Posten:
 
-kundeservice@digipost.no eller
+e-post: [kundeservice@digipost.no](mailto:kundeservice@digipost.no) eller
 
-Posten Norge AS
-Att: Digipost
-Postboks 1500 Sentrum
-0001 Oslo
+postadresse: Posten Norge AS, Att: Digipost, Postboks 1500 Sentrum, 0001 Oslo
 
 Til Brukeren: Kundens Digipost-postkasse, den e-postadresse som Brukeren har oppgitt ved registrering eller den postadresse som Kunden er registrert med i Digipost
 
@@ -256,11 +252,11 @@ Til Brukeren: Kundens Digipost-postkasse, den e-postadresse som Brukeren har opp
 
 Partene har gjensidig rett til å si opp avtaleforholdet etter disse Vilkårene med to ukers skriftlig varsel, uten nærmere begrunnelse, forutsatt at alle utestående forhold er gjort opp og at partene ikke har krav mot hverandre.
 
-Ved opphør av avtalen ved oppsigelse vil Brukerens adgang til å sende og motta Meddelelser deaktiveres på opphørstidspunktet. Meddelelser som var sendt av avsender før opphørstidspunktet med utsatt levering vil likevel bli levert til Brukeren i Digipost inntil to uker etter opphørstidspunktet. Brukeren vil ha adgang til lagrede data i tre måneder etter opphørstidspunktet. I denne perioden vil også Brukeren ha mulighet til å overføre Meddelelser fra det offentlige til annen digital postkasse det offentlige har avtale med gjennom egen funksjonalitet for dette i Digipost. Deretter slettes lagrede data. Brukeren er selv ansvarlig for å ta kopi av alle data Brukeren ønsker å beholde etter opphørstidspunktet. Posten forbeholder seg retten til å beholde data som er nødvendig for oppfølging av kundeforholdet.
+Ved opphør av avtalen ved oppsigelse vil Brukerens adgang til å sende og motta Meddelelser deaktiveres på opphørstidspunktet. Meddelelser som var sendt av avsender før opphørstidspunktet med utsatt levering vil likevel bli levert til Brukeren i Digipost inntil to uker etter opphørstidspunktet. Brukeren vil ha adgang til lagrede data i tre måneder etter opphørstidspunktet. I denne perioden vil også Brukeren ha mulighet til å overføre Meddelelser fra det offentlige til annen digital postkasse det offentlige har avtale med, gjennom egen funksjonalitet for dette i Digipost. Deretter slettes lagrede data. Brukeren er selv ansvarlig for å ta kopi av alle data Brukeren ønsker å beholde etter opphørstidspunktet. Posten forbeholder seg retten til å beholde data som er nødvendig for oppfølging av kundeforholdet.
 
 Dersom Brukerens Digipost-konto har vært inaktiv i mer enn 14 måneder, kan Posten deaktivere muligheten til å sende og motta Meddelelser hvis kontoen fortsatt er inaktiv 14 dager etter at Posten har sendt varsel om deaktivering.
 
-Dersom Brukeren dør, vil Brukerens Digipost-konto og lagrede data slettes tre måneder etter Posten fikk beskjed om dødsfallet. De(n) som kan forplikte Brukeren må kontakte Digipost for å få tilgang til Brukerens digipost-konto innen sletting. Posten forbeholder seg retten til å beholde data som er nødvendig for oppfølging av kundeforholdet.
+Dersom Brukeren dør, vil Brukerens Digipost-konto og lagrede data slettes tre måneder etter at Posten fikk beskjed om dødsfallet. De(n) som kan forplikte Brukeren må kontakte Digipost for å få tilgang til Brukerens Digipost-konto innen sletting. Posten forbeholder seg retten til å beholde data som er nødvendig for oppfølging av kundeforholdet.
 
 ## 16 PRODUKT- OG BETALINGSVILKÅR FOR SIKKER LAGRING
 
@@ -274,14 +270,14 @@ Digipost sin lagringstjeneste er et løpende abonnement med automatisk fornyelse
 
 Kjøp av lagring gir Brukeren mulighet for å laste opp og lagre dokumenter opp til produktets øvre lagringsgrense. Beløpet som belastes vil ta utgangspunkt i valgt produkt og er uavhengig av om faktisk benyttet lagringsplass er lavere enn den øvre lagringsgrensen og uavhengig av om et rimeligere abonnement kunne vært valgt.
 
-Brukeren har mulighet til å administrere sitt abonnement under personlige innstillinger på digipost.no. Her vil brukeren også få oversikt over aktivt abonnement, tidligere abonnementer og tidligere betalinger/trekk.
+Brukeren har mulighet til å administrere sitt abonnement under personlige innstillinger på digipost.no. Her vil Brukeren også få oversikt over aktivt abonnement, tidligere abonnementer og tidligere betalinger/trekk.
 
 Brukeren kan til enhver tid oppgradere eller nedgradere sitt abonnement. For å kunne nedgradere gjeldende abonnement må Brukeren først sørge for at benyttet lagringsplass er under maksimal lagringsgrense. Endringene vil tre i kraft umiddelbart. Digipost refunderer ikke penger for abonnement som er endret før abonnementsperioden er avsluttet.
 
-Ved mislighold vil Digipost kunne sperre utvalgt funksjonalitet og tilgang for Brukeren. Dersom betaling av abonnement ikke kan gjennomføres, for eksempel ved at registrert kort har gått ut eller at det ikke er dekning på konto, vil Digipost stenge for at Brukeren kan laste opp nye dokumenter og sende brev gjennom Digipost. Digipost vil også kunne sperre for brukerens tilgang dersom tjenesten misbrukes eller benyttes på en måte som strider mot norsk lov. For øvrig vises det til punkt 10.
+Ved mislighold vil Digipost kunne sperre utvalgt funksjonalitet og tilgang for Brukeren. Dersom betaling av abonnement ikke kan gjennomføres, for eksempel ved at registrert kort har gått ut eller at det ikke er dekning på konto, vil Digipost stenge for at Brukeren kan laste opp nye dokumenter og sende brev gjennom Digipost. Digipost vil også kunne sperre for Brukerens tilgang dersom tjenesten misbrukes eller benyttes på en måte som strider mot norsk lov. For øvrig vises det til punkt 10.
 
 ## 17 JURISDIKSJON OG VERNETING
 
 Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom Posten og Brukeren skal søkes løst i minnelighet. Dersom det ikke lar seg gjøre, kan hver av partene bringe tvisten inn for de ordinære domstoler i samsvar med tvistelovens regler vedrørende verneting.
 
-Gyldig fra 17. august 2016
+Gyldig fra XX. MÅNED ÅR
