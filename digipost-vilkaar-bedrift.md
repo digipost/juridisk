@@ -289,5 +289,8 @@ Posten er å anse som databehandler for personopplysninger som Kunden er behandl
 
 Etter signering er gjennomført får Kunden det ferdig signerte dokumentet. Dette kan lastes ned eller arkiveres i Digipost. Personen(e) som har signert dokumentet får på tilsvarende måte tilgang til en kopi av det signerte dokumentet, som de kan laste ned eller arkivere i Digipost.
 
+## 4. Kundens bruk av digital signering
+
+Ved å bruke funksjonaliteten for digital signering av dokumenter, plikter kunden selv å påse og kontrollere at dokumentet eller dokumentene som skal signeres er adressert til og blir signert av rett person.
 
 Gyldig fra 17. august 2016
