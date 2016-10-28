@@ -291,6 +291,6 @@ Etter signering er gjennomført får Kunden det ferdig signerte dokumentet. Dett
 
 ## 4. Kundens bruk av digital signering
 
-Ved å bruke funksjonaliteten for digital signering av dokumenter, plikter kunden selv å påse og kontrollere at dokumentet eller dokumentene som skal signeres er adressert til og blir signert av rett person.
+Ved å bruke funksjonaliteten for digital signering av dokumenter, er kunden selv ansvarlig for at dokumentet eller dokumentene som skal signeres er adressert til og blir signert av rett person.
 
 Gyldig fra 17. august 2016
