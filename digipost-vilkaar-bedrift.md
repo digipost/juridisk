@@ -291,4 +291,4 @@ Etter signering er gjennomført får Kunden det ferdig signerte dokumentet. Dett
 
 Ved å bruke funksjonaliteten for digital signering av dokumenter, er kunden selv ansvarlig for at dokumentet eller dokumentene som skal signeres er adressert til og blir signert av rett person.
 
-Gyldig fra 17. august 2016
+Gyldig fra 9. november 2016
