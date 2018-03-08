@@ -72,7 +72,7 @@ Posten er ansvarlig for utføring av de oppdrag som Kunden iverksetter i henhold
 
 Dersom Posten blir kjent med feil, mangler, driftsforstyrrelser, og lignende, knyttet til Kundens bruk av Digipost, skal dette varsles Kunden så snart som mulig. Posten forbeholder seg retten til å nekte formidling, eventuelt fjerne Meddelelser i Digipost som etter Postens vurdering er i strid med lov, forskrift eller myndighetsavgjørelse.
 
-Posten kan slette Meddelelser i Digipost som er feilsendt, eller som er i strid med lov, forskrift eller myndighetsavgjørelse eller som på annet vis etter Postens vurdering innebærer misbruk av Digipost. Nevnte gjelder også Meddelelser som allerede er levert til brukeres Digipost-postkasse.
+Posten kan trekke tilbake Meddelelser i Digipost som er feilsendt, eller som er i strid med lov, forskrift eller myndighetsavgjørelse eller som på annet vis etter Postens vurdering innebærer misbruk av Digipost. Nevnte gjelder også Meddelelser som allerede er levert til brukeres Digipost-postkasse. Posten vil informere Kunden dersom slik tilbaketrekking finner sted.
 
 Posten har anledning til å sende Meddelelser til Kunden vedrørende nye muligheter, driftsinformasjon og annen informasjon knyttet til Digipost. Kunden gir videre Posten tillatelse til å benytte Digipost og den e-postadresse som Kunden har oppgitt ved registrering, til å rette markedsføringshenvendelser og andre henvendelser til Kunden. Kunden kan reservere seg mot markedsføringshenvendelser fra Posten, ved å endre innstillinger for dette i Digipost.
 
@@ -84,37 +84,59 @@ Posten kan endre Vilkårene og priser med én måneds skriftlig varsel til Kunde
 
 Partene, deres ansatte og andre som måtte handle på partenes vegne, har taushetsplikt om Digipost og alle forhold partene blir kjent med i forbindelse med bruk av Digipost, herunder forhold som berører den annen parts forretningsmessige forhold, samt data og informasjon benyttet i Digipost. Partene plikter å ta de forholdsregler som er nødvendige for å sikre at materiale eller opplysninger ikke blir brukt til andre formål enn gjennomføring av avtaleforholdet etter disse Vilkårene eller gjort kjent for andre i strid med dette punkt. Ansatte eller andre som fratrer sin tjeneste hos en av partene skal pålegges taushet om forhold som nevnt ovenfor også etter fratredelsen. Taushetsplikten gjelder også etter at avtaleforholdet etter disse Vilkårene er opphørt. Taushetsplikten gjelder ikke når det er plikt til å gi materiale eller opplysninger i henhold til lov, forskrift eller myndighetsavgjørelse.
 
-## **8.** Behandling av personopplysninger
+## **8.** Databehandleravtale
 
-### **8.1.** Postens behandling av personopplysninger på vegne av Kunden
+### **8.1.** Innledning
 
-Posten vil kunne behandle personopplysninger på vegne av Kunden som følge av at Kunden benytter Digipost. Posten vil i den forbindelse opptre som databehandler for Kunden etter personopplysningsloven av 14. april 2000 nr. 31 og innestår for at vilkårene loven pålegger databehandler oppfylles. Kunden er behandlingsansvarlig etter loven og har til enhver tid full rådighet over slike personopplysninger Kunden behandler gjennom Digipost.
+Posten vil behandle personopplysninger som nevnt i punkt 8.2 på vegne av Kunden som følge av at Kunden benytter Digipost. Posten opptrer da som databehandler for Kunden, og Kunden er behandlingsansvarlig. Dette punkt 8 i Vilkårene er å regne som en databehandleravtale mellom Posten og Kunden. Dersom det undertegnes en separat databehandleravtale, vil den gå foran reguleringen i dette punkt 8. Posten innestår for at forpliktelsene som påligger databehandler etter gjeldende personvernrett oppfylles, herunder at Posten har implementert tekniske og organisatoriske tiltak som er egnet til å sikre (i) at behandlingen av personopplysninger oppfyller kravene i gjeldende personvernrett og (ii) vern av den registrertes interesser.
 
-Posten er etter disse Vilkårene å anse som databehandler for personopplysninger som Kunden er behandlingsansvarlig for og som inngår i Digipost, jf. personopplysningsloven § 2 nr. 5, og disse Vilkårene anses som en databehandleravtale. Dersom det undertegnes en separat databehandleravtale vil denne gå foran den generelle avtaleteksten. Posten har plikt og rett til å behandle personopplysninger i samsvar med Vilkårene og personopplysningsloven med forskrifter. Posten kan ikke behandle personopplysningene, herunder overføre, overlate eller på annen måte gi tredjepart tilgang til dem, på annen måte enn det som er avtalt. Som tredjepart regnes andre enn de som arbeider under den behandlingsansvarliges eller databehandlers instruksjonsmyndighet.
+### **8.2.** Opplysninger og formål
 
-Kunden er ansvarlig for å melde behandlingen av personopplysninger til Datatilsynet, dersom slik melding er påkrevet, og ikke benytte Digipost dersom det ikke foreligger grunnlag for behandlingen, behandlingen er rettidig meldt til Datatilsynet før behandlingen tar til eller det er gitt konsesjon for behandlingen dersom dette kreves. Kunden plikter å varsle Posten om sine rutiner knyttet til behandling av personopplysninger dersom disse avviker fra det som er beskrevet i disse Vilkårene.
+Posten er databehandler for Kunden i følgende tilfeller:
 
-### **8.2.** Sikringstiltak hos Posten
+Mottakeridentifisering: Kunden overfører til Posten fødselsnummer, navn og adresse eller annen kontaktinformasjon om Kundens kunder. Disse opplysningen brukes for at Posten skal kunne identifisere hvilke av Kundens kunder som er brukere av Digipost. 
 
-Posten plikter å gjennomføre de sikringstiltak som er pålagt databehandler etter personopplysningsloven §§ 13 og 14, personopplysningsforskriften av 15. desember 2000 nr. 1265 kapittel 2 og 3 og eventuelle andre krav fastsatt i lov eller av offentlig myndighet.
+Sending av meldinger: I forbindelse med Postens mottak og sending av Kundens meldinger opptrer Posten som databehandler frem til meldingen er bekreftet levert og overført til mottaker. Opplysninger som behandles omfatter meldingen og opplysninger om mottaker, som fødselsnummer, navn og adresse eller annen kontaktinformasjon. 
 
-### **8.3.** Instruksjons- og innsynsrett
+### **8.3.** Konfidensialitet
 
-Posten plikter å påse at samtlige personer i virksomheten som har tilgang til opplysninger som behandles på vegne av Kunden, er kjent med disse Vilkårene. Posten er kjent med at Kunden i medhold av personopplysningsloven plikter å påse at Kundens databehandlere oppfyller kravene i personopplysningsloven. For å oppfylle disse pliktene er partene enige om at Kunden til enhver tid skal få den nødvendige tilgang til og innsyn i dataene som behandles og systemene som benyttes. Posten plikter å bistå Kunden med øvrig informasjon og praktisk bistand så langt det er nødvendig.
+Posten skal påse at det kun er personer som direkte trenger tilgang til personopplysninger for å oppfylle Posten forpliktelser overfor Kunden som har tilgang til personopplysningene. Posten skal sørge for at de som er involvert i behandlingen av personopplysningene har forpliktet seg til konfidensialitet eller er underlagt lovbestemt taushetsplikt.
 
-### **8.4.** Behandling av andre personopplysninger i Digipost
+### **8.4.** Instruks
 
-Som en del av tjenestene i Digipost vil Kunden kunne få tilgang til personopplysninger hvor Posten er behandlingsansvarlig. Kunden forplikter seg til kun å benytte slike personopplysninger som beskrevet fra Digipost, og ikke endre, bearbeide eller videreformidle dem mv.
+Digipost inneholder funksjonalitet som er standard for alle kunder. Der gjeldende personopplysningsrett krever at Kunden skal gi databehandler dokumenterte instrukser for hvordan personopplysninger skal behandles, skal slike instruks regnes for å være gitt i henhold til hva som fremgår av Vilkårene og standard funksjonalitet. Kunden plikter å varsle Posten dersom Kunden mener at den behandling av personopplysninger som fremgår av vilkårene og funksjonaliteten i Digipost (instruksen) avviker fra Kundens rutiner knyttet til behandling av personopplysninger.
 
-### **8.5.** Behandling av personopplysninger hvor Posten er behandlingsansvarlig
+### **8.5.** Bistand til Kunden
 
-Posten vil som følge av at Kunden benytter Digipost også behandle personopplysninger hvor Posten er behandlingsansvarlig. Behandlingsansvarlig er i slike tilfeller Posten Norge AS, Att: Digipost, Postboks 1500 Sentrum, 0001 Oslo, +47 23 14 90 00. Posten vil ved all slik behandling av personopplysninger følge bestemmelsene i personopplysningsloven av 14. april 2000 nr 31 med forskrifter, herunder gjennomføre de sikringstiltak som følger av personopplysningsloven §§ 13 og 14, personopplysningsforskriften av 15. desember 2000 nr. 1265 kapittel 2 og 3 og eventuelle andre krav fastsatt i lov eller av offentlig myndighet. Hvilke opplysninger om Kunden som behandles, er inntatt i punkt 8.7 nedenfor.
+Kunden er ansvarlig for å påse at det foreligger relevant og tilstrekkelig grunnlag for behandlingen, samt at øvrige vilkår for behandling er oppfylt. Posten skal bistå Kunden med å oppfylle sine forpliktelser etter gjeldende personvernrett.
 
-### **8.6.** Samtykke og behandlingsgrunnlag
+### **8.6.** Utlevering til tredjeparter
 
-Personopplysninger i Digipost vil bli behandlet for å oppfylle rettigheter og plikter etter disse Vilkårene, jf. personopplysningsloven § 8 a). I tillegg vil personopplysningene bli benyttet blant annet for å forbedre Digipost og rette markedsføringshenvendelser til Kunden, jf. personopplysningsloven § 8 f). Kunden samtykker med dette til behandling av samtlige personopplysninger som er omhandlet under punkt 8.7 nedenfor.
+Dersom den registrerte, myndigheter eller andre ber om informasjon fra Posten vedrørende behandlingen av personopplysninger som Posten behandler på vegne av Kunden, skal Posten henvise forespørselen til Kunden. Hvis Posten etter gjeldende personvernrett er pålagt å utlevere personopplysningene, må Posten informere Kunden om dette.
 
-### **8.7.** Personopplysninger som behandles
+### **8.7.** Kundens rett til informasjon
+
+Posten skal på Kundens forespørsel gi Kunden slik informasjon og nødvendig assistanse for at Kunden skal kunne vise at forpliktelsene etter gjeldende personvernrett er oppfylt, herunder den nødvendige tilgang til og innsyn i dataene som behandles og systemene som benyttes. Posten skal videre bidra til revisjoner, herunder Kundens inspeksjoner.
+
+### **8.8.** Retting, sletting og tilbakelevering
+
+Posten skal, i tråd med Digiposts rutiner for dette, rette, slette eller returnere alle personopplysninger som Posten har behandlet på vegne av Kunden etter disse Vilkårene og som nevnt i punkt 8.2. Personopplysninger overført fra Kunden vil bli slettet senest 3 måneder etter overføringstidspunktet. Dette gjelder med mindre gjeldende personvernrett krever lagring av personopplysningene.
+
+### **8.9.** Bruk av underleverandører
+
+Kunden samtykker til at Posten benytter underleverandører for utførelsen av sine forpliktelser i henhold til Vilkårene. Posten vil opprettholde en liste over underleverandører til Digipost på digipost.no. og gi beskjed til Behandlingsansvarlig før eventuelle tiltenkte endringer. Posten er ansvarlig overfor Kunden for underleverandørenes utførelse av sine forpliktelser. Ved bruk av underleverandører i en stat utenfor EØS vil Posten alltid påse at vilkårene for overføring til tredjeland er oppfylt.
+
+## **9.** Behandling av personopplysninger
+
+### **9.1.** Postens behandling av personopplysninger relatert til Kunden
+
+Som ledd i Postens oppfyllelse av avtalen med Kunden om bruk av Digipost vil Posten behandle personopplysninger relatert til Kunde, herunder om ansatte, eventuelt andre personer tilknyttet Kunden. 
+
+Behandlingsansvarlig er i slike tilfeller Posten Norge AS, Att: Digipost, Postboks 1500 Sentrum, 0001 Oslo, +47 23 14 90 00. 
+
+Personopplysninger i Digipost vil bli behandlet for å oppfylle rettigheter og plikter etter disse Vilkårene. I tillegg vil personopplysningene bli benyttet blant annet for å forbedre Digipost og rette markedsføringshenvendelser relatert til kundeforholdet. Ytterligere bruk av personopplysninger vil ikke bli foretatt uten samtykke. 
+
+### **9.2.** Personopplysninger som behandles
 
 Det samles inn informasjon om Kunden og brukere i forbindelse med opprettelse av bruker/konto i Digipost og videre bruk av Digipost. Følgende personopplysninger samles inn og behandles om Kunden og brukere:
 
@@ -144,7 +166,7 @@ Digipost vil også kunne lagre brukerens IP-adresse. En IP-adresse er et unikt n
 
 Ovennevnte informasjon brukes først og fremst til å gjøre de ulike tjenestene i Digipost mulig, å administrere og videreutvikle tjenesten, autentiseringsprosesser, diagnostisere problemer i Digipost og tilhørende systemer, å utvikle nye ideer og tjenester, samt å kommunisere med brukerne.
 
-### **8.8.** Bruk av fødsels- og organisasjonsnummer
+### **9.3.** Bruk av fødsels- og organisasjonsnummer
 
 For at Kunden skal kunne logge seg på sin personlige Digipost-konto, må Kunden benytte fødsels- eller organisasjonsnummer og sin valgte autentiseringsløsning (BankID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Kunden forplikter seg til å holde sine personlige opplysninger hemmelig for andre ( jf. punkt 4.1 ovenfor). Posten er ikke ansvarlig for feil eller mangler med autentiseringsløsningen.
 
@@ -152,27 +174,33 @@ Digipost registrerer og oppbevarer fødsels- og/eller organisasjonsnummer i forb
 
 Fødselsnummer vil ikke videreformidles, utleveres eller anvendes til andre formål enn Digipost med mindre den offentlige myndigheten, virksomheten eller organisasjonen har tillatelse til dette på annet grunnlag. Fødselsnummeret videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på. Digipost benytter Postens adresseregister for å kunne koble Kunden opp mot en fysisk adresse. Endrer Kunden adresse hos Posten, vil den fysiske adressen Kunden knyttes opp mot i Digipost automatisk oppdateres.
 
-### **8.9.** Utlevering av personopplysninger til tredjepart
+### **9.4.** Utlevering til tredjeparter
 
 Dersom det er en forutsetning for å sende, motta eller arkivere Meddelelser, eller tilby eller utføre andre tjenester knyttet til Digipost, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
 
 Med de unntak som følger av Vilkårene, vil ikke personopplysninger bli utlevert til tredjepart for kommersiell bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter for å hjelpe disse til å bedre kunne forstå bruksmønster for ulike typer Meddelelser, tilbud, annonsering og andre tjenester/funksjonalitet knyttet til Digipost.
 
-## **9.** Feil eller mangler ved Digipost
+Posten skal ikke, med mindre annet følger av Vilkårene, uten forutgående instruksjoner fra Kunden, overføre eller på annen måte utlevere personopplysninger eller annen informasjon knyttet til behandlingen av personopplysninger til en tredjepart.
 
-### **9.1.** Reklamasjon
+### **9.5.** Behandling av andre personopplysninger i Digipost
+
+Som en del av tjenestene i Digipost vil Kunden kunne få tilgang til personopplysninger hvor Posten er behandlingsansvarlig. Kunden forplikter seg til kun å benytte slike personopplysninger som beskrevet fra Digipost, og ikke endre, bearbeide eller videreformidle dem mv.
+
+## **10.** Feil eller mangler ved Digipost
+
+### **10.1.** Reklamasjon
 
 Kunden må gjøre gjeldende feil eller mangel ved Digipost som medfører at Kunden ikke får levert de tjenester Kunden har krav på etter disse Vilkårene innen rimelig tid, og senest innen 5 dager etter at Kunden oppdaget eller burde ha oppdaget feilen eller mangelen.
 
-### **9.2.** Avhjelp
+### **10.2.** Avhjelp
 
 Posten skal snarest mulig etter å ha blitt kjent med en slik feil eller mangel ved Digipost, iverksette tiltak for å rette feilen eller mangelen.
 
-### **9.3.** Prisavslag
+### **10.3.** Prisavslag
 
 Forekommer det feil eller mangel ved Digipost som medfører at Kunden ikke får levert de tjenester Kunden har krav på etter disse Vilkårene, kan Kunden kreve prisavslag. Kunden vil i slike tilfeller normalt bli godskrevet et forholdsmessig prisavslag for den aktuelle tjenesten. Dersom Kunden i slike tilfeller har vært forhindret fra å sende ut Meddelelser, har ikke Kunden rett til prisavslag for disse Meddelelsene, men vil kunne ha rett til erstatning dersom vilkårene for dette er oppfylt.
 
-### **9.4.** Erstatning. Ansvarsbegrensning
+### **10.4.** Erstatning. Ansvarsbegrensning
 
 Posten er ikke på noen måte ansvarlig for konsekvenstap eller indirekte tap som følge av slike feil eller mangler, med mindre tapet er forårsaket ved forsett fra Postens side. Som indirekte tap regnes blant annet: tap som følge av minsket eller bortfalt produksjon eller omsetning (driftsavbrudd), tap som følge av at tjenesten ikke kan nyttiggjøres som forutsatt (avsavn), tapt fortjeneste som følge av at en kontrakt med tredjemann faller bort eller ikke blir oppfylt eller tap som følge av ødelagte eller forringede data, eller andre uforutsette skader på grunn av mislighold eller feil i tjenesten.
 
@@ -182,35 +210,35 @@ Postens samlede erstatningsansvar overfor Kunden er under enhver omstendighet be
 
 Beror Kundens direkte tap på kontraktsmedhjelpere som Posten har engasjert for å utføre ytelsen overfor Kunden, er Posten ansvarlig bare om også disse kontraktsmedhjelperne ville være ansvarlige etter ovennevnte på samme måte som Posten ville vært.
 
-### **9.5.** Hevning
+### **10.5.** Hevning
 
 Kunden kan etter skriftlig varsel til Posten heve avtaleforholdet Kunden har med Posten etter disse Vilkårene med umiddelbar virkning dersom det foreligger vesentlig mislighold fra Postens side.
 
-## **10.** Kundens mislighold
+## **11.** Kundens mislighold
 
-### **10.1.** Betalingsmislighold fra Kunden
+### **11.1.** Betalingsmislighold fra Kunden
 
 Ved betalingsmislighold kan Posten kreve forsinkelsesrente etter lov om renter ved forsinket betaling. I tillegg kan Posten pålegge de til enhver tid gjeldende lovbestemte gebyrer ved innkrevning av utestående betaling fra Kunden. Ved mislighold av betaling anses ethvert utestående krav som forfalt.
 
-### **10.2.** Hevning og stengning
+### **11.2.** Hevning og stengning
 
 Dersom det foreligger vesentlig mislighold fra Kundens side, kan Posten etter skriftlig varsel til Kunden umiddelbart heve avtaleforholdet med Kunden etter disse Vilkårene, med den virkning at Kunden ikke får tilgang til Digipost. Som vesentlig mislighold regnes bl.a. at Kunden har oppgitt feil eller mangelfull informasjon om Kunden, betalingsmislighold, at det som følge av alvorlig svikt i Kundens kredittverdighet eller evne til å betale er forventet at Kunden sannsynligvis ikke kommer til å oppfylle sine forpliktelse(r) etter Vilkårene og at det derfor vil kunne inntre kontraktsbrudd som gir Posten hevingsrett med mindre Kunden stiller betryggende sikkerhet for sin oppfyllelse. Det regnes videre som vesentlig mislighold at Kunden bryter lov, forskrift eller myndighetsavgjørelse eller på annen måte misbruker Digipost eller informasjon eller data som er en del av Digipost. Det vises også til de Postens Generelle betalingsbetingelser, som kommer til anvendelse så langt de passer.
 
 Posten har rett til midlertidig å stenge tilgangen til Digipost (suspensjon) inntil undersøkelser eller avklaringer om Kundens bruk av Digipost er gjennomført. Posten skal så langt mulig varsle Kunden skriftlig ved e-post og/eller Meddelelse til Brukerens Digipost-postkasse før tilgangen til Digipost midlertidig stenges. Uavhengig av om det foreligger et mislighold eller forventet mislighold, kan Posten heve avtaleforholdet hvis det i forbindelse med Kundens virksomhet åpnes gjeldsforhandlinger, akkord eller konkurs, eller annen form for kreditorstyring gjør seg gjeldende.
 
-## **11.** Skadeløsholdelse
+## **12.** Skadeløsholdelse
 
 Kunden skal holde Posten skadesløs i den utstrekning Posten mottar krav fra eller pålegges ansvar overfor tredjepart og kravet eller ansvaret er basert på Kundens krenkelse eller medvirkning til krenkelse av andres lovbeskyttede rettigheter (inkludert men ikke begrenset til opphavsrett eller tilgrensende rettigheter, patent, varemerke, design, know-how eller bedriftshemmelighet), eller brudd på eller medvirkning til brudd på lov, forskrift eller myndighetsavgjørelse og/eller disse Vilkårene ved bruk av Digipost. Kunden skal i slike tilfeller ha rett til å tre inn i kravet, eller i samarbeid med Posten gis anledning til å ivareta sine interesser som om kravet var rettet mot Kunden selv. Dersom et slikt krav rettes mot Posten skal Kunden dekke, foruten det direkte økonomiske tap, også utgifter til bistand for å håndtere kravet på en forsvarlig måte samt andre utgifter som står i en rimelig sammenheng med tredjeparts krav. Dersom Kunden blir kjent med at krav vil bli reist mot Posten i forbindelse med Kundens bruk av Digipost, skal Kunden umiddelbart varsle Posten skriftlig.
 
-## **12.** Fritakelsesgrunner (force majeure)
+## **13.** Fritakelsesgrunner (force majeure)
 
 Posten er ikke ansvarlig for tap som skyldes lovinngrep eller administrative handlinger, inntruffet eller truende krig, opprør, borgerlige uroligheter, hærverk, sabotasje, terror, streik, lockout, boikott og blokade, uavhengig om det er Posten selv eller Postens organisasjon konflikten er rettet mot, eller iverksatt av, og uansett konfliktens årsak, herunder også når konflikten kun rammer deler av Postens funksjoner, samt brudd i driften (herunder svikt i leveranser fra eksterne underleverandører) som skyldes ovenstående.
 
-## **13.** Overdragelser av rettigheter og plikter mv.
+## **14.** Overdragelser av rettigheter og plikter mv.
 
 Posten kan fritt overdra sine rettigheter og plikter i henhold til avtaleforholdet etter disse Vilkårene mellom selskaper internt i Posten-konsernet. Rett til vederlag kan fritt overdras også utenfor Posten-konsernet. Kunden kan overdra retten til å bruke Digipost som del av fusjon, fisjon eller virksomhetsoverdragelse hvor samtlige av Kundens aktiva overdras. Det samme gjelder ved overdragelser til andre enheter i samme konsern. Før slik overdragelse må det ikke foreligge utestående forpliktelser overfor Posten, og Kunden må skriftlig varsle Posten før overdragelse skjer. Tjenestene i Digipost kan ikke selges, leies ut, eller på annen måte gjøres tilgjengelig for tredjepart, herunder ved at Kunden utfører tjenester for tredjepart, verken mot vederlag eller gratis.
 
-## **14.** Varsel
+## **15.** Varsel
 
 Med mindre annet fremgår uttrykkelig av disse Vilkårene, skal varsel i forbindelse med avtaleforholdet etter disse Vilkårene skje skriftlig og sendes til følgende adresse:
 
@@ -227,15 +255,17 @@ Til Kunden:
 
 Kundens Digipost-postkasse eller den e-postadresse som Kunden har oppgitt ved registrering, eller den postadresse som Kunden er registrert med i Digipost.
 
-## **15.** Ordinær oppsigelse
+## **16.** Ordinær oppsigelse
 
 Partene har gjensidig rett til å si opp avtaleforholdet etter disse Vilkårene med tre måneders skriftlig varsel, uten nærmere begrunnelse, forutsatt at alle utestående forhold er gjort opp og at partene ikke har krav mot hverandre.
+
+Partene kan si opp avtalen med kortere frist dersom Kunden ikke aksepterer gjeldende instrukser, jf. Vilkårene punkt 8.4 eller en ny underleverandør, jf. Vilkårene punkt 8.9.
 
 Ved opphør av avtalen ved oppsigelse vil Kundens Digipost-konto og lagrede data slettes på opphørstidspunktet. Kunden er selv ansvarlig for å ta kopi av alle data Kunden ønsker å beholde etter opphørstidspunktet. Posten forbeholder seg retten til å beholde data som er nødvendig for oppfølging av kundeforholdet.
 
 Dersom Kunden slettes i Enhetsregisteret og/eller Foretaksregisteret, vil Kundens Digipost-konto og lagrede data slettes tre måneder etter Posten fikk beskjed om slettingen. De(n) som kan forplikte Kunden må kontakte Digipost for å få tilgang til Kundens Digipost-konto innen sletting. Posten forbeholder seg retten til å beholde data som er nødvendig for oppfølging av kundeforholdet.
 
-## **16.** Jurisdiksjon og verneting
+## **17.** Jurisdiksjon og verneting
 
 Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom Posten og Kunden skal søkes løst i minnelighet. Dersom det ikke lar seg gjøre, kan hver av partene bringe tvisten inn for de ordinære domstoler med Oslo tingrett som eksklusivt verneting.
 
@@ -283,7 +313,7 @@ Dersom en bruker avbryter en signeringsprosess etter å ha initiert tjenesten, t
 
 Kunden vil med Posten signering kunne sende dokumenter som skal signeres digitalt. Mottakeren av slike dokumenter kan signere ved bruk av en allerede utstedt e-ID (Bank ID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Listen over tilgjengelige e-ID-er som benyttes vil kunne endre seg. Kunden plikter å identifisere eller merke forsendelsen på den måten som Posten til enhver tid krever.
 
-Posten er å anse som databehandler for personopplysninger som Kunden er behandlingsansvarlig for og som inngår i Posten signering, jf kapittel 8.1 i de generelle vilkårene. Posten er ikke behandlingsansvarlig for noen opplysninger i Posten signering.
+Posten er å anse som databehandler for personopplysninger som Kunden er behandlingsansvarlig for og som inngår i Posten signering, jf kapittel 8 i de generelle vilkårene. Posten er ikke behandlingsansvarlig for noen opplysninger i Posten signering.
 
 Etter signering er gjennomført får Kunden det ferdig signerte dokumentet. Dette kan lastes ned eller arkiveres i Digipost. Personen(e) som har signert dokumentet får på tilsvarende måte tilgang til en kopi av det signerte dokumentet, som de kan laste ned eller arkivere i Digipost.
 
@@ -291,4 +321,12 @@ Etter signering er gjennomført får Kunden det ferdig signerte dokumentet. Dett
 
 Ved å bruke funksjonaliteten for digital signering av dokumenter, er kunden selv ansvarlig for at dokumentet eller dokumentene som skal signeres er adressert til og blir signert av rett person.
 
-Gyldig fra 9. november 2016
+## Bruk av underleverandører
+
+Posten benytter følgende underleverandører i behandling av personopplysninger hvor Posten er databehandler for Kunden:
+
+Evry ASA
+Bekk Consulting AS
+Andvord Grafisk AS
+
+Gyldig fra 1. april 2018
