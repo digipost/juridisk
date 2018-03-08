@@ -86,7 +86,7 @@ Postens ansvar omfatter ikke feil, mangler eller driftsforstyrrelser knyttet til
 
 Posten overvåker ikke innholdet i Meddelelser som sendes til, mottas eller arkiveres i Digipost-postkassen, og er således ikke ansvarlig for Meddelelsenes innhold og form, samt innhold i eventuelle lenker.
 
-Dersom Posten blir kjent med at Meddelelser i Digipost er feilsendt, eller er i strid med lov, forskrift eller myndighetsavgjørelse eller på annet vis etter Postens vurdering innebærer misbruk av Digipost, kan Posten slette disse. Nevnte gjelder også Meddelelser som allerede er levert til Brukerens Digipost-postkasse.
+Dersom Posten blir kjent med at Meddelelser i Digipost er feilsendt, eller er i strid med lov, forskrift eller myndighetsavgjørelse eller på annet vis etter Postens vurdering innebærer misbruk av Digipost, kan Posten trekke disse tilbake. Nevnte gjelder også Meddelelser som allerede er levert til Brukerens Digipost-postkasse. Posten vil informere Brukeren dersom slik tilbaketrekking finner sted.
 
 Posten har anledning til å sende Meddelelser til Brukeren vedrørende nye muligheter, driftsinformasjon og annen informasjon knyttet til Digipost.
 
