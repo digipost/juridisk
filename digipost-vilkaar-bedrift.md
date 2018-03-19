@@ -120,7 +120,7 @@ Posten skal på Kundens forespørsel gi Kunden slik informasjon og nødvendig as
 
 ### **8.8.** Retting, sletting og tilbakelevering
 
-Posten skal, i tråd med Digiposts rutiner for dette, rette, slette eller returnere alle personopplysninger som Posten har behandlet på vegne av Kunden etter disse Vilkårene og som nevnt i punkt 8.2. Personopplysninger overført fra Kunden vil bli slettet senest 3 måneder etter overføringstidspunktet. Dette gjelder med mindre gjeldende personvernrett krever lagring av personopplysningene.
+Posten skal, i tråd med Digiposts rutiner for dette, rette, slette eller returnere alle personopplysninger som Posten har behandlet på vegne av Kunden etter disse Vilkårene og som nevnt i punkt 8.2. Personopplysninger overført fra Kunden vil bli slettet senest 6 måneder etter overføringstidspunktet. Dette gjelder med mindre gjeldende personvernrett krever lagring av personopplysningene.
 
 ### **8.9.** Bruk av underleverandører
 
