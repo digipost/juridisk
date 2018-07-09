@@ -138,4 +138,4 @@ Dersom app-en krasjer vil brukerne bli spurt om de ønsker å sende informasjon 
 
 ### Personvernombud
 
-Epostadressen til Personvernombudet i Posten Norge AS: <personvernombud@posten.no>
+E-postadressen til Personvernombudet i Posten Norge AS: <personvernombud@posten.no>
