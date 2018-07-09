@@ -135,3 +135,7 @@ Det er ingen vilkår for å innstallere app-en, men app-en fungerer kun for regi
 Det logges kall mot Digipost sine servere, hvilket er normalt for alle web-tjenester. Disse loggene oppbevares i ca. to måneder, før de slettes.
 
 Dersom app-en krasjer vil brukerne bli spurt om de ønsker å sende informasjon om dette til oss. Da sendes aggregerte krasjlogger. Disse loggene er anonymiserte og benyttes kun til feilsøking.
+
+### Personvernombud
+
+E-postadressen til Personvernombudet i Posten Norge AS: <personvernombud@posten.no>
