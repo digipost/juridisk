@@ -10,7 +10,7 @@ Dokumenter som du har mottatt eller lastet opp til Digipost er din private infor
 
 ## Behandlingsansvarlig
 
-Posten vil behandle personopplysninger som følge av at brukeren benytter Digipost og vil ved all behandling av personopplysninger følge bestemmelsene i personopplysningsloven av 14. april 2000 nr. 31. Behandlingsansvarlig er Posten Norge AS, Postboks 1500 Sentrum, 0001 Oslo.
+Posten vil behandle personopplysninger som følge av at brukeren benytter Digipost. Vi behandler personopplysningene dine innenfor rammen av gjeldende personvernregelverk og denne erklæringen. Behandlingsansvarlig er Posten Norge AS, Postboks 1500 Sentrum, 0001 Oslo.
 
 ## Formålet med behandlingen av opplysningene
 
