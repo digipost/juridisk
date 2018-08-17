@@ -108,13 +108,13 @@ Taushetsplikten gjelder ikke når det er plikt til å gi materiale eller opplysn
 
 ## **8** BEHANDLING AV PERSONOPPLYSNINGER
 
-Posten vil behandle personopplysninger som følge at Brukeren benytter Digipost og vil ved all behandling av personopplysninger følge bestemmelsene i personopplysningsloven av 14. april 2000 nr 31 med forskrifter. Behandlingsansvarlig er Posten Norge AS, Postboks 1500 Sentrum, 0001 Oslo.
+Posten vil behandle personopplysninger som følge at Brukeren benytter Digipost og vil ved all behandling av personopplysninger følge bestemmelsene i gjeldende personvernregelverk. Behandlingsansvarlig er Posten Norge AS, Postboks 1500 Sentrum, 0001 Oslo.
 
 ### **8.1** Samtykke og behandlingsgrunnlag
 
 Ved bruk av Digipost vil det bli behandlet personopplysninger om Brukeren. Med personopplysninger menes opplysninger og vurderinger som kan knyttes til en enkeltperson. Hvilke opplysninger som behandles, er inntatt i punkt 8.2 nedenfor. Med behandling menes enhver bruk av personopplysninger, som f.eks. innsamling, registrering, sammenstilling, lagring og utlevering eller en kombinasjon av slike bruksmåter.
 
-Personopplysninger i Digipost vil bli behandlet for å oppfylle rettigheter og plikter etter disse Vilkårene, se bl.a. punkt 4.3, jf. personopplysningsloven § 8 a). I tillegg vil personopplysningene bli benyttet blant annet for å forbedre Digipost og rette henvendelser til Brukeren, jf. personopplysningsloven § 8 f). Brukeren samtykker med dette til behandling av samtlige personopplysninger som er omhandlet under punkt 8.2 nedenfor.
+Personopplysninger i Digipost vil bli behandlet for å oppfylle rettigheter og plikter etter disse Vilkårene, se bl.a. punkt 4.3. I tillegg vil personopplysningene bli benyttet blant annet for å forbedre Digipost og rette henvendelser til Brukeren. Brukeren samtykker med dette til behandling av samtlige personopplysninger som er omhandlet under punkt 8.2 nedenfor.
 
 Posten vil sende Meddelelser til Brukeren blant annet om ny funksjonalitet, driftsinformasjon og annen informasjon knyttet til Digipost. For dette formål gir Brukeren  Posten tillatelse til å benytte den e-postadresse som Brukeren har oppgitt ved registrering. Posten kan videre rette markedsføringshenvendelser til Brukeren i Digipost og oppgitt e-postadresse, dersom Brukeren har samtykket til dette. Brukeren kan reservere seg mot markedsføringshenvendelser fra Posten, ved å endre innstillinger for dette i Digipost.
 
@@ -162,7 +162,7 @@ For at Brukeren skal kunne logge seg på sin personlige Digipost-konto, må Bruk
 
 Digipost registrerer og oppbevarer Brukerens fødselsnummer i forbindelse med opprettelsen av Digipost-postkasse. Brukers fødselsnummer behandles utelukkende for autentisering av Brukeren og for å sikre at Brukeren er rett mottaker (identifisering) av Meddelelser fra offentlige myndigheter, virksomheter og organisasjoner som har tillatelse til å sende Meddelelser knyttet opp mot fødselsnummer som identifiseringsnøkkel.
 
-Brukerens fødselsnummer vil ikke anvendes til andre formål enn Digipost, videreformidles eller utleveres med mindre den offentlige myndigheten, virksomheten eller organisasjonen har lovlig grunnlag for innhenting eller bruk av fødselsnummer, jf personopplysningsloven § 8. Fødselsnummeret videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på.
+Brukerens fødselsnummer vil ikke anvendes til andre formål enn Digipost, videreformidles eller utleveres med mindre den offentlige myndigheten, virksomheten eller organisasjonen har lovlig grunnlag for innhenting eller bruk av fødselsnummer. Fødselsnummeret videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på.
 
 Digipost benytter Posten Norge AS sitt adresseregister for å kunne koble Brukeren sammen med en fysisk adresse. Endrer Brukeren adresse hos Posten Norge AS, vil den fysiske adressen Brukeren knyttes opp mot i Digipost automatisk oppdateres.
 
@@ -174,7 +174,7 @@ Med unntak av det som følger av Vilkårene, vil ikke personopplysninger bli utl
 
 ### **8.5** Informasjonssikkerhet og sikringstiltak
 
-Posten plikter å gjennomføre de sikringstiltak som følger av personopplysningsloven §§ 13 og 14, personopplysningsforskriften av 15. desember 2000 nr. 1265 kapittel 2 og 3 og eventuelle andre krav fastsatt i lov eller av offentlig myndighet.
+Posten plikter å gjennomføre de sikringstiltak som følger av gjeldende personvernregelverk og eventuelle andre krav fastsatt i lov eller av offentlig myndighet.
 
 ## **9** FEIL ELLER MANGLER VED DIGIPOST
 
