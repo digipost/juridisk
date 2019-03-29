@@ -152,7 +152,7 @@ I tillegg samles det inn opplysninger som ikke kan knyttes til Brukeren og som k
 
 For å logge på og benytte Digipost er det forutsetning at cookies aksepteres. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Digipost benytter også cookies for innsamling av statistikk. Det foretas ingen identifisering av den enkelte bruker som person i forbindelse med anvendelse av cookies. Digipost vil også kunne benytte tilsvarende teknologi som cookies samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden. For mer informasjon om vår bruk av cookies vises det til vår hjemmeside www.digipost.no.
 
-Digipost vil også kunne lagre Brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett. Brukerens IP-adresse vil kun bli benyttet til statistiske formål og til innsamling av demografisk informasjon i vid forstand, og vil derfor ikke kunne knyttes til Brukeren eller kunden.
+Digipost vil også kunne lagre Brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett.
 
 Ovennevnte informasjon brukes til å gjøre de ulike tjenestene i Digipost mulig, administrere og videreutvikle tjenesten, autentiseringsprosesser, diagnostisere problemer i Digipost og tilhørende systemer, å utvikle nye ideer og tjenester, samt å kommunisere med brukerne.
 
@@ -164,7 +164,7 @@ Digipost registrerer og oppbevarer Brukerens fødselsnummer i forbindelse med op
 
 Brukerens fødselsnummer vil ikke anvendes til andre formål enn Digipost, videreformidles eller utleveres med mindre den offentlige myndigheten, virksomheten eller organisasjonen har lovlig grunnlag for innhenting eller bruk av fødselsnummer. Fødselsnummeret videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på.
 
-Digipost benytter Posten Norge AS sitt adresseregister for å kunne koble Brukeren sammen med en fysisk adresse. Endrer Brukeren adresse hos Posten Norge AS, vil den fysiske adressen Brukeren knyttes opp mot i Digipost automatisk oppdateres.
+Digipost benytter Posten Norge AS sitt adresseregister og Folkeregisteret for å kunne koble Brukeren sammen med en fysisk adresse. Endrer Brukeren adresse hos Posten Norge AS, vil den fysiske adressen Brukeren knyttes opp mot i Digipost automatisk oppdateres.
 
 ### **8.4** Utlevering av personopplysninger til tredjepart
 
