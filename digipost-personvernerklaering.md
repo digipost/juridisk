@@ -50,7 +50,7 @@ Ved bruk av Digipost samles det også inn opplysninger som ikke kan knyttes til 
 
 For å logge på og benytte Digipost er det forutsetning at cookies aksepteres. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Digipost benytter også cookies for innsamling av statistikk. Det foretas ingen identifisering av den enkelte bruker som person i forbindelse med anvendelse av cookies. Digipost vil også kunne benytte tilsvarende teknologi som cookies samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden. For mer informasjon om vår bruk av cookies vises det til vår hjemmeside www.digipost.no.
 
-Digipost vil også kunne lagre brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett. Brukerens IP-adresse vil kun bli benyttet til statistiske formål og til innsamling av demografisk informasjon i vid forstand, og vil derfor ikke kunne knyttes til brukeren eller kunden.
+Digipost vil også kunne lagre brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett.
 
 ### Bruk av fødselsnummer
 
@@ -60,7 +60,7 @@ Digipost registrerer og oppbevarer Brukerens fødselsnummer i forbindelse med op
 
 Brukerens fødselsnummer vil ikke videreformidles, utleveres eller anvendes til andre formål enn Digipost med mindre den offentlige myndigheten, virksomheten eller organisasjonen har tillatelse til dette på annet grunnlag. Fødselsnummer videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på.
 
-Digipost benytter Posten Norge AS sitt adresseregister for å kunne koble Brukeren sammen med en fysisk adresse. Endrer Brukeren adresse hos Posten Norge AS, vil den fysiske adressen Brukeren knyttes opp mot i Digipost automatisk oppdateres.
+Digipost benytter Posten Norge AS sitt adresseregister og Folkeregisteret for å kunne koble Brukeren sammen med en fysisk adresse. Endrer Brukeren adresse hos Posten Norge AS, vil den fysiske adressen Brukeren knyttes opp mot i Digipost automatisk oppdateres.
 
 ## Utlevering til tredjepart
 
@@ -88,7 +88,7 @@ Posten har implementert følgende sikkerhetstiltak i Digipost (ikke uttømmende)
 * Alle handlinger som utføres av driftspersonell logges i egne hendelsesregistre.
 * Alle dokumenter ligger lagret kryptert, med sterke krypteringsnøkler.
 * Alle avsendere og mottakere blir identifisert etter strenge retningslinjer. Dette gjør at du alltid kan være sikker på hvilken avsender en meddelelse er sendt fra.
-* Digiposts tjenere er plassert i et av Norges sikreste datasentre, hos en leverandør som har lang erfaring med å håndtere virksomhetskritisk og sensitiv informasjon.
+* Digiposts tjenere er plassert i sikre datasentre, hos en leverandør som har lang erfaring med å håndtere virksomhetskritisk og sensitiv informasjon.
 * Det blir tatt sikkerhetskopi av alle dine dokumenter, og alle dokumenter blir lagret på to forskjellige steder til enhver tid slik at du er beskyttet mot brann, ødeleggelse av tjenere osv.
 * Postens ansatte eller ansatte hos underleverandører har ikke tilgang til dine dokumenter. Det er kun et fåtall driftspersoner som har tilgang til Digipost sine systemer, men siden alle dokumenter ligger lagret kryptert, så har heller ikke disse innsyn i dine data. 
 
