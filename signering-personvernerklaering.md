@@ -69,7 +69,7 @@ For å logge på og benytte Posten signering er det derimot en forutsetning at c
 * signering.posten.no
 * id.signicat.no
 
-Posten signering vil også kunne benytte tilsvarende teknologi som cookies, som ”web-beacons”, ”pixel tags” mv. samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden.Posten signering vil også kunne lagre din IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett. Din IP-adresse vil kun bli benyttet til statistiske formål og til innsamling av demografisk informasjon i vid forstand, og vil derfor ikke kunne knyttes til deg.
+Posten signering vil også kunne benytte tilsvarende teknologi som cookies, som ”web-beacons”, ”pixel tags” mv. samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden.Posten signering vil også kunne lagre din IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett.
 
 ### Bruk av fødselsnummer
 
@@ -92,4 +92,4 @@ Posten signering har som mål å være den sikreste internettløsningen i Norge,
 * Alle handlinger som utføres av driftspetrsonell logges i egne hendelsesregistre.
 * Alle dokumenter ligger lagret kryptert, med sterke krypteringsnøkler.
 * Alle avsendere og mottakere blir identifisert etter strenge retningslinjer. Dette gjør at du alltidkan være sikker på hvilken avsender en meddelelse er sendt fra.
-* Postens tjenere er plassert i et av Norges sikreste driftssentre, hos en leverandør som har lang erfaring med å håndtere virksomhetskritisk og sensitiv informasjon.
+* Postens tjenere er plassert i sikre driftssentre, hos en leverandør som har lang erfaring med å håndtere virksomhetskritisk og sensitiv informasjon.
