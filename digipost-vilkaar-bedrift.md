@@ -269,6 +269,16 @@ Dersom Kunden slettes i Enhetsregisteret og/eller Foretaksregisteret, vil Kunden
 
 Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom Posten og Kunden skal søkes løst i minnelighet. Dersom det ikke lar seg gjøre, kan hver av partene bringe tvisten inn for de ordinære domstoler med Oslo tingrett som eksklusivt verneting.
 
+## Bruk av underleverandører
+
+Posten benytter følgende underleverandører i behandling av personopplysninger hvor Posten er databehandler for Kunden:
+
+- Evry ASA
+- Bekk Consulting AS
+- Andvord Grafisk AS
+- Microsoft
+
+
 ## Tilleggsvilkår bedrift — sikker print
 
 Følgende vilkår er tilleggsvilkår til «Avtalevilkår for bruk av Digipost for bedrifter, organisasjoner, mv.».
@@ -321,12 +331,5 @@ Etter signering er gjennomført får Kunden det ferdig signerte dokumentet. Dett
 
 Ved å bruke funksjonaliteten for digital signering av dokumenter, er kunden selv ansvarlig for at dokumentet eller dokumentene som skal signeres er adressert til og blir signert av rett person.
 
-## Bruk av underleverandører
-
-Posten benytter følgende underleverandører i behandling av personopplysninger hvor Posten er databehandler for Kunden:
-
-Evry ASA
-Bekk Consulting AS
-Andvord Grafisk AS
 
 Gyldig fra 1. april 2018
