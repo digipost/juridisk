@@ -276,7 +276,7 @@ Posten benytter følgende underleverandører i behandling av personopplysninger 
 - Evry ASA
 - Bekk Consulting AS
 - Andvord Grafisk AS
-- Microsoft
+- Microsoft Azure Irland Limited
 
 
 ## Tilleggsvilkår bedrift — sikker print
