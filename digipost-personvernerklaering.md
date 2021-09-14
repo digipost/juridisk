@@ -1,141 +1,124 @@
-# Personvern i Digipost
+# Personvernerklæring for Digipost
 
-For Posten Norge AS (Posten) er ditt personvern og din datasikkerhet det aller viktigste, og vi vil alltid behandle dine personopplysninger:
+Personopplysninger er opplysninger som kan kobles til deg som person. Det kan være navn, adresse, andre kontaktopplysninger og det kan være opplysninger som på en indirekte måte kan knyttes til deg som person. 
 
-* med konfidensialitet
-* på riktig måte, i henhold til egne erklæringer
-* på lovlig vis, i samsvar med gjeldende lover og forskrifter om personvern og informasjonssikkerhet 
+I Digipost ønsker vi å gi deg som bruker god informasjon om hvordan vi oppbevarer og bruker de personopplysningene du har gitt oss i forbindelse med bruk av tjenester hos oss. Det er viktig for oss at du til enhver tid føler deg trygg på at vi oppbevarer og bruker disse opplysningene på en konfidensiell, riktig og lovlig måte. 
 
-Dokumenter som du har mottatt eller lastet opp til Digipost er din private informasjon og eiendom, og Posten vil innenfor lovens rammer bare behandle denne informasjonen når det er du selv som har initiert behandlingen.
+## 1. Kort presentasjon av Digipost og relasjon til Posten Norge som behandlingsansvarlig.
 
-## Behandlingsansvarlig
+Digipost er Posten Norges digitale postkasse. Gjennom denne tjenesten kan du som privatperson motta og oppbevare digital post. Det er således Posten Norge som eier tjenesten Digipost og det er Posten Norge som er behandlingsansvarlig for alle personopplysningene om deg som vi mottar når du tar i bruk tjenestene hos Digipost. 
 
-Posten vil behandle personopplysninger som følge av at brukeren benytter Digipost. Vi behandler personopplysningene dine innenfor rammen av gjeldende personvernregelverk og denne erklæringen. Behandlingsansvarlig er Posten Norge AS, Postboks 1500 Sentrum, 0001 Oslo.
+Du får som bruker av Digipost tilgang til din postkasse enten via vår nettside eller via Digipost sin egen app. Denne personvernerklæringen gjelder både ved bruk av nettsiden og bruk av Digipost sin app.
 
-## Formålet med behandlingen av opplysningene
+Det er Posten Norge som er behandlingsansvarlig etter norsk personvernvernlovgivning og som er ansvarlig for å påse at behandlingen av personopplysningene gjøres på en forsvarlig og lovlig måte i henhold til regelverket. 
 
-Formålet med behandling av personopplysninger i Digipost er å oppfylle de rettigheter og plikter som følger av [avtalevilkårene](https://www.digipost.no/juridisk/) for Digipost. Formålet er videre å administrere og videreutvikle tjenestene, å gjennomføre autentiseringsprosesser, diagnostisere problemer i Digipost og tilhørende systemer, å utvikle nye ideer og tjenester, samt å kommunisere med brukeren. Personopplysninger vil også kunne bli benyttet til å rette markedsføringshenvendelser til brukeren i henhold til [avtalevilkårene](https://www.digipost.no/juridisk/) og personopplysningslovens og markedsføringslovens bestemmelser.
+Posten Norge har utnevnt et eget personvernombud som du kan kontakte dersom du har spørsmål om hvordan dine personopplysninger behandles og du kan få hjelp til å utøve dine rettigheter etter personopplysningsloven. 
 
-## Opplysningskategorier som behandles
+Du kan kontakte Postens personvernombud på [personvernombud@posten.no](mailto:personvernombud@posten.no).
 
-Ved opprettelse av bruker/konto i Digipost og ved videre bruk av Digipost samles det inn informasjon om brukeren. Opplysningskategoriene er forklart nærmere under, og gjelder generell kontakt- og bruksinformasjon samt statistikk om bruken av tjenesten. For å kunne tilby tjenestene på Digipost behandles også informasjon knyttet til informasjonskapsler (cookies), IP-adresser og brukerens fødselsnummer.
+## 2. Digipost tar vare på dine dokumenter og personopplysninger
 
-### Kontakt- og bruksinformasjon
+Alle dokumenter du oppbevarer i Digipost er krypterte og er din personlige eiendom. Digipost har ikke innsyn i din postkasse og kan ikke dele innholdet med noen andre uten at du har gitt oss tillatelse til det. 
 
-Følgende opplysninger samles inn i forbindelse med registrering og bruk av Digipost:
+Som en digital postkasse sørger vi for at du som bruker kan motta digital post fra avsendere Digipost har avtale med. Digipost er derfor databehandler for avsenderne og sørger for at post de sender kommer trygt frem til deg som bruker av våre tjenester. Når post er levert til deg som mottaker, sender vi en leveringsbekreftelse til avsender. Fra det tidspunktet er posten din eiendom og det er kun du som beslutter videre behandling av denne.
 
-* Navn
-* Kontaktinformasjon: Adresse, telefonnummer, e-postadresse, Digipost-adresse
-* Fødselsnummer
-* Profilinformasjon: Alder, kjønn og annen informasjon Brukeren selv velger å gjøre tilgjengelig, samt informasjon om valgte tilleggstjenester og funksjonalitet 
-* Informasjon om Brukerens bruk av Digipost-løsningen, herunder pålogging og handlinger Brukeren utfører i løsningen
-* Adresseliste opprettet av Bruker
-* Bankkontonummer, kredittkort- og annen betalingsinformasjon i tilfeller det er nødvendig for gjennomføring og oppfølging av tjenester etter Brukerens ønske 
-* Elektronisk identifikasjon (IP-adresse, cookies)
+Posten er ikke ansvarlig for innhold i post som sendes. Dersom du har spørsmål eller kommentarer til posten du mottar må du ta kontakt med avsenderen av posten du mottar i din digitale postkasse.
 
-Dersom Brukeren har inngått avtale med sin bank om at fakturaer mottatt i Digipost skal vises i nettbanken ved pålogging der, vil Posten behandle og lagre slik informasjon som er nødvendig for å oppfylle avtalen mellom Brukeren og banken, jf avtalevilkårene mellom Brukeren og banken.
+## 3. Nærmere om Digipost innsamling og bruk av personopplysninger
 
-### Statistikk om bruken av tjenestene
+Digipost behandler personopplysninger om deg kun for å oppfylle avtalen vi har inngått med deg. Vi vil under nærmere fortelle hva vi bruker opplysningene til, hvilke opplysninger vi behandler og hvor lenge vi oppbevarer opplysningene vi samler inn.
 
-Ved bruk av Digipost samles det også inn opplysninger som ikke kan knyttes til brukeren og som kun benyttes til utarbeiding av generell statistikk, samt til forbedring av tjenestene. Dette er informasjon om:
+### 3.1 Hva bruker Digipost opplysningene til?
 
-* Nettleser (browser) og innstillinger på denne
-* Operativsystem
-* Skjermoppløsning og antall farger på skjermen
-* Internettforbindelse
-* Besøkte sider på Digipost og tidspunkt for besøk
-* Hvilken side man kommer til Digipost fra 
+-	Identifisering og adressering av mottaker og avsender av digital post
+-	Varsle deg om at du har mottatt post i din postkasse
+-	Administrere dine postkassetilganger
+-	La deg lese og behandle digital post
+-	Integrasjon og gjennomføring av banktjenester dersom du har aktivert dette 
+-	Sende deg informasjon om våre tjenester og oppdateringer, blant annet om ny funksjonalitet og driftsinformasjon, samt kundeundersøkelser. Dersom du har samtykket til det kan du også få markedsføringshenvendelser fra Posten konsernet. 
 
-### Cookies og IP-adresser
+### 3.2 Hjemmel for å behandle opplysningene
 
-For å logge på og benytte Digipost er det forutsetning at cookies aksepteres. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Digipost benytter også cookies for innsamling av statistikk. Det foretas ingen identifisering av den enkelte bruker som person i forbindelse med anvendelse av cookies. Digipost vil også kunne benytte tilsvarende teknologi som cookies samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden. For mer informasjon om vår bruk av cookies vises det til vår hjemmeside www.digipost.no.
+Mens du har en aktiv konto hos oss behandler vi opplysninger for å kunne gjennomføre den avtalen vi har inngått med deg. Vi har da hjemmel for å behandle opplysningene fordi disse er nødvendige for å oppfylle avtalen, jf personopplysningsforordningen art 6 b).
 
-Digipost vil også kunne lagre brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett.
+### 3.3 Hvilke opplysninger behandler vi om deg
 
-### Bruk av fødselsnummer
+-	Navn
+-	Kontaktopplysninger: Adresse, telefonnummer, e-postadresse, Digipost-adresse
+-	Personalias: En identifikator vi bruker for å identifisere brukere av Digipost slik at avsendere kan sjekke om det er mulig å sende digital post til en spesifikk person.
+-	Fødselsnummer; for autentisering og identifisering av deg som mottaker og sikre at du er rett mottaker av posten du mottar i din digitale postkasse
+-	Informasjon om din bruk av Digipost-løsningen, herunder pålogging og handlinger du utfører i løsningen  
+-	Adresseliste opprettet av deg
+-	Bankkontonummer, kredittkort- og annen betalingsinformasjon i tilfeller det er nødvendig for gjennomføring og oppfølging av tjenester etter ditt ønske
+-	Elektronisk identifikasjon (IP-adresse, cookies)
 
-For at Brukeren skal kunne logge seg på sin personlige Digipost-konto, må Brukeren benytte sitt fødselsnummer (11 siffer), samt et selvvalgt passord eller en elektronisk ID som er støttet av Digipost. For å få tilgang til Meddelelser hvor avsender har stilt høyere krav til sikkerhet må Brukeren logge på med sitt fødselsnummer og sin valgte autentiseringsløsning (BankID utsendt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Brukeren forplikter seg til å holde sine personlige opplysninger hemmelig for andre (jf. punkt 4.1 ovenfor). Posten er ikke ansvarlig for feil eller mangler med autentiseringsløsningen.
+Opplysninger ut over dette behandles kun dersom du har gitt samtykke til dette. Du kan til enhver tid trekke tilbake ditt samtykke. Dette kan du selv administrere ved å gå til "Dine samtykker og apper" i innstillingene. 
 
-Digipost registrerer og oppbevarer Brukerens fødselsnummer i forbindelse med opprettelsen av Digipost-postkasse. Brukers fødselsnummer behandles utelukkende for autentisering av Brukeren og for å sikre at Brukeren er rett mottaker (identifisering) av Meddelelser fra offentlige myndigheter, virksomheter og organisasjoner som har tillatelse til å sende Meddelelser knyttet opp mot fødselsnummer som identifiseringsnøkkel.
+### 3.4 Hvor lenge opplysningene oppbevares (sletteregler)
 
-Brukerens fødselsnummer vil ikke videreformidles, utleveres eller anvendes til andre formål enn Digipost med mindre den offentlige myndigheten, virksomheten eller organisasjonen har tillatelse til dette på annet grunnlag. Fødselsnummer videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på.
+Opplysningene som er nevnt over oppbevares så lenge du har en aktiv konto hos Digipost. 
 
-Digipost benytter Posten Norge AS sitt adresseregister og Folkeregisteret for å kunne koble Brukeren sammen med en fysisk adresse. Endrer Brukeren adresse hos Posten Norge AS, vil den fysiske adressen Brukeren knyttes opp mot i Digipost automatisk oppdateres.
+Informasjon om bruk og pålogging slettes imidlertid etter 2 år.
 
-## Utlevering til tredjepart
+Brev og annet du mottar i din elektroniske postkasse kan du selv bestemme om du vil beholde eller slette. Når du sletter noe fra din digitale postkasse blir det umiddelbart slettet hos oss. Vi har backup av systemene våre, noe som betyr at slettede dokumenter vil finnes i disse i opptil 365 dager etter sletting.
 
-Dersom det er en forutsetning for å sende, motta eller arkivere Meddelelser, eller tilby eller utføre andre tjenester i Digipost, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
+### 3.5 Behandling av opplysninger etter at du har avsluttet din konto hos Digipost
 
-Med unntak av det som følger av [Vilkårene](https://www.digipost.no/juridisk/), vil ikke personopplysninger bli utlevert til tredjepart for kommersielt bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter, for bedre å kunne forstå bruksmønster for ulike typer Meddelelser, tilbud, annonsering og andre tjenester/funksjonalitet knyttet til Digipost.
+Etter at du har avsluttet din avtale med Digipost må vi oppbevare noen opplysninger om deg i en overgangsperiode. Som hovedregel vil opplysninger om dokumenter, tilganger og annen informasjon om din post og postkasse oppbevares i 3 måneder etter at avtalen er avsluttet. 
 
-## Frivillig bruk/utlevering av data lagret i Digipost
+Vi må imidlertid oppbevare opplysninger om navn, fødselsnummer og varsler i tre år for å sikre historikk, feilsøking og mulige tvistesaker. Dette trenger vi for å kunne bevise at post har blitt levert til deg, og for å gi oss mulighet til å finne eventuelle feil i systemet dersom noe ikke går som det skal. Digipostadresse vil ikke slettes slik at vi sikrer at det ikke blir gitt ut duplikater. 
 
-Digipost tilbyr funksjonalitet for å la en bruker aksessere sine egne data som er lagret i Digipost via andre nettsteder eller i andre app-er. Tilgangen til egne data iverksettes og godkjennes av brukeren selv, og brukeren kan når som helst trekke tilbake slike tilganger i sine innstillinger i Digipost.
+Hjemmel for oppbevaring av nevnte opplysninger etter at avtalen er sagt opp er begrunnet i at Digipost har berettiget interesse for videre oppbevaring jf personvernforordningen art 6 f.  Digipost har erfart at flere av våre kunder kan angre avslutningen eller at slettingen av kontoen var feilaktig avsluttet. Basert på dette mener Digipost at en oppbevaring av opplysningene i 3 måneder etter avslutning er berettiget og at lagring i disse tilfellene ivaretar de kundens interesser. 
 
-## Rett til innsyn, retting og sletting
+Dersom kontoen avsluttes etter et dødsfall oppbevares opplysningen om kontoen og avdøde i 9 måneder etter at vi mottar melding om dødsfall fra folkeregisteret. Dette for å sikre at opplysninger som er nødvendig for avdødes etterkommere ikke går tapt og at alle etterlatte får nødvendig og viktig informasjon. 
 
-Etter personopplysningsloven har den enkelte rett til innsyn i egne personopplysninger. Dersom opplysninger i Digipost er feil, vil det være adgang til å få de rettet eller slettet. Alle opplysninger som er hentet fra brukeren, vil være tilgjengelige for brukeren via Digipost-kontoen, og kan rettes av brukeren via Digipost-kontoen eller Postens tjeneste for adresseendring. Det tas forbehold om at enkelte endringer kan kreve godkjenning før de aktiveres i Digipost.
+## 4. Deling av personopplysninger
 
-## Informasjonssikkerhet
+Digipost vil ikke utlevere opplysninger til utenforstående med mindre du som bruker av tjenesten samtykker til dette. Vi kan etter samtykke fra deg som bruker for eksempel utlevere fakturaer til din bank eller gi selskaper du velger mulighet til å hente informasjon. Dette er i så fall noe du som bruker styrer og eventuelle samtykker kan til enhver tid trekkes tilbake.
 
-Posten har som mål at Digipost skal være den sikreste internettløsningen i Norge, og benytter anerkjente standarder og beste praksis i arbeidet med sikkerhet. Posten gjennomfører jevnlig risikovurderinger og sikkerhetstester av løsningen, og rådfører seg også med Datatilsynet ved hver endring i løsningen som kan berøre personvernet.
+Dersom det er en forutsetning for å sende, motta eller arkivere meldinger og post i din postkasse, vil nødvendige personopplysninger utleveres for å utføre denne tjenesten. Det innebærer blant annet at for at vi skal kunne levere deg digital post etter avtalen må din digipostadresse leveres ut til eventuelle avsendere slik at de kan registrere denne og deg som mottaker.
 
-Posten har implementert følgende sikkerhetstiltak i Digipost (ikke uttømmende):
+Annen utlevering av opplysninger vil kun gjøres dersom dette blir pålagt og mottaker har rettslig hjemmel for et slikt utleveringskrav. 
 
-* Autentiseringsløsning på sikkerhetsnivå 4.
-* All informasjonsutveksling skjer med sterk kryptering (SSL, SSH).
-* Sensitiv informasjon kan meldingskrypteres ende-til-ende med kvalifiserte sertifikater.
-* Alle handlinger som utføres av driftspersonell logges i egne hendelsesregistre.
-* Alle dokumenter ligger lagret kryptert, med sterke krypteringsnøkler.
-* Alle avsendere og mottakere blir identifisert etter strenge retningslinjer. Dette gjør at du alltid kan være sikker på hvilken avsender en meddelelse er sendt fra.
-* Digiposts tjenere er plassert i sikre datasentre, hos en leverandør som har lang erfaring med å håndtere virksomhetskritisk og sensitiv informasjon.
-* Det blir tatt sikkerhetskopi av alle dine dokumenter, og alle dokumenter blir lagret på to forskjellige steder til enhver tid slik at du er beskyttet mot brann, ødeleggelse av tjenere osv.
-* Postens ansatte eller ansatte hos underleverandører har ikke tilgang til dine dokumenter. Det er kun et fåtall driftspersoner som har tilgang til Digipost sine systemer, men siden alle dokumenter ligger lagret kryptert, så har heller ikke disse innsyn i dine data. 
+## 5. Bruk av databehandlere
 
-## Personvern i Digipost sine app-er
+For gjennomføring av noen av våre tjenester og oppfyllelse av avtalen vi har med våre brukere benytter Digipost i enkelte tilfeller underleverandører; databehandlere i personopplysningslovens forstand. Dersom vi benytter oss av en databehandleravtale inngås det særskilte avtaler og databehandleren kan kun bruke dataene for å gjennomføre oppdrag på Digipost sine vegne. Digipost sine databehandlere blir pålagt å behandle data i tråd med denne personvernerklæringen.
 
-Digipost samler ikke inn brukerdata fra app-ene for iOS og Android. App-ene aksesserer således ingen data på brukerens enhet utover de data som ligger i app-en og som hentes via Digipost sin nettjeneste. I dette avsnittet utdypers vanlige spørsmål om hvordan Digipost sine app-er fungerer og hvilke data som aksesseres.
+## 6. Rett til innsyn, retting og sletting av dine opplysninger
 
-### Hva blir samlet inn av informasjon?
+Du har etter personopplysningsloven en rekke rettigheter når vi behandler personopplysninger om deg. 
 
-App-en lagrer brukerens navn og passord som brukeren har registrert seg med i Digipost, inntil brukeren velger å logge ut. App-en laster ned brev, kvitteringer og dokumenter fra Digipost sine servere.
+Som bruker av Digipost har du alltid rett til å få innsyn i hvilke opplysninger vi har registret om deg. Alle kontaktopplysninger vi har registrert om deg er tilgjengelig via Digipostkontoen din. Du kan her se hvilke opplysninger vi har registrert og selv korrigere noen av opplysningene dersom du oppdager at opplysningene er feilaktige eller utdaterte.  Ønsker du innsyn i eventuelle andre opplysninger vi har registrert kan du ta kontakt med Personvernombudet, se kontaktinformasjon under. 
 
-### Hvor og hvordan blir informasjon lagret?
+Du kan ellers enkelt selv logge deg inn i din postkasse å slette eller laste ned det du har mottatt og lagret. 
 
-Digipost for iOS lagrer all informasjonen kryptert med AES256-kryptering med nøkler lagret i iOS Keychain.
+Du kan også kreve opplysninger om det selv slettet i forbindelse med avslutning av din konto, med mindre Digipost har begrunnet behov for videre oppbevaring. 
 
-Digipost for Android lagrer all informasjonen kryptert med RSA-kryptering med nøkler lagret i Android KeyStore.
+For enkelte tjenester i Digipost kan du velge om du ønsker å gi oss samtykke til å bruke informasjon om deg slik at vi kan levere tjenesten. Du kan til enhver tid trekke tilbake samtykker du har gitt oss. Dette kan du selv administrere ved å gå til "Dine samtykker og apper" i innstillingene.
 
-### Hvor lenge blir informasjonen lagret?
+For å utøve dine rettigheter kan du kan ta kontakt med vårt personvernombud – kontakt [personvernombud@posten.no](mailto:personvernombud@posten.no) 
 
-Helt til brukeren sletter appen.
+Du kan også ta kontakt med Datatilsynet dersom du ønsker å klage på vår behandling av personopplysninger, [www.datatilsynet.no](www.datatilsynet.no)
 
-### Hvilke rutiner finnes for sletting av informasjon?
+Datatilsynet
+Postboks 458 Sentrum
+0105 Oslo
 
-Brukeren kan selv velge å deaktivere sin konto i Digipost. Tre måneder etter deaktivering slettes all informasjon fra Digipost sine servere og vil ikke lenger være tilgjengelig i app-en.
+## 7. Informasjonssikkerhet
 
-### Hva brukes informasjonen til (viderebruk)?
+Posten har som mål at Digipost skal være den sikreste digitale postkassen i Norge og benytter anerkjente standarder og beste praksis i vårt arbeid med sikring av din postkasse og utveksling av informasjon. 
 
-Ingen viderebruk. All data ligger lukket (sandbox-et) i app-en, og er utilgjengelig for andre apper.
+Digipost gjennomfører jevnlige risikovurderinger og sikkerhetstester av løsningene og er i god dialog med myndigheter og andre sikkerhetsmiljøer for å følge de beste standarder. 
 
-### Knyttes informasjonen til person eller blir den anonymisert?
+Våre viktigste sikkerhetstiltak er:
+-	Autentiseringsløsning på sikkerhetsnivå 4.
+-	All informasjonsutveksling skjer med sterk kryptering (SSL, SSH).
+-	Sensitiv informasjon kan meldingskrypteres ende-til-ende med kvalifiserte sertifikater.
+-	Alle handlinger som utføres av driftspersonell logges i egne hendelseslogger.
+-	Alle dokumenter ligger lagret kryptert, med sterke krypteringsnøkler.
+-	Alle avsendere og mottakere blir identifisert etter strenge retningslinjer. Dette gjør at du alltid kan være sikker på hvilken avsender en meddelelse er sendt fra.
+-	Digiposts tjenere er plassert i sikre datasentre, hos en leverandør som har lang erfaring med å håndtere virksomhetskritisk og sensitiv informasjon.
+-	Det blir tatt sikkerhetskopi av alle dine dokumenter, og alle dokumenter blir lagret på to forskjellige steder til enhver tid slik at du er beskyttet mot brann, ødeleggelse av servere osv.
+-	Postens ansatte eller ansatte hos underleverandører har ikke tilgang til dine dokumenter. Det er kun et fåtall driftspersoner som har tilgang til Digipost sine systemer, men siden alle dokumenter ligger lagret kryptert, så har heller ikke disse innsyn i dine data.
 
-All informasjon knyttes til den registrerte Digipost-brukeren.
-
-### Får brukeren beskjed om hva slags informasjon som blir innhentet, samt formålet?
-
-Ja, gjennom denne personvernerklæringen.
-
-### Må brukeren akseptere vilkår for å installere App-en?
-
-Det er ingen vilkår for å innstallere app-en, men app-en fungerer kun for registrerte brukere og følger de generelle brukervilkårene for Digipost.
-
-### Annen logging og innsending av informasjon
-
-Det logges kall mot Digipost sine servere, hvilket er normalt for alle web-tjenester. Disse loggene oppbevares i ca. to måneder, før de slettes.
-
-Dersom app-en krasjer vil brukerne bli spurt om de ønsker å sende informasjon om dette til oss. Da sendes aggregerte krasjlogger. Disse loggene er anonymiserte og benyttes kun til feilsøking.
-
-### Personvernombud
-
-E-postadressen til Personvernombudet i Posten Norge AS: <personvernombud@posten.no>
+Digipost oppdaterer og vurderer våre sikkerhetstiltak løpende.

@@ -110,71 +110,7 @@ Taushetsplikten gjelder ikke når det er plikt til å gi materiale eller opplysn
 
 Posten vil behandle personopplysninger som følge at Brukeren benytter Digipost og vil ved all behandling av personopplysninger følge bestemmelsene i gjeldende personvernregelverk. Behandlingsansvarlig er Posten Norge AS, Postboks 1500 Sentrum, 0001 Oslo.
 
-### **8.1** Samtykke og behandlingsgrunnlag
-
-Ved bruk av Digipost vil det bli behandlet personopplysninger om Brukeren. Med personopplysninger menes opplysninger og vurderinger som kan knyttes til en enkeltperson. Hvilke opplysninger som behandles, er inntatt i punkt 8.2 nedenfor. Med behandling menes enhver bruk av personopplysninger, som f.eks. innsamling, registrering, sammenstilling, lagring og utlevering eller en kombinasjon av slike bruksmåter.
-
-Personopplysninger i Digipost vil bli behandlet for å oppfylle rettigheter og plikter etter disse Vilkårene, se bl.a. punkt 4.3. I tillegg vil personopplysningene bli benyttet blant annet for å forbedre Digipost og rette henvendelser til Brukeren. Brukeren samtykker med dette til behandling av samtlige personopplysninger som er omhandlet under punkt 8.2 nedenfor.
-
-Posten vil sende Meddelelser til Brukeren blant annet om ny funksjonalitet, driftsinformasjon og annen informasjon knyttet til Digipost. For dette formål gir Brukeren  Posten tillatelse til å benytte den e-postadresse som Brukeren har oppgitt ved registrering. Posten kan videre rette markedsføringshenvendelser til Brukeren i Digipost og oppgitt e-postadresse, dersom Brukeren har samtykket til dette. Brukeren kan reservere seg mot markedsføringshenvendelser fra Posten, ved å endre innstillinger for dette i Digipost.
-
-Brukerne kan stenge for andre brukeres og kunders søk etter Brukerens adresse i Digipost ved å endre innstillingene for dette i Digipost.
-
-Brukeren er selv ansvarlig for at riktig e-postadresse og telefonnummer er lagret i Digipost og å opplyse om endringer på angitt måte, såfremt Brukeren ønsker å motta varsel per e-post/SMS/push (avhengig av hva som tilbys av Digipost) om Meddelelser mottatt i Brukerens Digipost-postkasse.
-
-### **8.2** Personopplysninger som behandles
-
-Det samles inn informasjon om Brukeren og kunder i forbindelse med opprettelse av bruker/ konto i Digipost og videre bruk av Digipost. Følgende personopplysninger samles inn og behandles om Brukeren:
-
-* Navn
-* Kontaktinformasjon: Adresse, telefonnummer, e-postadresse, Digipost-adresse
-* Fødselsnummer
-* Profilinformasjon: Alder, kjønn og annen informasjon Brukeren selv velger å gjøre tilgjengelig, samt informasjon om valgte tilleggstjenester og funksjonalitet 
-* Informasjon om Brukerens bruk av Digipost-løsningen, herunder pålogging og handlinger Brukeren utfører i løsningen
-* Adresseliste opprettet av Bruker
-* Bankkontonummer, kredittkort- og annen betalingsinformasjon i tilfeller det er nødvendig for gjennomføring og oppfølging av tjenester etter Brukerens ønske 
-* Elektronisk identifikasjon (IP-adresse, cookies)
-
-Dersom Brukeren har inngått avtale med sin bank om at fakturaer mottatt i Digipost skal vises i nettbanken ved pålogging der, vil Posten behandle og lagre slik informasjon som er nødvendig for å oppfylle avtalen mellom Brukeren og banken, jf avtalevilkårene mellom Brukeren og banken.
-
-Alle opplysninger som er innhentet fra Brukeren, vil være tilgjengelige for Brukeren via Digipost-kontoen, og kan rettes av Brukeren via Digipost-kontoen eller Postens tjeneste for adresseendring. Det tas forbehold om at enkelte endringer kan kreve godkjenning før de aktiveres i Digipost.
-
-Personopplysninger som er nødvendige for bruk av Digipost oppbevares så lenge Brukeren har Digipost-konto og så lenge det er nødvendig for oppfølging av kundeforholdet. Logger over Brukerens bruk av Digipost lagres i maksimalt 2 år hvorpå de slettes.
-
-I tillegg samles det inn opplysninger som ikke kan knyttes til Brukeren og som kun benyttes til utarbeiding av generell statistikk, samt til forbedring av Digipost. Dette er informasjon om:
-
-* Nettleser (browser) og innstillinger på denne
-* Operativsystem
-* Skjermoppløsning og antall farger på skjermen
-* Internettforbindelse
-* Besøkte sider på Digipost og tidspunkt for besøk
-* Hvilken side man kommer til Digipost fra
-
-For å logge på og benytte Digipost er det forutsetning at cookies aksepteres. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Digipost benytter også cookies for innsamling av statistikk. Det foretas ingen identifisering av den enkelte bruker som person i forbindelse med anvendelse av cookies. Digipost vil også kunne benytte tilsvarende teknologi som cookies samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden. For mer informasjon om vår bruk av cookies vises det til vår hjemmeside www.digipost.no.
-
-Digipost vil også kunne lagre Brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverksenhetene, f.eks. en datamaskin, som kommuniserer med hverandre over Internett.
-
-Ovennevnte informasjon brukes til å gjøre de ulike tjenestene i Digipost mulig, administrere og videreutvikle tjenesten, autentiseringsprosesser, diagnostisere problemer i Digipost og tilhørende systemer, å utvikle nye ideer og tjenester, samt å kommunisere med brukerne.
-
-### **8.3** Bruk av fødselsnummer
-
-For at Brukeren skal kunne logge seg på sin personlige Digipost-konto, må Brukeren benytte sitt fødselsnummer (11 siffer), samt et selvvalgt passord eller en elektronisk ID som er støttet av Digipost. For å få tilgang til Meddelelser hvor avsender har stilt høyere krav til sikkerhet må Brukeren logge på med sitt fødselsnummer og sin valgte autentiseringsløsning (BankID utsendt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Brukeren forplikter seg til å holde sine personlige opplysninger hemmelig for andre (jf. punkt 4.1 ovenfor). Posten er ikke ansvarlig for feil eller mangler med autentiseringsløsningen.
-
-Digipost registrerer og oppbevarer Brukerens fødselsnummer i forbindelse med opprettelsen av Digipost-postkasse. Brukers fødselsnummer behandles utelukkende for autentisering av Brukeren og for å sikre at Brukeren er rett mottaker (identifisering) av Meddelelser fra offentlige myndigheter, virksomheter og organisasjoner som har tillatelse til å sende Meddelelser knyttet opp mot fødselsnummer som identifiseringsnøkkel.
-
-Brukerens fødselsnummer vil ikke anvendes til andre formål enn Digipost, videreformidles eller utleveres med mindre den offentlige myndigheten, virksomheten eller organisasjonen har lovlig grunnlag for innhenting eller bruk av fødselsnummer. Fødselsnummeret videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på.
-
-Digipost benytter Posten Norge AS sitt adresseregister og Folkeregisteret for å kunne koble Brukeren sammen med en fysisk adresse. Endrer Brukeren adresse hos Posten Norge AS, vil den fysiske adressen Brukeren knyttes opp mot i Digipost automatisk oppdateres.
-
-### **8.4** Utlevering av personopplysninger til tredjepart
-
-Dersom det er en forutsetning for å sende, motta eller arkivere Meddelelser, eller tilby eller utføre andre tjenester i Digipost, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
-
-Med unntak av det som følger av Vilkårene, vil ikke personopplysninger bli utlevert til tredjepart for kommersielt bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter, for bedre å kunne forstå bruksmønster for ulike typer Meddelelser, tilbud, annonsering og andre tjenester/funksjonalitet knyttet til Digipost.
-
-### **8.5** Informasjonssikkerhet og sikringstiltak
-
-Posten plikter å gjennomføre de sikringstiltak som følger av gjeldende personvernregelverk og eventuelle andre krav fastsatt i lov eller av offentlig myndighet.
+Behandlingen av personopplysninger, og Brukerens rettigheter, er nærmere beskrevet i personvernerklæringen.
 
 ## **9** FEIL ELLER MANGLER VED DIGIPOST
 
@@ -284,4 +220,4 @@ Ved mislighold vil Digipost kunne sperre utvalgt funksjonalitet og tilgang for B
 
 Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom Posten og Brukeren skal søkes løst i minnelighet. Dersom det ikke lar seg gjøre, kan hver av partene bringe tvisten inn for de ordinære domstoler i samsvar med tvistelovens regler vedrørende verneting.
 
-Gyldig fra 17. oktober 2016
+Sist oppdatert 14. september 2021

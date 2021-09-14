@@ -128,61 +128,13 @@ Kunden samtykker til at Posten benytter underleverandører for utførelsen av si
 
 ## **9.** Behandling av personopplysninger
 
-### **9.1.** Postens behandling av personopplysninger relatert til Kunden
-
-Som ledd i Postens oppfyllelse av avtalen med Kunden om bruk av Digipost vil Posten behandle personopplysninger relatert til Kunde, herunder om ansatte, eventuelt andre personer tilknyttet Kunden. 
+Som ledd i Postens oppfyllelse av avtalen med Kunden om bruk av Digipost vil Posten behandle personopplysninger relatert til Kunde, herunder om ansatte eller brukere Kundens konto. 
 
 Behandlingsansvarlig er i slike tilfeller Posten Norge AS, Att: Digipost, Postboks 1500 Sentrum, 0001 Oslo, +47 23 14 90 00. 
 
-Personopplysninger i Digipost vil bli behandlet for å oppfylle rettigheter og plikter etter disse Vilkårene. I tillegg vil personopplysningene bli benyttet blant annet for å forbedre Digipost og rette markedsføringshenvendelser relatert til kundeforholdet. Ytterligere bruk av personopplysninger vil ikke bli foretatt uten samtykke. 
+Behandlingen av personopplysninger, og rettighetene til den enkelte som får sine personopplysninger behandlet, er nærmere beskrevet i personvernerklæringen.
 
-### **9.2.** Personopplysninger som behandles
-
-Det samles inn informasjon om Kunden og brukere i forbindelse med opprettelse av bruker/konto i Digipost og videre bruk av Digipost. Følgende personopplysninger samles inn og behandles om Kunden og brukere:
-
-* Navn
-* Kontaktinformasjon: Adresse, telefonnummer, e-postadresse, Digipost-adresse
-* Organisasjons- og fødselsnummer
-* Profilinformasjon: Alder, kjønn og annen informasjon Kunden velger å gjøre tilgjengelig, samt informasjon om valgte tilleggstjenester og funksjonalitet
-* Informasjon om Kundens bruk av Digipost-løsningen, herunder pålogging og handlinger Kunden utfører i løsningen
-* Adresseliste opprettet av Kunden
-* Bankkontonummer, kredittkort- og annen betalingsinformasjon i tilfeller det er nødvendig for gjennomføring og oppfølging av tjenester etter Kundens ønske
-* Elektronisk identifikasjon (IP-adresse, cookies)
-
-Alle opplysninger som er innhentet fra Kunden, vil være tilgjengelige for Kunden via Digipost-kontoen, og kan rettes av Kunden via Digipost-kontoen eller Postens tjeneste for adresseendring. Det tas forbehold om at enkelte endringer kan kreve godkjenning før de aktiveres i Digipost.
-
-I tillegg samles det inn opplysninger som ikke kan knyttes til Kunden eller brukeren og som kun benyttes til utarbeiding av generell statistikk, samt til forbedring av Digipost. Dette er informasjon om:
-
-* Nettleser (browser) og innstillinger på denne
-* Operativsystem
-* Skjermoppløsning og antall farger på skjermen
-* Internettforbindelse
-* Besøkte sider på Digipost og tidspunkt for besøk
-* Hvilken side man kommer til Digipost fra
-
-For å logge på og benytte Digipost er det en forutsetning at cookies aksepteres. Cookies er små tekstfiler som lagres i brukerutstyret i forbindelse med bruk av internettjenester. Digipost benytter også cookies for innsamling av statistikk. Det foretas ingen identifisering av den enkelte bruker som person i forbindelse med anvendelse av cookies. Digipost vil også kunne benytte tilsvarende teknologi som cookies samt annen teknologi som vil dekke samme funksjoner som cookies i fremtiden. For mer informasjon om vår bruk av cookies vises det til digipost.no.
-
-Digipost vil også kunne lagre brukerens IP-adresse. En IP-adresse er et unikt nummer som tildeles de nettverks-enhetene, f.eks. en datamaskin, som kommuniserer med hverandre over internett. Brukerens IP-adresse vil kun bli benyttet til statistiske formål og til innsamling av demografisk informasjon i vid forstand, og vil derfor ikke kunne knyttes til Kunden eller Brukeren.
-
-Ovennevnte informasjon brukes først og fremst til å gjøre de ulike tjenestene i Digipost mulig, å administrere og videreutvikle tjenesten, autentiseringsprosesser, diagnostisere problemer i Digipost og tilhørende systemer, å utvikle nye ideer og tjenester, samt å kommunisere med brukerne.
-
-### **9.3.** Bruk av fødsels- og organisasjonsnummer
-
-For at Kunden skal kunne logge seg på sin personlige Digipost-konto, må Kunden benytte fødsels- eller organisasjonsnummer og sin valgte autentiseringsløsning (BankID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten). Kunden forplikter seg til å holde sine personlige opplysninger hemmelig for andre ( jf. punkt 4.1 ovenfor). Posten er ikke ansvarlig for feil eller mangler med autentiseringsløsningen.
-
-Digipost registrerer og oppbevarer fødsels- og/eller organisasjonsnummer i forbindelse med opprettelsen av digital postkasse i Digipost. Fødselsnummer behandles utelukkende for identifikasjon av brukeren og rett mottaker av Meddelelser fra offentlige myndigheter, virksomheter og organisasjoner som har tillatelse til å sende Meddelelser knyttet opp mot fødselsnummer som identifiseringsnøkkel.
-
-Fødselsnummer vil ikke videreformidles, utleveres eller anvendes til andre formål enn Digipost med mindre den offentlige myndigheten, virksomheten eller organisasjonen har tillatelse til dette på annet grunnlag. Fødselsnummeret videresendes elektronisk i de tilfeller hvor en via en link i Digipost kan komme til en annen nettside og automatisk logges på. Digipost benytter Postens adresseregister for å kunne koble Kunden opp mot en fysisk adresse. Endrer Kunden adresse hos Posten, vil den fysiske adressen Kunden knyttes opp mot i Digipost automatisk oppdateres.
-
-### **9.4.** Utlevering til tredjeparter
-
-Dersom det er en forutsetning for å sende, motta eller arkivere Meddelelser, eller tilby eller utføre andre tjenester knyttet til Digipost, vil personopplysninger som er nødvendig for å utføre slik tjeneste bli utlevert til tredjepart.
-
-Med de unntak som følger av Vilkårene, vil ikke personopplysninger bli utlevert til tredjepart for kommersiell bruk. Posten deler informasjon som ikke er identifiserbar på personnivå med tredjeparter for å hjelpe disse til å bedre kunne forstå bruksmønster for ulike typer Meddelelser, tilbud, annonsering og andre tjenester/funksjonalitet knyttet til Digipost.
-
-Posten skal ikke, med mindre annet følger av Vilkårene, uten forutgående instruksjoner fra Kunden, overføre eller på annen måte utlevere personopplysninger eller annen informasjon knyttet til behandlingen av personopplysninger til en tredjepart.
-
-### **9.5.** Behandling av andre personopplysninger i Digipost
+### **9.2.** Behandling av andre personopplysninger i Digipost
 
 Som en del av tjenestene i Digipost vil Kunden kunne få tilgang til personopplysninger hvor Posten er behandlingsansvarlig. Kunden forplikter seg til kun å benytte slike personopplysninger som beskrevet fra Digipost, og ikke endre, bearbeide eller videreformidle dem mv.
 
@@ -271,13 +223,18 @@ Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom 
 
 ## Bruk av underleverandører
 
-Posten benytter følgende underleverandører i behandling av personopplysninger hvor Posten er databehandler for Kunden:
+I Digipost benyttes følgende underleverandører i behandling av personopplysninger hvor Posten er databehandler for Kunden:
 
-- Evry ASA
-- Bekk Consulting AS
-- Andvord Grafisk AS
-- Microsoft Azure Irland Limited
+- TietoEvry ASA: Leverer datasenterløsninger.
+- Bekk Consulting AS: Leverer utviklingstjenester.
+- Andvord Grafisk AS: Utfører print av fysiske dokumenter.
+- Microsoft Azure Irland Limited: Leverer datasenterløsninger.
 
+I Posten Signering benyttes i tillegg følgende underleverandører hvor Posten er databehandler for Kunden:
+
+- Signicat AS: Leverer autentiseringsløsning og tjenester for digital signatur.
+- Mailjet Inc: Utfører distribusjon av e-post.
+- TietoEvry ASA: Utfører distribusjon av SMS
 
 ## Tilleggsvilkår bedrift — sikker print
 
