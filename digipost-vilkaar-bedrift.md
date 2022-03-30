@@ -234,7 +234,7 @@ I Posten Signering benyttes i tillegg følgende underleverandører hvor Posten e
 
 - Signicat AS: Leverer autentiseringsløsning og tjenester for digital signatur.
 - Mailjet Inc: Utfører distribusjon av e-post.
-- TietoEvry ASA: Utfører distribusjon av SMS
+- TietoEvry ASA (fases ut i Q2 2022) / Telia Norge AS (fases inn i Q2 2022) utfører distribusjon av SMS.
 
 ## Tilleggsvilkår bedrift — sikker print
 
