@@ -196,7 +196,7 @@ Ved opphør av avtalen ved oppsigelse vil Brukerens adgang til å sende og motta
 
 Dersom Brukerens Digipost-konto har vært inaktiv i mer enn 14 måneder, kan Posten deaktivere muligheten til å sende og motta Meddelelser hvis kontoen fortsatt er inaktiv 14 dager etter at Posten har sendt varsel om deaktivering.
 
-Dersom Brukeren dør, vil Brukerens Digipost-konto og lagrede data slettes tre måneder etter at Posten fikk beskjed om dødsfallet. De(n) som kan forplikte Brukeren må kontakte Digipost for å få tilgang til Brukerens Digipost-konto innen sletting. Posten forbeholder seg retten til å beholde data som er nødvendig for oppfølging av kundeforholdet.
+Dersom Brukeren dør, vil Brukerens Digipost-konto og lagrede data slettes 12 måneder etter at Posten fikk beskjed om dødsfallet. De(n) som kan forplikte Brukeren må kontakte Digipost for å få tilgang til Brukerens Digipost-konto innen sletting. Posten forbeholder seg retten til å beholde data som er nødvendig for oppfølging av kundeforholdet.
 
 ## **16** PRODUKT- OG BETALINGSVILKÅR FOR SIKKER LAGRING
 
