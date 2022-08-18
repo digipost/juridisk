@@ -78,6 +78,11 @@ Brukeren har mulighet til å arkivere Meddelelser i Digipost. Meddelelser som Br
 
 Avsendere av Meddelelser i Digipost kan be om bekreftelse på at Meddelelsen er åpnet av Brukeren. Slike Meddelelser vil være merket med informasjon til Bruker om at avsender blir varslet ved åpning av Meddelelsen.
 
+Alle Meddelelser mottatt i Digipost blir lagret på sikre servere.
+
+Gjennom Digipost får Brukeren mulighet til å lage et personlig, sikkert digitalt arkiv hvor Brukeren kan overføre og lagre digitale filer til sikre servere, og som gir Brukeren tilgang til filene via Internett. Digipost tilbyr
+en gitt mengde lagringsplass gratis. Den til enhver tid tilgjengelige mengden gratis lagringsplass er spesifisert på digipost.no.
+
 ## **5** POSTENS PLIKTER OG RETTIGHETER
 
 Posten er ansvarlig for utføring av de oppdrag som Brukeren iverksetter i henhold til disse Vilkårene.
@@ -202,4 +207,4 @@ Dersom Brukeren dør, vil Brukerens Digipost-konto og lagrede data slettes 12 m�
 
 Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom Posten og Brukeren skal søkes løst i minnelighet. Dersom det ikke lar seg gjøre, kan hver av partene bringe tvisten inn for de ordinære domstoler i samsvar med tvistelovens regler vedrørende verneting.
 
-Sist oppdatert 14. september 2021
+Sist oppdatert 18. august 2022
