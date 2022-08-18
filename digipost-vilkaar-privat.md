@@ -48,7 +48,7 @@ Meddelelser gjennom Digipost vil behandles fortløpende og meddelelsene vil vær
 
 Brukeren skal kun benytte Digipost som beskrevet i disse Vilkårene.
 
-Brukeren kan logge seg på Digipost med BankID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten. Passord/kode generert fra slikt sikkerhetsinstrument er Brukerens signatur ved bruk av Digipost. Det vil bli lagt til grunn at det er Brukeren som har benyttet seg av den enkelte tjeneste på Digipost der hvor korrekt passord er benyttet. Det samme gjelder dersom Brukeren har gitt andre tilgang gjennom delingsfunksjonaliteten i Digipost.
+Brukeren kan logge seg på Digipost med ID-porten eller annet tilsvarende sikkerhetsinstrument godkjent av Posten. Passord/kode generert fra slikt sikkerhetsinstrument er Brukerens signatur ved bruk av Digipost. Det vil bli lagt til grunn at det er Brukeren som har benyttet seg av den enkelte tjeneste på Digipost der hvor korrekt pålogging er benyttet. Det samme gjelder dersom Brukeren har gitt andre tilgang gjennom delingsfunksjonaliteten i Digipost.
 
 Sikkerhetsløsningene er beskyttet av et passord/kode og er personlig. Brukeren er selv ansvarlig for bruken. Det er derfor svært viktig at det brukes et unikt passord/kode og at det aldri oppgis eller skrives ned slik at uvedkommende kan utgi seg for å være Brukeren overfor Digipost. Passordet skal endres i samsvar med det som til enhver tid angis som krav til sikkerhetsløsningen.
 
@@ -82,7 +82,7 @@ Avsendere av Meddelelser i Digipost kan be om bekreftelse på at Meddelelsen er 
 
 Posten er ansvarlig for utføring av de oppdrag som Brukeren iverksetter i henhold til disse Vilkårene.
 
-Postens ansvar omfatter ikke feil, mangler eller driftsforstyrrelser knyttet til utstyr, programvare, tilgang til eller overføring over Internett eller Brukerens valgte autentiseringsløsning (BankID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten).
+Postens ansvar omfatter ikke feil, mangler eller driftsforstyrrelser knyttet til utstyr, programvare, tilgang til eller overføring over Internett eller Brukerens valgte autentiseringsløsning (ID-porten eller annet tilsvarende sikkerhetsinstrument godkjent av Posten).
 
 Posten overvåker ikke innholdet i Meddelelser som sendes til, mottas eller arkiveres i Digipost-postkassen, og er således ikke ansvarlig for Meddelelsenes innhold og form, samt innhold i eventuelle lenker.
 
