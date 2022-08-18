@@ -2,9 +2,9 @@
 
 Posten Norge AS leverer tjenestene Digipost og Posten signering. Tilknyttet disse tjenestene finnes følgende avtalevilkår og personvernerklæringer:
 
-* Avtalevilkår for bruk av Digipost for privatpersoner
+* Avtalevilkår for bruk av Digipost for privatpersoner (norsk og engelsk)
 * Avtalevilkår for bruk av Digipost for bedrifter
-* Personvern i Digipost (personvernerklæring)
+* Personvern i Digipost (personvernerklæring, norsk og engelsk)
 * Personvern i Posten signering (personvernerklæring)
 
 Posten benytter GitHub for administrasjon av disse dokumentene. Eventuelle forslag til forbedringer, korrektur og liknende kan sendes som pull request.
