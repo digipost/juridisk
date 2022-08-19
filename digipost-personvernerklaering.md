@@ -30,7 +30,7 @@ Digipost behandler personopplysninger om deg kun for å oppfylle avtalen vi har 
 
 ### 3.1 Hva bruker Digipost opplysningene til?
 
--	Identifisering og adressering av mottaker og avsender av digital post
+-	Identifisering og adressering av mottaker og avsender av digital post og fysisk post
 -	Varsle deg om at du har mottatt post i din postkasse
 -	Administrere dine postkassetilganger
 -	La deg lese og behandle digital post
@@ -54,6 +54,8 @@ Mens du har en aktiv konto hos oss behandler vi opplysninger for å kunne gjenno
 
 Opplysninger ut over dette behandles kun dersom du har gitt samtykke til dette. Du kan til enhver tid trekke tilbake ditt samtykke. Dette kan du selv administrere ved å gå til "Dine samtykker og apper" i innstillingene. 
 
+Digipost bruker Postens adresseregister for å motta oppdateringer fra folkeregisteret og gjennom dette sikre at Digiposts opplysninger til enhver tid er oppdaterte i forhold til vårt behandlingsgrunnlag. For å sikre korrekte og oppdaterte opplysninger vil ditt fødsels- eller D-nummer registreres i Postens adresseregister når du registrerer deg i Digipost, dersom dette ikke er registrert her fra før.
+
 ### 3.4 Hvor lenge opplysningene oppbevares (sletteregler)
 
 Opplysningene som er nevnt over oppbevares så lenge du har en aktiv konto hos Digipost. 
@@ -70,7 +72,7 @@ Vi må imidlertid oppbevare opplysninger om navn, fødselsnummer og varsler i tr
 
 Hjemmel for oppbevaring av nevnte opplysninger etter at avtalen er sagt opp er begrunnet i at Digipost har berettiget interesse for videre oppbevaring jf personvernforordningen art 6 f.  Digipost har erfart at flere av våre kunder kan angre avslutningen eller at slettingen av kontoen var feilaktig avsluttet. Basert på dette mener Digipost at en oppbevaring av opplysningene i 3 måneder etter avslutning er berettiget og at lagring i disse tilfellene ivaretar de kundens interesser. 
 
-Dersom kontoen avsluttes etter et dødsfall oppbevares opplysningen om kontoen og avdøde i 9 måneder etter at vi mottar melding om dødsfall fra folkeregisteret. Dette for å sikre at opplysninger som er nødvendig for avdødes etterkommere ikke går tapt og at alle etterlatte får nødvendig og viktig informasjon. 
+Dersom kontoen avsluttes etter et dødsfall oppbevares opplysningen om kontoen og avdøde i 12 måneder etter at vi mottar melding om dødsfall fra folkeregisteret. Dette for å sikre at opplysninger som er nødvendig for avdødes etterkommere ikke går tapt og at alle etterlatte får nødvendig og viktig informasjon.
 
 ## 4. Deling av personopplysninger
 

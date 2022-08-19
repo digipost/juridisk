@@ -48,7 +48,7 @@ Meddelelser gjennom Digipost vil behandles fortløpende og meddelelsene vil vær
 
 Brukeren skal kun benytte Digipost som beskrevet i disse Vilkårene.
 
-Brukeren kan logge seg på Digipost med BankID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten. Passord/kode generert fra slikt sikkerhetsinstrument er Brukerens signatur ved bruk av Digipost. Det vil bli lagt til grunn at det er Brukeren som har benyttet seg av den enkelte tjeneste på Digipost der hvor korrekt passord er benyttet. Det samme gjelder dersom Brukeren har gitt andre tilgang gjennom delingsfunksjonaliteten i Digipost.
+Brukeren kan logge seg på Digipost med ID-porten eller annet tilsvarende sikkerhetsinstrument godkjent av Posten. Passord/kode generert fra slikt sikkerhetsinstrument er Brukerens signatur ved bruk av Digipost. Det vil bli lagt til grunn at det er Brukeren som har benyttet seg av den enkelte tjeneste på Digipost der hvor korrekt pålogging er benyttet. Det samme gjelder dersom Brukeren har gitt andre tilgang gjennom delingsfunksjonaliteten i Digipost.
 
 Sikkerhetsløsningene er beskyttet av et passord/kode og er personlig. Brukeren er selv ansvarlig for bruken. Det er derfor svært viktig at det brukes et unikt passord/kode og at det aldri oppgis eller skrives ned slik at uvedkommende kan utgi seg for å være Brukeren overfor Digipost. Passordet skal endres i samsvar med det som til enhver tid angis som krav til sikkerhetsløsningen.
 
@@ -78,11 +78,16 @@ Brukeren har mulighet til å arkivere Meddelelser i Digipost. Meddelelser som Br
 
 Avsendere av Meddelelser i Digipost kan be om bekreftelse på at Meddelelsen er åpnet av Brukeren. Slike Meddelelser vil være merket med informasjon til Bruker om at avsender blir varslet ved åpning av Meddelelsen.
 
+Alle Meddelelser mottatt i Digipost blir lagret på sikre servere.
+
+Gjennom Digipost får Brukeren mulighet til å lage et personlig, sikkert digitalt arkiv hvor Brukeren kan overføre og lagre digitale filer til sikre servere, og som gir Brukeren tilgang til filene via Internett. Digipost tilbyr
+en gitt mengde lagringsplass gratis. Den til enhver tid tilgjengelige mengden gratis lagringsplass er spesifisert på digipost.no.
+
 ## **5** POSTENS PLIKTER OG RETTIGHETER
 
 Posten er ansvarlig for utføring av de oppdrag som Brukeren iverksetter i henhold til disse Vilkårene.
 
-Postens ansvar omfatter ikke feil, mangler eller driftsforstyrrelser knyttet til utstyr, programvare, tilgang til eller overføring over Internett eller Brukerens valgte autentiseringsløsning (BankID utstedt av hvilken som helst bank i Norge, eller annet tilsvarende sikkerhetsinstrument godkjent av Posten).
+Postens ansvar omfatter ikke feil, mangler eller driftsforstyrrelser knyttet til utstyr, programvare, tilgang til eller overføring over Internett eller Brukerens valgte autentiseringsløsning (ID-porten eller annet tilsvarende sikkerhetsinstrument godkjent av Posten).
 
 Posten overvåker ikke innholdet i Meddelelser som sendes til, mottas eller arkiveres i Digipost-postkassen, og er således ikke ansvarlig for Meddelelsenes innhold og form, samt innhold i eventuelle lenker.
 
@@ -196,28 +201,10 @@ Ved opphør av avtalen ved oppsigelse vil Brukerens adgang til å sende og motta
 
 Dersom Brukerens Digipost-konto har vært inaktiv i mer enn 14 måneder, kan Posten deaktivere muligheten til å sende og motta Meddelelser hvis kontoen fortsatt er inaktiv 14 dager etter at Posten har sendt varsel om deaktivering.
 
-Dersom Brukeren dør, vil Brukerens Digipost-konto og lagrede data slettes tre måneder etter at Posten fikk beskjed om dødsfallet. De(n) som kan forplikte Brukeren må kontakte Digipost for å få tilgang til Brukerens Digipost-konto innen sletting. Posten forbeholder seg retten til å beholde data som er nødvendig for oppfølging av kundeforholdet.
+Dersom Brukeren dør, vil Brukerens Digipost-konto og lagrede data slettes 12 måneder etter at Posten fikk beskjed om dødsfallet. De(n) som kan forplikte Brukeren må kontakte Digipost for å få tilgang til Brukerens Digipost-konto innen sletting. Posten forbeholder seg retten til å beholde data som er nødvendig for oppfølging av kundeforholdet.
 
-## **16** PRODUKT- OG BETALINGSVILKÅR FOR SIKKER LAGRING
-
-Alle Meddelelser mottatt i Digipost blir lagret på sikre servere.
-
-Gjennom Digipost får Brukeren mulighet til å lage et personlig, sikkert digitalt arkiv hvor Brukeren kan overføre og lagre digitale filer til sikre servere, og som gir Brukeren tilgang til filene via Internett. Digipost tilbyr en gitt mengde lagringsplass gratis. Den til enhver tid tilgjengelige mengden gratis lagringsplass er spesifisert på digipost.no.
-
-Brukere som ønsker mer lagringsplass enn det Digipost tilbyr gratis, kan betale for mer plass. Digipost tilbyr flere nivåer med ulik lagringskapasitet. Brukeren kan når som helst oppgradere fra Digipost sin gratistjeneste til et av Digipost sine produkter for økt lagringskapasitet. Den økte lagringskapasiteten vil umiddelbart bli tilgjengelig etter utført betaling.
-
-Digipost sin lagringstjeneste er et løpende abonnement med automatisk fornyelse. Brukeren bestiller og betaler forskuddsbasert for abonnementet frem til abonnementsperioden for det aktuelle abonnement utløper. Abonnementet fornyes deretter automatisk, og Brukerens bankkort/konto vil bli belastet på nytt ved periodens slutt inntil brukeren selv velger å stoppe eller endre abonnementet. Digipost sine abonnement og priser finnes på www.digipost.no.
-
-Kjøp av lagring gir Brukeren mulighet for å laste opp og lagre dokumenter opp til produktets øvre lagringsgrense. Beløpet som belastes vil ta utgangspunkt i valgt produkt og er uavhengig av om faktisk benyttet lagringsplass er lavere enn den øvre lagringsgrensen og uavhengig av om et rimeligere abonnement kunne vært valgt.
-
-Brukeren har mulighet til å administrere sitt abonnement under personlige innstillinger på digipost.no. Her vil Brukeren også få oversikt over aktivt abonnement, tidligere abonnementer og tidligere betalinger/trekk.
-
-Brukeren kan til enhver tid oppgradere eller nedgradere sitt abonnement. For å kunne nedgradere gjeldende abonnement må Brukeren først sørge for at benyttet lagringsplass er under maksimal lagringsgrense. Endringene vil tre i kraft umiddelbart. Digipost refunderer ikke penger for abonnement som er endret før abonnementsperioden er avsluttet.
-
-Ved mislighold vil Digipost kunne sperre utvalgt funksjonalitet og tilgang for Brukeren. Dersom betaling av abonnement ikke kan gjennomføres, for eksempel ved at registrert kort har gått ut eller at det ikke er dekning på konto, vil Digipost stenge for at Brukeren kan laste opp nye dokumenter og sende brev gjennom Digipost. Digipost vil også kunne sperre for Brukerens tilgang dersom tjenesten misbrukes eller benyttes på en måte som strider mot norsk lov. For øvrig vises det til punkt 10.
-
-## **17** JURISDIKSJON OG VERNETING
+## **16** JURISDIKSJON OG VERNETING
 
 Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom Posten og Brukeren skal søkes løst i minnelighet. Dersom det ikke lar seg gjøre, kan hver av partene bringe tvisten inn for de ordinære domstoler i samsvar med tvistelovens regler vedrørende verneting.
 
-Sist oppdatert 14. september 2021
+Sist oppdatert 18. august 2022
