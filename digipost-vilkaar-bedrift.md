@@ -225,16 +225,16 @@ Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom 
 
 I Digipost benyttes følgende underleverandører i behandling av personopplysninger hvor Posten er databehandler for Kunden:
 
-- TietoEvry ASA: Leverer datasenterløsninger.
+- Microsoft Azure Irland Limited: Leverer datasenterløsninger.
 - Bekk Consulting AS: Leverer utviklingstjenester.
 - Andvord Grafisk AS: Utfører print av fysiske dokumenter.
-- Microsoft Azure Irland Limited: Leverer datasenterløsninger.
+- TietoEvry ASA: Leverer tjeneste for adressevask.
 
 I Posten Signering benyttes i tillegg følgende underleverandører hvor Posten er databehandler for Kunden:
 
 - Signicat AS: Leverer autentiseringsløsning og tjenester for digital signatur.
 - Mailjet Inc: Utfører distribusjon av e-post.
-- TietoEvry ASA (fases ut i Q2 2022) / Telia Norge AS (fases inn i Q2 2022) utfører distribusjon av SMS.
+- Telia Norge AS utfører distribusjon av SMS (TietoEvry ASA fases ut).
 
 ## Tilleggsvilkår bedrift — sikker print
 
