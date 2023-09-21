@@ -4,15 +4,15 @@ Personopplysninger er opplysninger som kan kobles til deg som person. Det kan v�
 
 I Digipost ønsker vi å gi deg som bruker god informasjon om hvordan vi oppbevarer og bruker de personopplysningene du har gitt oss i forbindelse med bruk av tjenester hos oss. Det er viktig for oss at du til enhver tid føler deg trygg på at vi oppbevarer og bruker disse opplysningene på en konfidensiell, riktig og lovlig måte. 
 
-## 1. Kort presentasjon av Digipost og relasjon til Posten Norge som behandlingsansvarlig.
+## 1. Kort presentasjon av Digipost og relasjon til Posten Bring som behandlingsansvarlig.
 
-Digipost er Posten Norges digitale postkasse. Gjennom denne tjenesten kan du som privatperson motta og oppbevare digital post. Det er således Posten Norge som eier tjenesten Digipost og det er Posten Norge som er behandlingsansvarlig for alle personopplysningene om deg som vi mottar når du tar i bruk tjenestene hos Digipost. 
+Digipost er Posten Brings digitale postkasse. Gjennom denne tjenesten kan du som privatperson motta og oppbevare digital post. Det er således Posten Bring som eier tjenesten Digipost og det er Posten Bring som er behandlingsansvarlig for alle personopplysningene om deg som vi mottar når du tar i bruk tjenestene hos Digipost. 
 
 Du får som bruker av Digipost tilgang til din postkasse enten via vår nettside eller via Digipost sin egen app. Denne personvernerklæringen gjelder både ved bruk av nettsiden og bruk av Digipost sin app.
 
-Det er Posten Norge som er behandlingsansvarlig etter norsk personvernvernlovgivning og som er ansvarlig for å påse at behandlingen av personopplysningene gjøres på en forsvarlig og lovlig måte i henhold til regelverket. 
+Det er Posten Bring som er behandlingsansvarlig etter norsk personvernvernlovgivning og som er ansvarlig for å påse at behandlingen av personopplysningene gjøres på en forsvarlig og lovlig måte i henhold til regelverket. 
 
-Posten Norge har utnevnt et eget personvernombud som du kan kontakte dersom du har spørsmål om hvordan dine personopplysninger behandles og du kan få hjelp til å utøve dine rettigheter etter personopplysningsloven. 
+Posten Bring har utnevnt et eget personvernombud som du kan kontakte dersom du har spørsmål om hvordan dine personopplysninger behandles og du kan få hjelp til å utøve dine rettigheter etter personopplysningsloven. 
 
 Du kan kontakte Postens personvernombud på [personvernombud@posten.no](mailto:personvernombud@posten.no).
 

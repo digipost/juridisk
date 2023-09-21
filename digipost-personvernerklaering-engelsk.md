@@ -6,15 +6,15 @@ As a user, Digipost wishes to provide you with useful information about how we s
 
 ## 1. BRIEF PRESENTATION OF DIGIPOST AND RELATIONSHIP TO NORWAY POST AS THE DATA CONTROLLER
 
-Digipost is Norway Post’s digital mailbox. As a private individual, you can receive and store digital mail through this service. Thus Norway Post owns the Digipost service and Norway Post is the data controller for all personal data about you that we receive when you start using Digipost services.
+Digipost is Posten Bring’s digital mailbox. As a private individual, you can receive and store digital mail through this service. Thus Posten Bring owns the Digipost service and Posten Bring is the data controller for all personal data about you that we receive when you start using Digipost services.
 
 As a user of Digipost, you have access to your mailbox either via our website or via Digipost’s own app. This privacy policy applies both when using the website and when using the Digipost app.
 
-Norway Post is the data controller in accordance with Norwegian privacy legislation and is responsible for ensuring that the processing of personal data is carried out in a responsible and legal manner in accordance with the regulations.
+Posten Bring is the data controller in accordance with Norwegian privacy legislation and is responsible for ensuring that the processing of personal data is carried out in a responsible and legal manner in accordance with the regulations.
 
-Norway Post has appointed a separate data protection officer whom you can contact if you have any questions about how your personal data is processed, and you can get help with exercising your rights under the Personal Data Act.
+Posten Bring has appointed a separate data protection officer whom you can contact if you have any questions about how your personal data is processed, and you can get help with exercising your rights under the Personal Data Act.
 
-You can contact Norway Post’s data protection officer at [personvernombud@posten.no](mailto:personvernombud@posten.no).
+You can contact Posten Bring’s data protection officer at [personvernombud@posten.no](mailto:personvernombud@posten.no).
 
 ## 2. DIGIPOST LOOKS AFTER YOUR DOCUMENTS AND PERSONAL DATA
 
@@ -22,7 +22,7 @@ All the documents that you store in Digipost are encrypted and are your personal
 
 As a digital mailbox, we ensure that as a user you can receive digital mail from senders with whom Digipost has an agreement. Digipost is therefore the data processor for the senders and ensures that the mail they send arrives safely to you as a user of our services. We send a delivery confirmation to the sender when the mail has been delivered to you as the recipient. From that point on, the mail is your property and only you will decide on the further processing of it.
 
-Norway Post is not responsible for the content of mail sent. If you have any questions or comments about the mail you receive, you must contact the sender of the mail you receive in your digital mailbox.
+Posten Bring is not responsible for the content of mail sent. If you have any questions or comments about the mail you receive, you must contact the sender of the mail you receive in your digital mailbox.
 
 ## 3. FURTHER INFORMATION ABOUT DIGIPOST COLLECTION AND USE OF PERSONAL DATA
 
@@ -35,7 +35,7 @@ Digipost processes personal data about you only in order to fulfil the agreement
 - To manage your mailbox access
 - To let you read and process digital mail
 - Integration and implementation of banking services, if you have enabled this
-- To send you information about our services and updates, including new functionality and operational information as well as customer surveys. You can also receive marketing enquiries from the Norway Post Group, if you have consented to this.
+- To send you information about our services and updates, including new functionality and operational information as well as customer surveys. You can also receive marketing enquiries from the Posten Bring Group, if you have consented to this.
 
 ### 3.2 Legal basis for processing the data
 
@@ -54,7 +54,7 @@ While you have an active account with us, we process data in order to fulfil the
 
 Information beyond this is processed only if you have given your consent to this. You may withdraw your consent at any time. You can manage this yourself by going to “Your consents and apps” in the settings.
 
-Digipost uses Norway Post’s address register to receive updates from the national population register, thereby ensuring that Digipost’s information is updated at all times in relation to our legal basis. In order to ensure correct and updated information, your national personal identification number or D number will be registered in Norway Post’s address register when you register in Digipost, if this is not already registered here.
+Digipost uses Posten Bring’s address register to receive updates from the national population register, thereby ensuring that Digipost’s information is updated at all times in relation to our legal basis. In order to ensure correct and updated information, your national personal identification number or D number will be registered in Posten Bring’s address register when you register in Digipost, if this is not already registered here.
 
 ### 3.4 How long the data is stored (deletion rules)
 
@@ -108,7 +108,7 @@ Postboks 458 Sentrum
 
 ## 7. INFORMATION SECURITY
 
-Norway Post aims to ensure that Digipost is the most secure digital mailbox in Norway and uses recognised standards and best practices in our efforts to secure your mailbox and exchange information.
+Posten Bring aims to ensure that Digipost is the most secure digital mailbox in Norway and uses recognised standards and best practices in our efforts to secure your mailbox and exchange information.
 
 Digipost conducts regular risk assessments and security tests of the solutions and maintains good dialogue with the authorities and other security environments in order to comply with the best standards.
 
@@ -122,6 +122,6 @@ Our most important security measures are:
 - All senders and recipients are identified according to strict guidelines. This means that you can always be sure which sender a notification comes from.
 - Digipost’s servers are located in one of Norway’s most secure operating centres, run by a provider who has extensive experience of dealing with business-critical and sensitive information.
 - All your documents are backed up and all your documents are stored in two different locations at all times so that you are protected from fire, server destruction, etc.
-- Norway Post’s employees or employees of subcontractors do not have access to your documents. Only a few operators have access to Digipost’s systems, but all documents are stored encrypted and so they do not have access to your data either.
+- Posten Bring’s employees or employees of subcontractors do not have access to your documents. Only a few operators have access to Digipost’s systems, but all documents are stored encrypted and so they do not have access to your data either.
 
 Digipost updates and evaluates our security measures on an ongoing basis.

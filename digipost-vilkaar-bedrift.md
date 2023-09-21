@@ -1,6 +1,6 @@
 # Avtalevilkår for bruk av Digipost for bedrifter
 
-Avtalevilkår for bruk av Digipost for bedrifter, organisasjoner, mv. Nedenfor følger vilkår som gjelder for bruk av Digipost («Vilkårene»), en tjeneste fra Posten Norge AS («Posten»), org. nr. 984 661 185. Dersom foretaket som skal anvende Digipost («Kunden») har spørsmål til Vilkårene, må Kunden kontakte Posten på e-post salg@digipost.no og avvente Postens svar før vilkårene aksepteres og Digipost tas i bruk.
+Avtalevilkår for bruk av Digipost for bedrifter, organisasjoner, mv. Nedenfor følger vilkår som gjelder for bruk av Digipost («Vilkårene»), en tjeneste fra Posten Bring AS («Posten»), org. nr. 984 661 185. Dersom foretaket som skal anvende Digipost («Kunden») har spørsmål til Vilkårene, må Kunden kontakte Posten på e-post salg@digipost.no og avvente Postens svar før vilkårene aksepteres og Digipost tas i bruk.
 
 ## **1.** Om Digipost
 
@@ -130,7 +130,7 @@ Kunden samtykker til at Posten benytter underleverandører for utførelsen av si
 
 Som ledd i Postens oppfyllelse av avtalen med Kunden om bruk av Digipost vil Posten behandle personopplysninger relatert til Kunde, herunder om ansatte eller brukere Kundens konto. 
 
-Behandlingsansvarlig er i slike tilfeller Posten Norge AS, Att: Digipost, Postboks 1500 Sentrum, 0001 Oslo, +47 23 14 90 00. 
+Behandlingsansvarlig er Posten Bring AS, Postboks 1500 Sentrum, 0001 Oslo.
 
 Behandlingen av personopplysninger, og rettighetene til den enkelte som får sine personopplysninger behandlet, er nærmere beskrevet i personvernerklæringen.
 
@@ -198,7 +198,7 @@ Til Posten: [salg@digipost.no](mailto:salg@digipost.no)
 
 eller
 
-Posten Norge AS<br>
+Posten Bring AS<br>
 Att: Digipost<br>
 Postboks 1500 Sentrum<br>
 0001 Oslo
@@ -268,7 +268,7 @@ Følgende vilkår er tilleggsvilkår til «Avtalevilkår for bruk av Digipost fo
 
 ### **1.** Om Posten signering
 
-Gjennom denne avtalen gir Posten Norge AS kunden tilgang til tjenesten Posten signering for digital signering av dokumenter. Kunden kan sende og motta dokumenter som skal signeres digitalt, enten gjennom Digipost, i Postens signeringsportal eller integrert i egen virksomhetsportal.
+Gjennom denne avtalen gir Posten Bring AS kunden tilgang til tjenesten Posten signering for digital signering av dokumenter. Kunden kan sende og motta dokumenter som skal signeres digitalt, enten gjennom Digipost, i Postens signeringsportal eller integrert i egen virksomhetsportal.
 
 ### **2.** Pris og faktureringsbestemmelser
 
