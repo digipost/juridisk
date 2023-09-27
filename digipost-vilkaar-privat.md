@@ -2,7 +2,7 @@
 
 Vilkårene nedenfor omhandler hvilke rettigheter og plikter du har som bruker av Digipost, og ved å akseptere vilkårene gir du også tillatelse til behandling av personopplysninger om deg selv. Du må derfor gjennomgå vilkårene grundig og vurdere om du aksepterer disse før du begynner å benytte Digipost. Dersom du har spørsmål til Vilkårene, anbefaler vi deg å kontakte Posten på e-post [kundeservice@digipost.no](mailto:kundeservice@digipost.no), og avvente Postens svar før du aksepterer vilkårene og tar i bruk Digipost.
 
-Nedenfor følger vilkår som gjelder for bruk av Digipost («Vilkårene»), en tjeneste fra Posten Norge AS («Posten»), org. nr. 984 661 185. Vilkårene anses som lest, forstått og akseptert av den fysiske person som skal bruke Digipost («Brukeren»), ved at Brukeren krysser av for «Jeg godtar vilkårene for Digipost», klikker på knappen merket «Registrer meg i Digipost» og tar Digipost i bruk. Brukeren anbefales å skrive ut Vilkårene og lagre disse, sammen med kvittering for aksept av tjenesten.
+Nedenfor følger vilkår som gjelder for bruk av Digipost («Vilkårene»), en tjeneste fra Posten Bring AS («Posten»), org. nr. 984 661 185. Vilkårene anses som lest, forstått og akseptert av den fysiske person som skal bruke Digipost («Brukeren»), ved at Brukeren krysser av for «Jeg godtar vilkårene for Digipost», klikker på knappen merket «Registrer meg i Digipost» og tar Digipost i bruk. Brukeren anbefales å skrive ut Vilkårene og lagre disse, sammen med kvittering for aksept av tjenesten.
 
 Brukeren må ha fylt 15 år for å kunne registrere seg og ta i bruk Digipost.
 
@@ -113,7 +113,7 @@ Taushetsplikten gjelder ikke når det er plikt til å gi materiale eller opplysn
 
 ## **8** BEHANDLING AV PERSONOPPLYSNINGER
 
-Posten vil behandle personopplysninger som følge at Brukeren benytter Digipost og vil ved all behandling av personopplysninger følge bestemmelsene i gjeldende personvernregelverk. Behandlingsansvarlig er Posten Norge AS, Postboks 1500 Sentrum, 0001 Oslo.
+Posten vil behandle personopplysninger som følge at Brukeren benytter Digipost og vil ved all behandling av personopplysninger følge bestemmelsene i gjeldende personvernregelverk. Behandlingsansvarlig er Posten Bring AS, Postboks 1500 Sentrum, 0001 Oslo.
 
 Behandlingen av personopplysninger, og Brukerens rettigheter, er nærmere beskrevet i personvernerklæringen.
 
@@ -186,7 +186,7 @@ Til Posten:
 e-post: [kundeservice@digipost.no](mailto:kundeservice@digipost.no) eller
 
 postadresse:<br>
-Posten Norge AS<br>
+Posten Bring AS<br>
 Att: Digipost<br>
 Postboks 1500 Sentrum<br>
 0001 Oslo
