@@ -2,9 +2,9 @@
 
 Denne personvernerklæringen beskriver hvordan Posten (heretter «vi») behandler dine personopplysninger ved bruk av Posten signering (med konto), som er en tjeneste for elektronisk signering av dokumenter mellom virksomheter og privatpersoner.
 
-I tillegg til denne personvernerklæringen gjelder Posten Bring-konsernets generelle personvernerklæring som du finner her. Der kan du lese mer om blant annet dine rettigheter, og hvordan du kan komme i kontakt med oss for å utøve rettighetene dine, hvis du har spørsmål, eller ønsker å klage på vår behandling av personopplysningene dine.
+I tillegg til denne personvernerklæringen gjelder [Posten Bring-konsernets generelle personvernerklæring](https://www.posten.no/personvern-sikkerhet). Der kan du lese mer om blant annet dine rettigheter, og om hvordan du kan komme i kontakt med oss for å utøve rettighetene dine, hvis du har spørsmål, eller ønsker å klage på vår behandling av personopplysningene dine.
 
-Behandlingsansvarlig for behandling av personopplysninger for denne tjenesten er Posten Bring AS, organisasjonsnummer 984 661 185, Biskop Gunnerus’ Gate 14 A, 0185 Oslo.
+Behandlingsansvarlig for behandling av personopplysninger for denne tjenesten er Posten Bring AS, organisasjonsnummer 984 661 185, Biskop Gunnerus’ gate 14 A, 0185 Oslo.
 
 ## 1. Hvilke personopplysninger vi behandler og hvorfor
 
@@ -40,11 +40,11 @@ I dette punktet forklarer vi for hvilke formål vi behandler personopplysningene
    Rettslig grunnlag for behandling av disse personopplysningene: Behandling skjer på grunnlag av det som i loven kalles «berettiget interesse». Posten har vurdert det slik at behandlingen er nødvendig for å kunne tilby god brukeropplevelse.
 
 5. **Formål:** Videreutvikle tjenestene
-   Posten vil behandle personopplysninger for å videreutvikle og optimalisere tjenesten slik at vi kan tilby en god, feilfri og fremtidsrettet tjeneste til våre kunder.
+   Posten vil behandle personopplysninger for å videreutvikle og optimalisere tjenestene slik at vi kan tilby gode, feilfrie og fremtidsrettede tjenester til våre kunder.
 
-   **Personopplysninger som behandles:** Informasjon om bruk av Posten signering-løsningen og trafikkdata
+   **Personopplysninger som behandles:** Informasjon om bruk av Posten signering-løsningene og trafikkdata
 
-   **Rettslig grunnlag for behandling av disse personopplysningene:** Behandling skjer på grunnlag av det som i loven kalles «berettiget interesse». Posten har vurdert det slik at behandlingen er nødvendig for å optimalisere og forbedre tjenesten.
+   **Rettslig grunnlag for behandling av disse personopplysningene:** Behandling skjer på grunnlag av det som i loven kalles «berettiget interesse». Posten har vurdert det slik at behandlingen er nødvendig for å optimalisere og forbedre tjenestene.
 
 6. **Formål:** Dokumentasjon for tvistesaker
    Posten vil behandle fødselsnummer, e-postadresse og telefonnummer for å kunne dokumentere bruk av tjenesten ved eventuelle tvistesaker.
