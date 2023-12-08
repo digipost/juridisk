@@ -1,11 +1,12 @@
 # Juridisk
 
-Posten Norge AS leverer tjenestene Digipost og Posten signering. Tilknyttet disse tjenestene finnes følgende avtalevilkår og personvernerklæringer:
+Posten Bring AS leverer tjenestene Digipost og Posten signering. Tilknyttet disse tjenestene finnes følgende avtalevilkår og personvernerklæringer:
 
 * Avtalevilkår for bruk av Digipost for privatpersoner (norsk og engelsk)
 * Avtalevilkår for bruk av Digipost for bedrifter
 * Personvern i Digipost (personvernerklæring, norsk og engelsk)
-* Personvern i Posten signering (personvernerklæring)
+* Personvern i Posten signering med konto (personvernerklæring)
+* Personvern i Posten signering uten konto (personvernerklæring)
 
 Posten benytter GitHub for administrasjon av disse dokumentene. Eventuelle forslag til forbedringer, korrektur og liknende kan sendes som pull request.
 
@@ -13,4 +14,4 @@ Posten benytter GitHub for administrasjon av disse dokumentene. Eventuelle forsl
 
 Dokumentene er lisensiert under *Apache License, Version 2.0*, som beskrevet i [lisensfilen](https://github.com/digipost/juridisk/blob/master/LICENSE "LICENSE").
 
-Bilder og logoer for Posten og Digipost er (C) Posten Norge AS og er ikke lisensiert under *Apache Licence, Versjon 2.0*. Navnene Posten, Posten Norge AS, Posten signering og Digipost er heller ikke lisensiert under *Apache Licence, Versjon 2.0* og kan følgelig ikke nyttes.
+Bilder og logoer for Posten og Digipost er (C) Posten Bring AS og er ikke lisensiert under *Apache Licence, Versjon 2.0*. Navnene Posten, Posten Bring AS, Posten signering og Digipost er heller ikke lisensiert under *Apache Licence, Versjon 2.0* og kan følgelig ikke nyttes.
