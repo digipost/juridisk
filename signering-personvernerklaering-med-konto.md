@@ -86,3 +86,5 @@ Vi lagrer dine personopplysninger hos oss så lenge det er nødvendig for det fo
 Dersom du har spørsmål om vår behandling av dine personopplysninger, er du velkommen til å ta kontakt med vårt personvernombud: personvernombud@posten.no
 
 Dersom du mener at vår behandling av personopplysninger ikke stemmer med det vi har beskrevet her eller at vi på andre ikke etterlever kravene i personvernlovgivningen, vil vi gjerne at du tar kontakt med oss. Du kan også klage til Datatilsynet. Du finner kontaktinformasjon til Datatilsynet på deres nettsider: www.datatilsynet.no.
+
+Ved tvister vil personvernerklæringen skrevet på bokmål være gjeldende.
