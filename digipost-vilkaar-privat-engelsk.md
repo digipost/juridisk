@@ -345,6 +345,8 @@ engaged to perform its services to the User, Posten Bring will be liable only
 if these contract personnel would also be liable in accordance with the above
 in the same way as Posten Bring would have been.
 
+The User is personally responsible for the processing of invoices received in Digipost.
+
 ### **9.5** Termination
 
 If there is material breach by Posten Bring, the User can terminate the
