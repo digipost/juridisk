@@ -54,7 +54,11 @@ While you have an active account with us, we process data in order to fulfil the
 
 Information beyond this is processed only if you have given your consent to this. You may withdraw your consent at any time. You can manage this yourself by going to “Your consents and apps” in the settings.
 
+If you consent to being visible in searches by other private individuals, your name, postcode, and town, as well as the last three digits of your phone number, will be visible to other private individuals who search for your name. You can withdraw your consent at any time by changing the settings for mail from private individuals.
+
 Digipost uses Posten Bring’s address register to receive updates from the national population register, thereby ensuring that Digipost’s information is updated at all times in relation to our legal basis. In order to ensure correct and updated information, your national personal identification number or D number will be registered in Posten Bring’s address register when you register in Digipost, if this is not already registered here.
+
+If you change your name in the National Population register, a new Digipost address reflecting your new name will automatically be generated.
 
 ### 3.4 How long the data is stored (deletion rules)
 
@@ -114,7 +118,7 @@ Digipost conducts regular risk assessments and security tests of the solutions a
 
 Our most important security measures are:
 
-- Security level 4 authentication.
+- Highest level of security (level 4) authentication.
 - All information exchange takes place with strong encryption (SSL, SSH).
 - Sensitive information can be encrypted end-to-end with qualified certificates.
 - All actions performed by operational personnel are logged in separate event logs.
