@@ -1,4 +1,19 @@
-# Agreement terms and conditions for use of Digipost for private individuals
+# Summary of Terms and Conditions for Using Digipost for Private consumers: 
+
+About Digipost: Digipost is a service from Posten Bring AS that allows users to send, receive, sign, and archive electronic messages. Upon registration, the user's name, national identification number, address, email address, and mobile number are collected. The user must be at least 15 years old. 
+
+Pricing and  invoicing:  It is free to create a Digipost account, as well as to receive and store letters and documents. The user is given a certain amount of free storage space and can send a limited number of letters for free per month. 
+
+Service Level: The goal is for Digipost to be available 24/7. The service may be temporarily unavailable due to technical issues, maintenance, or upgrades. 
+
+Use of Digipost: The user permits all potential senders, including public authorities, companies, organizations, and private individuals, to use Digipost for communication with the user. 
+
+Privacy: Personal data is processed in accordance with applicable privacy legislation. By accepting the terms, the user consents to such processing. 
+
+Changes to Terms: Posten may change the terms by notifying the user within a reasonable time before the changes take effect. For significant changes, the user will be asked to accept the new terms to continue using the service. 
+
+See full terms and conditions below. 
+# Agreement terms and conditions for use of Digipost for private consumers
 
 The terms below cover the rights and obligations that you have as a user of
 Digipost, and by accepting the terms you also give permission to process
@@ -7,7 +22,7 @@ conditions carefully and assess whether you accept these before you start
 using Digipost. If you have any questions about the terms and conditions, we
 recommend that you contact Posten Bring by email at
 [kundeservice@digipost.no](mailto:kundeservice@digipost.no), and
-await Posten Bring’s response before accepting the terms and conditions and
+await Posten Bring’s response before accepting the terms and conditions for
 using Digipost.
 
 Below are the terms and conditions governing the use of Digipost (“Terms”), a
@@ -57,8 +72,7 @@ and the option to send a specific number of letters free of charge each month.
 Information on the available storage space and number of letters can be found
 at www.digipost.no.
 
-If the User makes use of payable services in Digipost, payment must be made
-using a debit card or credit card, including MasterCard and Visa, through a
+If the User makes use of payable services in Digipost, payment must be made through a
 secure payment service from a trusted third party. The user must enter the
 required card information. This information will be stored by a trusted third
 party in order to facilitate future payments.
@@ -330,11 +344,6 @@ User’s direct losses are due to contract personnel that Posten Bring has
 engaged to perform its services to the User, Posten Bring will be liable only
 if these contract personnel would also be liable in accordance with the above
 in the same way as Posten Bring would have been.
-
-Digipost allows the User to transfer data from invoices received in Digipost
-to the User’s online bank for processing there. The User is personally
-responsible for the processing of invoices in the online bank and for ensuring
-that the correct account is charged at the correct time.
 
 ### **9.5** Termination
 
