@@ -1,3 +1,18 @@
+# Sammendrag av avtalevilkårene for bruk av Digipost for privatpersoner: 
+
+Om Digipost: Digipost er en tjeneste fra Posten Bring AS som lar brukere sende, motta, signere og arkivere elektroniske meldinger. Ved registrering samles inn brukerens navn, fødselsnummer, adresse, e-postadresse og mobilnummer. Brukeren må være minst 15 år gammel. 
+
+Pris og fakturering: Det er gratis å opprette en Digipost-konto, samt å motta og lagre brev og dokumenter. Brukeren får en viss mengde gratis lagringsplass og kan sende et begrenset antall brev gratis per måned. 
+
+Tjenestenivå: Målet er at Digipost skal være tilgjengelig 24/7. Tjenesten kan bli midlertidig utilgjengelig ved tekniske feil, vedlikehold eller oppgraderinger. 
+
+Bruk av Digipost: Brukeren gir tillatelse til at alle potensielle avsendere, inkludert offentlige myndigheter, virksomheter, organisasjoner og privatpersoner, kan benytte Digipost for kommunikasjon med Brukeren. 
+
+Personvern: Personopplysninger behandles i samsvar med gjeldende personvernlovgivning. Ved aksept av vilkårene gir brukeren samtykke til slik behandling. 
+
+Endring av vilkår: Posten kan endre vilkårene ved å gi brukeren beskjed i rimelig tid før endringene trer i kraft. Ved vesentlige endringer vil brukeren bli bedt om å akseptere de nye vilkårene for fortsatt bruk av tjenesten. 
+
+Se fullstendige vilkår under. 
 # Avtalevilkår for bruk av Digipost for privatpersoner
 
 Vilkårene nedenfor omhandler hvilke rettigheter og plikter du har som bruker av Digipost, og ved å akseptere vilkårene gir du også tillatelse til behandling av personopplysninger om deg selv. Du må derfor gjennomgå vilkårene grundig og vurdere om du aksepterer disse før du begynner å benytte Digipost. Dersom du har spørsmål til Vilkårene, anbefaler vi deg å kontakte Posten på e-post [kundeservice@digipost.no](mailto:kundeservice@digipost.no), og avvente Postens svar før du aksepterer vilkårene og tar i bruk Digipost.
@@ -26,7 +41,7 @@ Digipost omfatter også flere valgfrie tilleggstjenester. Disse Vilkårene gjeld
 
 Det er gratis å opprette konto i Digipost, samt å motta og arkivere brev og kvitteringer. Brukeren har en gitt mengde gratis lagringsplass, og mulighet til å sende et gitt antall brev gratis per måned. Informasjon om gjeldende lagringsplass og antall brev er tilgjengelig på www.digipost.no.
 
-Dersom Brukeren tar i bruk betalingspliktige tjenester i Digipost, skal betaling skje med bank- og kredittkort, herunder MasterCard og Visa, gjennom en sikker betalingstjeneste fra tiltrodd tredjepart. Brukeren må legge inn nødvendig kortinformasjon. Informasjonen blir lagret hos tiltrodd tredjepart for å forenkle fremtidige betalinger.
+Dersom Brukeren tar i bruk betalingspliktige tjenester i Digipost, skal betaling skje gjennom en sikker betalingstjeneste fra tiltrodd tredjepart. Brukeren må legge inn nødvendig kortinformasjon. Informasjonen blir lagret hos tiltrodd tredjepart for å forenkle fremtidige betalinger.
 
 Ved å legge inn gyldig kortinformasjon aksepterer Brukeren at Digipost kan belaste bankkortet/kontoen for alle kjøp i Digipost, og at beløpet for abonnementstjenester kan trekkes automatisk ved forfall. Brukeren plikter å påse at kortet som legges inn er gyldig, at vedkommende kan disponere dette, og at det har tilstrekkelig dekning ved fremtidige forfall. Beløpet som belastes kontoen følger den til enhver tid gjeldende prisliste, med tillegg av lovbestemt merverdiavgift på betalingstidspunktet.
 
@@ -42,7 +57,7 @@ Varsel kan være i form av en melding som sendes til den e-postadresse som Bruke
 
 Meddelelser gjennom Digipost vil behandles fortløpende og meddelelsene vil være tilgjengelig for mottaker i henhold til avtale med avsender, normalt omgående etter avsending. Forsendelsestiden vil imidlertid kunne variere, og ved stort antall samtidige oppgaver eller store oppgaver vil forsendelsestiden kunne øke.
 
-## **4** BRUKERENS BRUK AV DIGIPOST
+## **4** BRUK AV DIGIPOST
 
 ### **4.1** Generelt
 
@@ -58,7 +73,7 @@ Brukeren forplikter seg til ikke å foreta ulovlig inntrengning i dataressurser 
 
 Posten overvåker ikke innholdet i Meddelelser som sendes til, mottas, signeres eller arkiveres i Digipost-postkassen, og er således ikke ansvarlig for Meddelelsenes innhold og form, samt innhold i eventuelle lenker. Posten er heller ikke ansvarlig for feil, mangler og/eller uønskede egenskaper ved aktuelle data, filvedlegg, lenker mv.
 
-Nødvendige personlige opplysninger som Digipost har om Brukeren skal til enhver tid være oppdatert. Brukeren skal selv varsle om endring av e-postadresse, kredittkortinformasjon og andre forhold av betydning for bruk av Digipost ved å logge inn på www.digipost.no og endre dette under personlige innstillinger.
+Nødvendige personlige opplysninger som Digipost har om Brukeren skal til enhver tid være oppdatert. Brukeren skal selv varsle om endring av e-postadresse, kredittkortinformasjon og andre forhold av betydning for bruk av Digipost ved å logge inn på www.digipost.no og endre dette under personlige profil.
 
 Dersom Brukeren oppdager feil, mangler, uregelmessigheter eller annet som kan være av betydning for Posten som leverandør av Digipost, skal Brukeren varsle Posten om dette.
 
@@ -72,7 +87,7 @@ Brukeren må for å kunne benytte Digipost for utsendelse av fakturaer og marked
 
 Brukeren gir tillatelse til at alle potensielle avsendere, inkludert offentlige myndigheter, virksomheter, organisasjoner og privatpersoner, kan benytte Digipost for kommunikasjon med Brukeren. Når Brukeren er registrert, kan alle avsendere sende Brukeren digital post, blant annet fakturaer, helsepapirer, forsikringsavtaler, innkallinger og brev fra offentlige etater, uavhengig av tidligere samtykker til elektronisk kommunikasjon. Avsendere kan velge å kun sende Brukeren brev i Digipost. Dette betyr i så fall at Brukeren ikke mottar brevene i sin fysiske postkasse/postboks. Brukeren er innforstått med og aksepterer at avsenders bruk av Digipost erstatter tilsvarende kommunikasjon via ordinær post til Brukerens fysiske postkasse/postboks.
 
-Brukeren vil motta varsel (per e-post/SMS/push, avhengig av hva som tilbys av Digipost) om Meddelelser mottatt i Kundens Digipost-postkasse. Brukeren kan endre innstillinger for mottak av slike varsler i sin personlige profil. Brukeren er under enhver omstendighet selv ansvarlig for å ha løpende oversikt over nye Meddelelser som mottas i Digipost. Brukere av tjenesten «Elektronisk Kvittering» vil ikke bli varslet ved mottak av kvitteringer.
+Brukeren vil motta varsel (per e-post/SMS/push, avhengig av hva som tilbys av Digipost) om Meddelelser mottatt i Kundens Digipost-postkasse. Brukeren kan endre innstillinger for mottak av slike varsler i sin personlige profil. Brukeren er under enhver omstendighet selv ansvarlig for å ha løpende oversikt over nye Meddelelser som mottas i Digipost.
 
 Brukeren har mulighet til å arkivere Meddelelser i Digipost. Meddelelser som Brukeren sletter i Digipost vil være utilgjengelige for Brukeren umiddelbart etter at Brukeren har bekreftet at Meddelelsen skal slettes.
 
@@ -141,7 +156,7 @@ Posten er imidlertid under enhver omstendighet ikke ansvarlig for at Meddelelser
 
 Postens samlede erstatningsansvar overfor Brukeren er under enhver omstendighet begrenset til et beløp tilsvarende prisen for den leverte tjeneste, dog maksimalt kr 30 000,- for hvert skadetilfelle/hver ansvarsutløsende begivenhet. Dette gjelder ikke dersom Brukerens tap skyldes forsett fra Postens side. Beror Brukerens direkte tap på kontraktsmedhjelpere som Posten har engasjert for å utføre ytelsen overfor Brukeren, er Posten ansvarlig bare om også disse kontraktsmedhjelperne ville være ansvarlige etter ovennevnte på samme måte som Posten ville vært.
 
-Digipost gir Brukeren mulighet til å overføre data fra mottatte fakturaer i Digipost til Brukerens nettbank for behandling der. Brukeren er selv ansvarlig for behandlingen av fakturaer i nettbanken og at korrekt konto blir belastet til riktig tid.
+Brukeren er selv ansvarlig for behandlingen av fakturaer som mottas i Digipost.
 
 ### **9.5** Heving
 
@@ -207,4 +222,4 @@ Dersom Brukeren dør, vil Brukerens Digipost-konto og lagrede data slettes 12 m�
 
 Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom Posten og Brukeren skal søkes løst i minnelighet. Dersom det ikke lar seg gjøre, kan hver av partene bringe tvisten inn for de ordinære domstoler i samsvar med tvistelovens regler vedrørende verneting.
 
-Sist oppdatert 18. august 2022
+Sist oppdatert 13. januar 2025
