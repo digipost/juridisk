@@ -54,7 +54,11 @@ Mens du har en aktiv konto hos oss behandler vi opplysninger for å kunne gjenno
 
 Opplysninger ut over dette behandles kun dersom du har gitt samtykke til dette. Du kan til enhver tid trekke tilbake ditt samtykke. Dette kan du selv administrere ved å gå til "Dine samtykker og apper" i innstillingene. 
 
+Dersom du samtykker til å være synlig ved søk for andre privatpersoner, vil ditt navn, postnummer og –sted, samt tre siste siffer av telefonnummeret, være synlig for andre privatpersoner som søker på ditt navn. Du kan når som helst trekke samtykket ved å endre innstillinger for post fra privatpersoner. 
+
 Digipost bruker Postens adresseregister for å motta oppdateringer fra folkeregisteret og gjennom dette sikre at Digiposts opplysninger til enhver tid er oppdaterte i forhold til vårt behandlingsgrunnlag. For å sikre korrekte og oppdaterte opplysninger vil ditt fødsels- eller D-nummer registreres i Postens adresseregister når du registrerer deg i Digipost, dersom dette ikke er registrert her fra før.
+
+Hvis du endrer navn i Folkeregisteret vil du automatisk få generert ny Digipost-adresse som gjenspeiler ditt nye navn. 
 
 ### 3.4 Hvor lenge opplysningene oppbevares (sletteregler)
 
@@ -113,7 +117,7 @@ Posten har som mål at Digipost skal være den sikreste digitale postkassen i No
 Digipost gjennomfører jevnlige risikovurderinger og sikkerhetstester av løsningene og er i god dialog med myndigheter og andre sikkerhetsmiljøer for å følge de beste standarder. 
 
 Våre viktigste sikkerhetstiltak er:
--	Autentiseringsløsning på sikkerhetsnivå 4.
+-	Autentiseringsløsning på høyeste sikkerhetsnivå (nivå 4).
 -	All informasjonsutveksling skjer med sterk kryptering (SSL, SSH).
 -	Sensitiv informasjon kan meldingskrypteres ende-til-ende med kvalifiserte sertifikater.
 -	Alle handlinger som utføres av driftspersonell logges i egne hendelseslogger.
