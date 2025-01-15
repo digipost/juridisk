@@ -1,3 +1,13 @@
+ # Sammendrag av avtalevilkårene for bruk av Digipost for bedrifter
+- Om bruk av tjenestene: Digipost er en tjeneste fra Posten Bring AS som tilbyr bedrifter muligheten til å sende, motta, signere og arkivere elektroniske meldinger. For å få tilgang må bedriften oppgi foretaksnavn, adresse, organisasjonsnummer og kontaktpersonens navn og fødselsnummer.
+- Pris- og faktureringsbestemmelser: Prisene for tjenestene er oppgitt i norske kroner og fremgår av gjeldende prisliste. Betaling skjer elektronisk ved bestilling, med mindre annet er avtalt.
+- Tjenestenivå: Målet er at tjenestene skal være tilgjengelige 24/7. Posten kan midlertidig innstille tjenestene ved tekniske feil, vedlikehold eller oppgraderinger, og vil varsle kunden i rimelig tid før planlagt nedetid.
+- Kundens bruk av tjenestene: Kunden skal bruke tjenestene i samsvar med vilkårene og er ansvarlig for å beskytte sin påloggingsinformasjon. Utsendelse av Meddelelser som inneholder markedsføring skal skje i samsvar med markedsføringsloven.
+- Personvern: Personopplysninger behandles i samsvar med gjeldende personvernlovgivning. Ved aksept av vilkårene gir kunden samtykke til slik behandling. Posten vil være databehandler for kunden og avtalen regulerer dette.
+- Endring av vilkår: Posten kan endre vilkårene ved å informere kunden i rimelig tid før endringene trer i kraft. Vesentlige endringer krever kundens aksept for fortsatt bruk av tjenestene.
+- 
+Se fullstendige vilkår under.
+
 # Avtalevilkår for bedrifter
 
 Nedenfor følger avtalevilkår for bruk av Digipost, Posten signering og øvrige tilhørende formidlingstjenester («Tjenestene») for bedrifter, organisasjoner, mv. Tjenestene er levert av Posten Bring AS («Posten») med org. nr. 984 661 185. Dersom foretaket som skal anvende Tjenestene («Kunden») har spørsmål til Vilkårene, må Kunden kontakte Posten på e-post salg@digipost.no og avvente Postens svar før vilkårene aksepteres og Tjenestene tas i bruk.
