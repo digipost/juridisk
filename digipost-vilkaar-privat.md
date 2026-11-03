@@ -2,7 +2,7 @@
 
 Om Digipost: Digipost er en tjeneste fra Posten Bring AS som lar brukere sende, motta, signere og arkivere elektroniske meldinger. Ved registrering samles inn brukerens navn, fødselsnummer, adresse, e-postadresse og mobilnummer. Brukeren må være minst 15 år gammel. 
 
-Pris og fakturering: Det er gratis å opprette en Digipost-konto, samt å motta og lagre brev og dokumenter. Brukeren får en viss mengde gratis lagringsplass og kan sende et begrenset antall brev gratis per måned. 
+Pris og fakturering: Det er gratis å opprette en Digipost-konto, samt å motta og lagre brev og dokumenter. Brukeren får en viss mengde gratis lagringsplass og kan sende et begrenset antall brev gratis per måned. Enkelte tjenester, som å sende en signeringsforespørsel, er betalingspliktige.
 
 Tjenestenivå: Målet er at Digipost skal være tilgjengelig 24/7. Tjenesten kan bli midlertidig utilgjengelig ved tekniske feil, vedlikehold eller oppgraderinger. 
 
@@ -104,15 +104,13 @@ Posten er ansvarlig for utføring av de oppdrag som Brukeren iverksetter i henho
 
 Postens ansvar omfatter ikke feil, mangler eller driftsforstyrrelser knyttet til utstyr, programvare, tilgang til eller overføring over Internett eller Brukerens valgte autentiseringsløsning (ID-porten eller annet tilsvarende sikkerhetsinstrument godkjent av Posten).
 
-Posten overvåker ikke innholdet i Meddelelser som sendes til, mottas eller arkiveres i Digipost-postkassen, og er således ikke ansvarlig for Meddelelsenes innhold og form, samt innhold i eventuelle lenker.
-
 Dersom Posten blir kjent med at Meddelelser i Digipost er feilsendt, eller er i strid med lov, forskrift eller myndighetsavgjørelse eller på annet vis etter Postens vurdering innebærer misbruk av Digipost, kan Posten trekke disse tilbake. Nevnte gjelder også Meddelelser som allerede er levert til Brukerens Digipost-postkasse. Posten vil informere Brukeren dersom slik tilbaketrekking finner sted.
 
 Posten har anledning til å sende Meddelelser til Brukeren vedrørende nye muligheter, driftsinformasjon og annen informasjon knyttet til Digipost.
 
 ## **6** ENDRINGER
 
-Posten kan endre Vilkårene, herunder priser, med én måneds skriftlig varsel til Brukeren. Varsel sendes til den e-postadresse Brukeren har oppgitt ved registrering og/eller til Brukerens Digipost-postkasse. Tilsvarende gjelder dersom Posten foretar vesentlige innskrenkinger i Digipost sitt bruksområde. Endringer kan likevel gjennomføres uten forutgående varsel dersom endringen etter Postens oppfatning er til Brukerens fordel, eller er av mindre betydning. Posten skal likevel informere Brukeren om endringen gjennom melding til Brukerens registrerte e-postadresse, Digipost-postkasse og/eller i forbindelse med Brukerens neste pålogging til Digipost, med mindre endringen åpenbart er uvesentlig.
+Posten kan endre Vilkårene med én måneds skriftlig varsel til Brukeren. Varsel sendes til den e-postadresse Brukeren har oppgitt ved registrering og/eller til Brukerens Digipost-postkasse. Tilsvarende gjelder dersom Posten foretar vesentlige innskrenkinger i Digipost sitt bruksområde. Endringer kan likevel gjennomføres uten forutgående varsel dersom endringen etter Postens oppfatning er til Brukerens fordel, eller er av mindre betydning. Posten skal likevel informere Brukeren om endringen gjennom melding til Brukerens registrerte e-postadresse, Digipost-postkasse og/eller i forbindelse med Brukerens neste pålogging til Digipost, med mindre endringen åpenbart er uvesentlig.
 
 Dersom bruksområdet i Digipost utvides med nye funksjoner, kan Brukeren bli nødt til å bekrefte disse særskilt. Informasjon om nye funksjoner vil løpende oppdateres på www.digipost.no og/eller gjennom utsendelse av melding til Brukerens Digipost-postkasse.
 
@@ -222,4 +220,36 @@ Dersom Brukeren dør, vil Brukerens Digipost-konto og lagrede data slettes 12 m�
 
 Kontrakten er underlagt og skal tolkes i samsvar med norsk rett. Tvister mellom Posten og Brukeren skal søkes løst i minnelighet. Dersom det ikke lar seg gjøre, kan hver av partene bringe tvisten inn for de ordinære domstoler i samsvar med tvistelovens regler vedrørende verneting.
 
-Sist oppdatert 13. januar 2025
+## **17** SIGNERING I DIGIPOST
+
+### **17.1** Om signering i Digipost
+
+Tjenesten består i at Posten, på Brukerens bestilling, sender en signeringsforespørsel til de mottakerne Brukeren har valgt. Mottakerne må være brukere av Digipost. Tjenesten er gjennomført når signeringsforespørselen er sendt.
+
+Mottakerne kan deretter signere dokumentet med elektronisk ID godkjent av Posten. Hvilke elektroniske ID-er som kan benyttes, kan endre seg. Dersom mottakerne signerer, gjøres det signerte dokumentet tilgjengelig for partene i Digipost og behandles deretter som andre Meddelelser. Posten kan ikke påvirke om mottakerne velger å signere, og signeringen og tilgjengeliggjøringen inngår derfor ikke i den betalingspliktige tjenesten.
+
+### **17.2** Ansvar for signeringsforespørsel og innhold
+
+Brukeren som sender en signeringsforespørsel, er ansvarlig for at den sendes til riktig mottaker. Posten har ikke ansvar for at mottakeren signerer. Posten er ikke ansvarlig for eller på noen måte forpliktet av innholdet i dokumentet som sendes til signering.
+
+### **17.3** Maler fra tredjeparter
+
+Posten har ikke ansvar for maler fra tredjeparter som det henvises eller lenkes til i tjenesten. Eventuelle spørsmål om malene rettes til tilbyderen av den enkelte mal.
+
+### **17.4** Pris og betaling
+
+Prisen for tjenesten vises før kjøpet bekreftes, og betales med en av betalingsmåtene som tilbys i tjenesten. Prisen gjelder per mottaker signeringsforespørselen sendes til.
+
+Betalingen gjelder utsendingen av signeringsforespørselen. Den refunderes derfor ikke dersom en eller flere mottakere velger å ikke signere, eller dersom signeringsfristen løper ut, med mindre annet følger av vilkårene under punkt 9.
+
+Dersom signeringsforespørselen ikke blir sendt, refunderes betalingen i sin helhet.
+
+### **17.5** Angrerett og reklamasjon
+
+Brukere som er privatpersoner og som primært bruker tjenesten utenom næringsvirksomhet (forbrukere), har angrerett etter angrerettloven. Fristen for å benytte angreretten er 14 dager fra bekreftet kjøp. For å benytte angreretten må det sendes en erklæring innen fristens utløp, for eksempel ved bruk av følgende skjema: [lenke til angreskjema].
+
+Ved å bekrefte kjøpet samtykker Brukeren uttrykkelig til at utsendingen av signeringsforespørselen starter umiddelbart, og erkjenner at angreretten faller bort når Posten har oppfylt sine forpliktelser etter avtalen, det vil si når signeringsforespørselen er sendt, jf. angrerettloven § 22 bokstav c.
+
+Reklamasjon skjer etter Vilkårene punkt 9.
+
+Sist oppdatert 3. november 2026.
