@@ -2,7 +2,7 @@
 
 About Digipost: Digipost is a service from Posten Bring AS that allows users to send, receive, sign, and archive electronic messages. Upon registration, the user's name, national identification number, address, email address, and mobile number are collected. The user must be at least 15 years old. 
 
-Pricing and  invoicing:  It is free to create a Digipost account, as well as to receive and store letters and documents. The user is given a certain amount of free storage space and can send a limited number of letters for free per month. 
+Pricing and  invoicing:  It is free to create a Digipost account, as well as to receive and store letters and documents. The user is given a certain amount of free storage space and can send a limited number of letters for free per month. Certain services, such as sending a signing request, are subject to a charge.
 
 Service Level: The goal is for Digipost to be available 24/7. The service may be temporarily unavailable due to technical issues, maintenance, or upgrades. 
 
@@ -212,10 +212,6 @@ equipment, software, access to or transmission via the Internet or the User’s
 selected authentication solution (BankID issued by any bank in Norway, or any
 other corresponding security instrument approved by Posten Bring).
 
-Posten Bring does not monitor the content of messages that are sent to,
-received or archived in the Digipost mailbox, and is thus not responsible for
-the content and form of the messages, as well as the content of any links.
-
 If Posten Bring becomes aware that messages in Digipost have been sent
 incorrectly or are contrary to legislation, regulations or official decisions,
 or otherwise involve abuse of Digipost in the opinion of Posten Bring, Norway
@@ -229,7 +225,7 @@ Digipost.
 
 ## **6** CHANGES
 
-Posten Bring may change the Terms, including prices, with one month’s written
+Posten Bring may change the Terms with one month’s written
 notice to the User. Notification will be sent to the email address provided by
 the User, or to the User’s Digipost mailbox. The same applies if Posten Bring
 makes significant restrictions in Digipost’s area of use. Changes may
@@ -491,4 +487,36 @@ User amicably. If this is not possible, either party may bring the dispute
 before the ordinary courts in accordance with the rules of the Disputes Act
 regarding venue.
 
-Last updated August 18, 2022
+## **17** SIGNING IN DIGIPOST
+
+### **17.1** About signing in Digipost
+
+The service consists of Norway Post sending, at the User’s request, a signing request to the recipients the User has selected. The recipients must be users of Digipost. The service is performed once the signing request has been sent.
+
+The recipients may then sign the document using an electronic ID approved by Norway Post. Which electronic IDs may be used is subject to change. If the recipients sign, the signed document is made available to the parties in Digipost and is thereafter treated as other Messages. Norway Post cannot influence whether the recipients choose to sign, and the signing and the making available of the document therefore do not form part of the chargeable service.
+
+### **17.2** Liability for signing requests and content
+
+The User who sends a signing request is responsible for ensuring that it is sent to the correct recipient. Norway Post is not responsible for whether the recipient signs. Norway Post is not responsible for, nor in any way bound by, the content of the document sent for signing.
+
+### **17.3** Templates from third parties
+
+Norway Post is not responsible for templates from third parties that are referred or linked to in the service. Any questions concerning the templates must be directed to the provider of the individual template.
+
+### **17.4** Price and payment
+
+The price of the service is displayed before the purchase is confirmed, and is paid using one of the payment methods offered in the service. The price applies per recipient the signing request is sent to.
+
+The payment covers the sending of the signing request. It is therefore not refunded if one or more recipients choose not to sign, or if the signing deadline expires, unless otherwise follows from the Terms under section 9.
+
+If the signing request is not sent, the payment is refunded in full.
+
+### **17.5** Right of withdrawal and complaints
+
+Users who are private individuals and who primarily use the service outside of business activity (consumers) have a right of withdrawal under the Norwegian Right of Withdrawal Act. The deadline for exercising the right of withdrawal is 14 days from confirmed purchase. To exercise the right of withdrawal, a declaration must be sent before the deadline expires, for example by using the following form: [link to withdrawal form].
+
+By confirming the purchase, the User expressly consents to the sending of the signing request commencing immediately, and acknowledges that the right of withdrawal lapses once Norway Post has fulfilled its obligations under the agreement, that is, once the signing request has been sent, cf. section 22(c) of the Norwegian Right of Withdrawal Act.
+
+Complaints are handled in accordance with section 9 of the Terms.
+
+Last updated November 3rd, 2026.
